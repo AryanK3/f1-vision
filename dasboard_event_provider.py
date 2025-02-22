@@ -44,3 +44,13 @@ print(json.dumps(final_list, indent=2))
 
 # with open('final_positions.json', 'w') as file:
 #     json.dump(final_list, file)
+
+
+
+
+
+
+# Weather data
+# Section Data
+# Last Lap Duration
+# How much time from driver in front
