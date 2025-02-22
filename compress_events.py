@@ -1,19 +1,20 @@
 import json
 
-# Load data from a file
-file_path = 'events_data.json'
-
-with open(file_path, 'r') as file:
+with open('car_data.json', 'r') as file:
     data = json.load(file)
 
-# Convert each item into an array without keys, and round time values
-processed_data = [
-    [entry['type'], round(entry['time'], 3), entry['message']] for entry in data
-]
+transformed_data = []
 
-# Print or save the processed data
-print(processed_data)
+for driver_number, driver_positions in data.items():
+    positions = []
+    for entry in driver_positions:
+        # Append only the values (not the keys)
+        positions.append(list(entry.values()))
 
-# Optionally save the result to a new file
-with open('event_data.json', 'w') as outfile:
-    json.dump(processed_data, outfile)
+    driver_entry = {"id": int(driver_number), "positions": positions}
+    transformed_data.append(driver_entry)
+
+# Save the transformed data to a new file
+with open('car_dataa.json', 'w') as output_file:
+    json.dump(transformed_data, output_file)
+

@@ -1,26 +1,38 @@
+import requests
 import json
 
-# Load the JSON data from a file
-with open('name_dataa.json', 'r') as file:
-    data = json.load(file)
+url = "https://api.openf1.org/v1/pit"
 
-# Initialize an empty list to store the arrays
-result = []
+driver_numbers = [81, 1, 11,  16, 63, 55, 14, 4, 44, 27, 22, 18, 23, 3, 20, 77, 24, 2, 31, 10]
 
-# Iterate over the values in the data
-for key, value in data.items():
-    for item in value:
-        result.append([
-            key,
-            item["full_name"],
-            item["country_code"],
-            item["team_name"],
-            item["headshot_path"]
-        ])
+params = { 
+    "session_key": 9472,
+    "date>": "2024-03-02T15:03:42+00:00",   
+    "date<": "2024-03-02T17:00:00.000", 
+}
 
-# Optionally, print the result
-print(result)
+driver_data_dict = {}
 
-# If you want to write the result to a new file
-with open('name_data.json', 'w') as outfile:
-    json.dump(result, outfile)
+for driver_number in driver_numbers:
+    params["driver_number"] = driver_number
+    response = requests.get(url, params=params)
+    
+    if response.status_code == 200:
+        driver_data = response.json()
+        
+        if driver_data:
+            driver_data_dict[driver_number] = []
+            for entry in driver_data:
+                driver_data_dict[driver_number].append({
+                    "full_name": entry["full_name"],
+                    "country_code": entry["country_code"],
+                    "headshot_url": entry["headshot_url"],
+                    "team_name": entry["team_name"]
+                })
+        print(f"Data fetched for driver {driver_number}")
+
+    else:
+        print(f"Error fetching data for driver number {driver_number}: {response.status_code}")
+
+with open('name_dataa.json', 'w') as file:
+    json.dump(driver_data_dict, file, indent=4)
