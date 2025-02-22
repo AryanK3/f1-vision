@@ -15,3 +15,4 @@ for key, value in original_data.items():
 with open('pit_data.json', 'w') as outfile:
     json.dump(result, outfile)
 
+print("Data transformation complete. Output saved to 'transformed_data.json'.")
