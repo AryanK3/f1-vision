@@ -1,11 +1,27 @@
 import json
 
-with open('rel_driver_data.json', 'r') as file:
+# Read data from the file
+with open('rel_rc_data.json', 'r') as file:
     data = json.load(file)
 
-compressed_data = {}
-for key, value in data.items():
-    compressed_data[key] = [list(entry.values()) for entry in value]
+# Function to compress the data
+def compress_data(data):
+    compressed_data = []
+    
+    for entry in data:
+        compressed_entry = {
+            "category": entry["category"],
+            "message": entry["message"],
+            "rel_time": entry["rel_time"]
+        }
+        compressed_data.append(compressed_entry)
+    
+    return compressed_data
 
-with open('compressed_lap_data.json', 'w') as file:
+# Compress the data
+compressed_data = compress_data(data)
+
+# Write the compressed data back to a file
+with open('compressed_output_file.json', 'w') as file:
     json.dump(compressed_data, file)
+

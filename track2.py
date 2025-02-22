@@ -3,7 +3,7 @@ from datetime import datetime
 from dateutil import parser
 
 # Load data from a file (assuming it's in JSON format)
-with open('rel_driver_data.json', 'r') as file:
+with open('rel_lap_data.json', 'r') as file:
     data = json.load(file)
 
 # Function to calculate relative start time for each entry
