@@ -1,13 +1,17 @@
-from pprint import pprint
-import matplotlib.pyplot as plt
 import json
 
-def load(filename):
-    with open(filename, 'r') as file:
-        return json.load(file)
+with open('compressed_driver_data.json', 'r') as file:
+    original_data = json.load(file)
 
-for i, j in load("compressed_lap_data.json"):
-    for k in range (len(j)):
-        plt.scatter(j[k][0], j[k][1])
-        plt.pause(j[k][3])
-plt.show()
+result = []
+
+for key, value in original_data.items():
+    result.append({
+        "id": int(key),        
+        "positions": value      
+    })
+
+
+with open('driver_data.json', 'w') as outfile:
+    json.dump(result, outfile)
+
