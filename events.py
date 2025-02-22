@@ -1,5 +1,6 @@
 import json
 import time
+import re
 
 def track():
     race_timer = 0.0
@@ -45,29 +46,6 @@ def track():
                 'message': f"Driver {driver_id} completed lap {lap_number} in {lap_duration:.3f} seconds."
             })
 
-    with open('pit_data.json', 'r') as f:
-        data = json.load(f)
-    for driver_data in data:
-        driver_id = driver_data['id']
-        pits = driver_data['positions']
-
-        for pit in pits:
-            lap_number = pit[0]
-            pit_duration = pit[1]
-            rel_start = pit[2]
-
-            events.append({
-                'type': "Pits",
-                'time': rel_start,
-                'message': f"Driver {driver_id} pits in {lap_number} after {rel_start:.3f} seconds."
-            })
-
-            events.append({
-                'type': "Pits",
-                'time': rel_start + pit_duration,
-                'message': f"Driver {driver_id} exits pit in {lap_number} in {rel_start + pit_duration:.3f} seconds."
-            })
-
     with open('rc_data.json', 'r') as f:
         data = json.load(f)
     for i in range (len(data)):
@@ -111,7 +89,65 @@ def track():
                     'message': f"Driver {overtaken_driver} overtakes Driver {overtaking_driver} to position {pos_1} in {event[1]:.3f} seconds."
                 })
 
+    with open('radio_data.json', 'r') as infile:
+        data = json.load(infile)
+    
+    for item in data:
+        url = item[2] 
+        code = re.search(r'([^/]+)(?=\.mp3)', url)
+        if (item[1] > 0):
+            events.append({
+                'type': "Radio",
+                'time': item[1],
+                'message': f"Driver {item[0]}: {code.group(0)}"
+            })
+
     events.sort(key=lambda event: event['time'])
+
+    with open('tyre_data.json', 'r') as f:
+        tyre_data = json.load(f)
+    with open('pit_data.json', 'r') as f:
+        pit_data = json.load(f)
+
+    for driver_data in pit_data:
+        driver_id = driver_data['id']
+        pits = driver_data['positions']
+
+        for pit in pits:
+            lap_number = pit[0]  
+            pit_duration = pit[1]  
+            rel_start = pit[2]  
+
+            driver_tyre_info = next(
+                (item for item in tyre_data if item['driver_number'] == driver_id and item['lap_end'] == lap_number),
+                None
+            )
+
+            if driver_tyre_info:
+                tyre_type = driver_tyre_info['compound']  
+
+            events.append({
+                'type': "Pits",
+                'time': rel_start,
+                'message': f"Driver {driver_id} (Tyre: {tyre_type}) enters pit in lap {lap_number} at {rel_start:.3f} seconds."
+            })
+
+            next_tyre_info = next(
+                (item for item in tyre_data if item['driver_number'] == driver_id and item['lap_start'] > lap_number),
+                None
+            )
+
+            if next_tyre_info:
+                next_tyre_type = next_tyre_info['compound']
+            else:
+                next_tyre_type = tyre_type 
+
+            events.append({
+                'type': "Pits",
+                'time': rel_start + pit_duration,
+                'message': f"Driver {driver_id} (Tyre: {next_tyre_type}) exits pit in lap {lap_number} at {rel_start + pit_duration:.3f} seconds."
+            })
+
 
     with open('events_data.json', 'w') as file:
         json.dump(events, file)
