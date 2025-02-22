@@ -3,7 +3,7 @@ import json
 from dateutil import parser
 
 # Define the URL for the API
-url = "https://api.openf1.org/v1/race_control"
+url = "https://api.openf1.org/v1/team_radio"
 
 # Set the parameters for the request
 params = { 
@@ -23,18 +23,16 @@ if response.status_code == 200:
     # Check if the response contains data
     if driver_data:
         for entry in driver_data:
-            # Add filtered data to the list
-            filtered_data.append({
-                "date": entry["date"],
-                "lap_number": entry["lap_number"],
-                "category": entry["category"],
-                "message": entry["message"],
-                "rel_time":  (parser.isoparse(entry["date"]) - parser.isoparse("2024-03-02T15:03:42+00:00")).total_seconds()
-            })
+            driver_num = entry['driver_number']
+            rel_time = (parser.isoparse(entry['date']) - parser.isoparse("2024-03-02T15:03:42+00:00")).total_seconds()
+            link = entry['recording_url']
+            filtered_data.append([driver_num, rel_time, link])
+
+
 else:
     print(f"Error fetching data: {response.status_code}")
 
-with open('rel_racecontrol_data.json', 'w') as file:
-    json.dump(filtered_data, file, indent=4)
+with open('radio_data.json', 'w') as file:
+    json.dump(filtered_data, file)
 
-print("Data saved to racecontrol_data.json")
+
