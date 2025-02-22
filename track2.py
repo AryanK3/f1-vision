@@ -1,14 +1,12 @@
 import json
 import time
 
-# Load the data from the new JSON file
-with open('lap_data.json', 'r') as f:
-    data = json.load(f)
-
-def track_lap_and_sector(data):
+def track():
     race_timer = 0.0
     events = []
 
+    with open('lap_data.json', 'r') as f:
+        data = json.load(f)
     for driver_data in data:
         driver_id = driver_data['id']
         laps = driver_data['positions']
@@ -22,21 +20,19 @@ def track_lap_and_sector(data):
             rel_start = lap[5]
 
             events.append({
-                'time': sector_1_duration,
+                'time': rel_start + sector_1_duration,
                 'message': f"Driver {driver_id} completed sector 1 of lap {lap_number} in {sector_1_duration:.3f} seconds."
             })
 
-            sector_1_end_time = sector_1_duration
-            sector_2_end_time = sector_1_end_time + sector_2_duration
+
             events.append({
-                'time': sector_2_end_time,
+                'time': rel_start + sector_1_duration + sector_2_duration,
                 'message': f"Driver {driver_id} completed sector 2 of lap {lap_number} in {sector_2_duration:.3f} seconds."
             })
 
-            sector_2_end_time = sector_2_end_time or sector_1_end_time + sector_2_duration
-            sector_3_end_time = sector_2_end_time + sector_3_duration
+
             events.append({
-                'time': sector_3_end_time,
+                'time': rel_start + sector_1_duration + sector_2_duration + sector_3_duration,
                 'message': f"Driver {driver_id} completed sector 3 of lap {lap_number} in {sector_3_duration:.3f} seconds."
             })
 
@@ -45,9 +41,42 @@ def track_lap_and_sector(data):
                 'message': f"Driver {driver_id} completed lap {lap_number} in {lap_duration:.3f} seconds."
             })
 
+    with open('pit_data.json', 'r') as f:
+        data = json.load(f)
+    for driver_data in data:
+        driver_id = driver_data['id']
+        pits = driver_data['positions']
+
+        for pit in pits:
+            lap_number = pit[0]
+            pit_duration = pit[1]
+            rel_start = pit[2]
+
+            events.append({
+                'time': rel_start,
+                'message': f"Driver {driver_id} pits in {lap_number} after {rel_start:.3f} seconds."
+            })
+
+            events.append({
+                'time': rel_start + pit_duration,
+                'message': f"Driver {driver_id} exits pit in {lap_number} in {rel_start + pit_duration:.3f} seconds."
+            })
+
+    with open('rc_data.json', 'r') as f:
+        data = json.load(f)
+    for i in range (len(data)):
+        category = data[i][0]
+        message = data[i][1]
+        rel_time = data[i][2]
+
+        events.append({
+            'time': rel_time,
+            'category': category,
+            'message': message
+        })
+
     events.sort(key=lambda event: event['time'])
 
-    # Simulate the race by printing events based on the race timer
     event_index = 0
     while event_index < len(events):
         event = events[event_index]
@@ -55,10 +84,10 @@ def track_lap_and_sector(data):
         if race_timer < event['time']:
             race_timer = event['time']
 
-        print(f"Time {race_timer:.3f}s: {event['message']}")
+        print(f"Time {event['time']}s: {event['message']}")
 
         event_index += 1
 
         time.sleep(0.1)
 
-track_lap_and_sector(data)
+track()
