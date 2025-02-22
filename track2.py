@@ -14,10 +14,7 @@ def calculate_relative_start(data):
     for driver_id, entries in data.items():
         # Loop through each lap entry
         for entry in entries:
-            if entry["date"] is not None:
-
-                if "rel_time" in entry:
-                    del entry["rel_time"]
+            del entry["date"]
 
     return data
 
@@ -28,5 +25,5 @@ updated_data = calculate_relative_start(data)
 print(json.dumps(updated_data, indent=4))
 
 # Optionally, you can write the updated data back to a file
-with open('rel_driver_data.json', 'w') as file:
+with open('rel_driverr_data.json', 'w') as file:
     json.dump(updated_data, file, indent=4)
