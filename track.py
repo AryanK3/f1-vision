@@ -1,7 +1,7 @@
 import json
 import time
 
-with open('rel_lap_data.json', 'r') as f:
+with open('lap_data.json', 'r') as f:
     data = json.load(f)
 
 def track_lap_and_sector(data):

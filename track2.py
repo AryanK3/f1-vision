@@ -1,29 +1,64 @@
 import json
-from datetime import datetime
-from dateutil import parser
+import time
 
-# Load data from a file (assuming it's in JSON format)
-with open('rel_lap_data.json', 'r') as file:
-    data = json.load(file)
+# Load the data from the new JSON file
+with open('lap_data.json', 'r') as f:
+    data = json.load(f)
 
-# Function to calculate relative start time for each entry
-def calculate_relative_start(data):
-    # Reference time: 15:00:00 on the same day as the first entry
+def track_lap_and_sector(data):
+    race_timer = 0.0
+    events = []
 
-    # Loop through each driver in the data
-    for driver_id, entries in data.items():
-        # Loop through each lap entry
-        for entry in entries:
-            del entry["date"]
+    for driver_data in data:
+        driver_id = driver_data['id']
+        laps = driver_data['positions']
 
-    return data
+        for lap in laps:
+            lap_number = lap[0]
+            sector_1_duration = lap[1]
+            sector_2_duration = lap[2]
+            sector_3_duration = lap[3]
+            lap_duration = lap[4]
+            rel_start = lap[5]
 
-# Calculate relative start times and remove 'rel_time'
-updated_data = calculate_relative_start(data)
+            events.append({
+                'time': sector_1_duration,
+                'message': f"Driver {driver_id} completed sector 1 of lap {lap_number} in {sector_1_duration:.3f} seconds."
+            })
 
-# Print or save the updated data with the relative start time
-print(json.dumps(updated_data, indent=4))
+            sector_1_end_time = sector_1_duration
+            sector_2_end_time = sector_1_end_time + sector_2_duration
+            events.append({
+                'time': sector_2_end_time,
+                'message': f"Driver {driver_id} completed sector 2 of lap {lap_number} in {sector_2_duration:.3f} seconds."
+            })
 
-# Optionally, you can write the updated data back to a file
-with open('rel_driverr_data.json', 'w') as file:
-    json.dump(updated_data, file, indent=4)
+            sector_2_end_time = sector_2_end_time or sector_1_end_time + sector_2_duration
+            sector_3_end_time = sector_2_end_time + sector_3_duration
+            events.append({
+                'time': sector_3_end_time,
+                'message': f"Driver {driver_id} completed sector 3 of lap {lap_number} in {sector_3_duration:.3f} seconds."
+            })
+
+            events.append({
+                'time': lap_duration,
+                'message': f"Driver {driver_id} completed lap {lap_number} in {lap_duration:.3f} seconds."
+            })
+
+    events.sort(key=lambda event: event['time'])
+
+    # Simulate the race by printing events based on the race timer
+    event_index = 0
+    while event_index < len(events):
+        event = events[event_index]
+
+        if race_timer < event['time']:
+            race_timer = event['time']
+
+        print(f"Time {race_timer:.3f}s: {event['message']}")
+
+        event_index += 1
+
+        time.sleep(0.1)
+
+track_lap_and_sector(data)
