@@ -1,0 +1,1826 @@
+[
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 34.238,
+            "description": "Driver 11 overtakes Driver 55 to position 4 in 34.238 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! SERGIO P\u00c9REZ WITH A MASTERCLASS MOVE ON CARLOS SAINZ! THE MEXICAN DRIVER HAS BEEN LURKING IN THE SHADOWS WAITING FOR THE PERFECT MOMENT TO STRIKE, AND NOW HE'S DONE IT! P\u00c9REZ TAKES THE INSIDE LINE AROUND THE TURN, GETS A BETTER EXIT, AND BEFORE SAINZ CAN EVEN REACT, HE'S THROUGH! THE CHECO FANS ARE GOING WILD HERE AT THE CIRCUIT!\n\nAND LOOK AT THAT TIME, 34.238 SECONDS, A BLISTERING LAP FROM P\u00c9REZ! HE'S NOW UP INTO P4, AND YOU'VE GOT TO WONDER IF HE CAN CATCH THE TOP THREE NOW. THIS OVERTAKE IS A GAME-CHANGER, FOL"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 35.985,
+            "description": "Driver 55 overtakes Driver 22 to position 5 in 35.985 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! CARLOS SAINZ MAKES THE PASS ON YUKI TSUNODA! THE FERRARI DRIVER SLIPS UP THE INSIDE OF THE ALPHA TAURI AND TAKES THE FIFTH SPOT!\n\nThat was a beautifully executed maneuver, folks! Sainz was all over the back of Tsunoda's gearbox, waiting for the perfect moment to strike. And when the chance came, he took it! A clean and clinical overtake, and the Spanish driver now finds himself in fifth place with a lap time of 35.985 seconds!\n\nTsunoda is left to rue what could have been, but you can't deny Sainz's pace and determination. He's been pushing hard all race, and this move could be the making of his afternoon. The Ferrari garage will be thrilled with that one, and Sainz will"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 35.985,
+            "description": "Driver 22 overtakes Driver 27 to position 10 in 35.985 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Yuki Tsunoda, the Japanese rookie, makes his way past Nico H\u00fclkenberg at Turn 12! That's a beautifully executed pass, folks! Tsunoda's been closing in on the Haas for a few laps now, and he's finally made it stick! \n\nThe timing screens show it's taken him 35.985 seconds to complete the overtake, and that's a mighty impressive effort from the AlphaTauri driver! He's now up into 10th place, and you can bet he's got his sights set on the top 9! \n\nMeanwhile, H\u00fclkenberg is going to be a bit disappointed to have lost that position, but Tsunoda's pace has been looking strong all race. Can the Japanese youngster keep his momentum going and bring home some valuable points for AlphaTauri? The"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 36.152,
+            "description": "Driver 27 overtakes Driver 18 to position 11 in 36.152 seconds."
+        },
+        "commentary": "\"AND HERE COMES H\u00dcLKENBERG! THE GERMAN DRIVER MAKES HIS MOVE ON STROLL! HE'S BEEN LURKING IN THE WINGS, WAITING FOR THE PERFECT MOMENT TO STRIKE! AND WHAT A MOVE IT IS! H\u00dcLKENBERG GETS A BETTER EXIT OUT OF THE PREVIOUS TURN AND IS RIGHT ON THE HEELS OF STROLL INTO THE NEXT CORNER. HE SEES HIS CHANCE AND takes the opportunity to pass the Canadian driver on the inside! Stroll tries to defend, but H\u00fclkenberg is too quick and takes the position! THE GERMAN DRIVER MOVES UP TO 11TH PLACE WITH THAT OVERTAKE, AND IT TOOK HIM JUST 36.152 SECONDS TO GET THE JOB DONE! WHAT A FANTASTIC PIECE OF DRIVING BY H\u00dcLKENBER"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 36.152,
+            "description": "Driver 23 overtakes Driver 27 to position 11 in 36.152 seconds."
+        },
+        "commentary": "\"AND HE'S THROUGH! Alex Albon makes a fantastic move on Nico H\u00fclkenberg! The Thai driver has been lurking in the shadows, waiting for the perfect opportunity to strike, and he's taken it with both hands! He's gone up the inside of H\u00fclkenberg at Turn 12, and the German couldn't defend against the pace of the Williams! Albon's got the momentum now, and he's got the spot! He's up to 11th place, and he's done it in a blistering 36.152 seconds! The crowd is on their feet here, folks, as Albon continues to push for another strong points finish!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 36.507,
+            "description": "Driver 27 overtakes Driver 3 to position 12 in 36.507 seconds."
+        },
+        "commentary": "\"AND HE'S THROUGH! Nico H\u00fclkenberg has pulled off a brilliant pass on Daniel Ricciardo! The German driver has been lurking behind the Aussie for a few laps, waiting for the perfect opportunity to strike, and he's taken it with both hands! That was a beautifully executed move, folks!\n\nRicciardo was struggling to get the grip he needed on the exit of turn 12, and H\u00fclkenberg saw his chance. He dove down the inside, getting his tires just inside the white line, and suddenly he was alongside! Ricciardo didn't stand a chance, and H\u00fclkenberg takes the spot, moving up to 12th place in the process!\n\nThe timing of that pass was perfect, too - 36.507 seconds is all it took for H\u00fclkenberg to make the move stick. The gap was tiny, but he judged"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 36.507,
+            "description": "Driver 20 overtakes Driver 27 to position 12 in 36.507 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Kevin Magnussen makes the move on Nico H\u00fclkenberg! The Haas driver seizes the opportunity and takes the initiative, slipping past the Aston Martin into 12th place! That was a beautifully executed overtake, folks! The lap time, 36.507 seconds, and Magnussen is now ahead of H\u00fclkenberg! The Dane is really pushing hard to make up ground, and that was a crucial pass to get himself back into the mix. H\u00fclkenberg was struggling to hold on, and Magnussen pounced, taking advantage of the German's lack of pace. That's the kind of aggressive driving we've come to expect from the Haas driver! The crowd is on their feet here, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 37.616,
+            "description": "Driver 27 overtakes Driver 3 to position 13 in 37.616 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Nico H\u00fclkenberg, the experienced German driver, sees an opportunity and takes it! He's been lurking behind Daniel Ricciardo for a few laps now, and finally, he makes his move! Down the inside, he goes, at turn 7, and he's through! H\u00fclkenberg takes 13th place from the Honey Badger, and what a crucial pass that is! He's now got the bit between his teeth, and he'll be looking to make more progress up the order. That pass took just 37.616 seconds, nice work from Nico! The crowd is loving it, and his team will be thrilled with that bold overtaking maneuver!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 37.616,
+            "description": "Driver 24 overtakes Driver 27 to position 13 in 37.616 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! ZHOU GUANYU MAKES THE PASS! The Chinese driver has been lurking behind Nico H\u00fclkenberg for a few laps now, and he's finally made the move! He's got the inside line, and he's managed to pip the Haas driver to the spot! That's a beautifully executed overtaking maneuver, folks! He's taken 13th place away from H\u00fclkenberg, and he's done it in a blistering 37.616 seconds! The Alfa Romeo's pace is really starting to shine through now. Can Zhou continue to make up ground and get himself into the points-paying positions?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 37.616,
+            "description": "Driver 27 overtakes Driver 77 to position 14 in 37.616 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Nico H\u00fclkenberg makes the pass on Valtteri Bottas! The German driver has been stalking the Finn for laps, waiting for the perfect opportunity to strike, and STRIKE HE HAS! He's gone down the inside of Bottas into Turn 3, and now he's up to 14th place! The move took just 37.616 seconds, and what a beauty it was! H\u00fclkenberg's got the bit between his teeth now, he's got the pace and the confidence to keep pushing forward! Bottas, on the other hand, is going to have to regroup and try to find a way to get back past the Renault driver. The battle for the midfield is heating up, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 38.677,
+            "description": "Driver 3 overtakes Driver 18 to position 14 in 38.677 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! Daniel Ricciardo, the Honey Badger, is on the move! He's been sizing up Lance Stroll's Aston Martin for a few laps, and now he's made his move! Ricciardo takes the inside line, gets the better exit out of the corner, and swoops past Stroll to take 14th place! The McLaren driver's pace is undeniable, folks! He's carving his way through the field and making it look easy! That overtake was executed to perfection, and it only took him 38.677 seconds to get the job done! Stroll didn't put up much of a fight, but you can't fault Ricciardo for taking advantage of the opportunity! The Australian's on a mission, and we love it!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 39.28,
+            "description": "Driver 2 overtakes Driver 18 to position 15 in 39.280 seconds."
+        },
+        "commentary": "\"AND LOOK AT THIS! A MASTERCLASS MOVE BY LOGAN SARGEANT! The American rookie has been hounding Lance Stroll for lap after lap, and finally, he's made the pass stick! Sargeant's got the better run out of Turn 3, and he's got the inside line going into Turn 4. Stroll tries to defend, but Sargeant's got the pace and the precision to make it count! He's through! That's a beautifully executed overtake, folks! The timing, the braking, the acceleration... textbook stuff! Sargeant takes 15th place, and Stroll's left to ponder what could've been. That's how you do it, folks! The kid's got skills!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 39.28,
+            "description": "Driver 27 overtakes Driver 77 to position 16 in 39.280 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE! Nico H\u00fclkenberg, the experienced German driver, has pulled off a stunning overtaking maneuver on Valtteri Bottas! He's gone from 17th to 16th place in just 39.280 seconds, the crowd is on their feet here!\n\nH\u00fclkenberg was closing in on Bottas for a few laps, studying his every move, waiting for the perfect opportunity to strike. And then, he saw his chance! A slight wobble from Bottas into Turn 3, and H\u00fclkenberg was onto it like a shot!\n\nHe's got the faster pace, he's got the confidence, and now he's got the position! H\u00fclkenberg is up to 16th place, and he's looking to make further progress up the order. Meanwhile, Bottas is left to rue what could have been, slipping back"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 39.544,
+            "description": "Driver 31 overtakes Driver 77 to position 16 in 39.544 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Esteban Ocon, the Frenchman, has made the move stick! He's got the better of Valtteri Bottas, and he's muscled his way up to 16th position! The timing screen says it's taken him 39.544 seconds to make the pass, but it's felt like an eternity for the Alfa Romeo driver.\n\nOcon's been stalking Bottas for several laps, waiting for the perfect opportunity to pounce. And when it came, he took it with both hands! A beautifully judged move, using the slipstream to his advantage and then making the pass on the inside of Turn 3.\n\nThat's a huge confidence boost for Ocon, and he'll be looking to build on this momentum as we head into the latter stages of the race. Meanwhile, Bottas will be left ruing a missed"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 39.731,
+            "description": "Driver 10 overtakes Driver 18 to position 17 in 39.731 seconds."
+        },
+        "commentary": "\"And here comes Pierre Gasly, he's been sizing up Lance Stroll for a while now, and he's made his move! Gasly dives down the inside of Stroll into turn 12, and he's got the pace to make it stick! The Frenchman takes the position, moving up to 17th place with a time of 39.731 seconds! That's a beautifully executed overtaking maneuver, Stroll had no answer to Gasly's pace and precision. The AlphaTauri driver is now looking to catch the cars ahead, can he keep this momentum going?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 39.731,
+            "description": "Driver 27 overtakes Driver 77 to position 18 in 39.731 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! Nico H\u00fclkenberg with a fantastic move on Valtteri Bottas! The German driver has been closing in on the Alfa Romeo for the past few laps, and he's finally made it stick! He's taken the outside line, and Bottas couldn't defend against the superior pace of the Haas. H\u00fclkenberg is up to 18th place now, and that took him just 39.731 seconds to complete! \n\nThat's a great bit of driving from H\u00fclkenberg, who's been struggling to make an impact this season. This could be the boost he needs to get his campaign back on track. Meanwhile, Bottas will be disappointed to have lost that position, but he's still got plenty of work to do if he wants to get back into the points.\n\nThe gap between H\u00fclkenberg and the next"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 110.877,
+            "description": "Driver 77 overtakes Driver 18 to position 18 in 110.877 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! Valtteri Bottas, the Finnish flyer, makes his move on Lance Stroll! He's been lurking behind the Canadian for a few laps now, waiting for the perfect opportunity to strike. And strike he does! A beautifully executed pass on the inside, using all the knowledge and experience he's gained over the years to get the job done. Stroll didn't put up much of a fight, but you can't blame him - Bottas was just too quick. The Finn takes 18th place, and he's got the bit between his teeth now. Can he continue to climb the order? 110.877 seconds was the time it took, and what a sweet feeling that must be for Valtteri Bottas and the Mercedes team!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 110.877,
+            "description": "Driver 18 overtakes Driver 27 to position 19 in 110.877 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! LANCE STROLL MAKES HIS MOVE! HE'S BEEN LURKING BEHIND NICO H\u00dcLKENBERG FOR A WHILE NOW, AND HE'S FINALLY FOUND THE OPENING! STROLL GETS A BETTER EXIT OUT OF THE PREVIOUS TURN AND HE'S GOT THE MOMENTUM ON HIS SIDE! HE'S ALONGSIDE H\u00dcLKENBERG, AND NOW HE TAKES THE POSITION! THAT'S A GREAT OVERTAKE BY THE ASTON MARTIN DRIVER, MOVING UP TO 19TH PLACE! THE CROWD IS ON THEIR FEET AS STROLL COMPLETES THE PASS IN A TIME OF 110.877 SECONDS! H\u00dcLKENBERG PUT UP A GOOD FIGHT, BUT IN THE END, STROLL'S FRESH TIRES AND FASTER PACE PROVED TOO"
+    },
+    {
+        "event": {
+            "type": "CarEvent",
+            "timestamp": 116.0,
+            "description": "CAR 18 (STR) SPUN AND CONTINUED AT TURN 1"
+        },
+        "commentary": "\"Oh, incident at Turn 1, folks! Lance Stroll in the Aston Martin has spun around, completely 360 degrees, and somehow, miraculously, managed to continue on his way! The Canadian driver was pushing hard, trying to make up some ground, but got a bit too aggressive on the throttle and lost the rear of the car. That was a huge moment, and Stroll was incredibly lucky to avoid any major damage or contact with the barriers. He's dropped back a few positions, but still running, albeit now in a bit of a precarious position. The pack is now bunched up, and we could see some more action in the coming laps as the drivers jostle for position!\""
+    },
+    {
+        "event": {
+            "type": "Crash",
+            "timestamp": 181.0,
+            "description": "TURN 1 INCIDENT INVOLVING CARS 18 (STR) AND 27 (HUL) NOTED - CAUSING A COLLISION"
+        },
+        "commentary": "\"OH, WHAT A START TO THE RACE! WE'VE GOT A BIG INCIDENT AT TURN 1! LANCE STROLL IN THE ASTON MARTIN, CAR NUMBER 18, HAS MADE CONTACT WITH NICO H\u00dcLKENBERG IN THE HAAS, CAR NUMBER 27! THE TWO CARS HAVE COLLISION COURSE AND NOW WE'VE GOT DEBRIS ALL OVER THE TRACK!\n\nStroll was trying to make a move on the inside, but H\u00fclkenberg was defending his line and unfortunately, they've come together! The rear of the Haas has been smashed, and Stroll's Aston Martin has significant damage to the front wing.\n\nThe safety car is already being deployed, and we're going to need a clean-up job here at Turn 1. This is not the way either of these drivers wanted to start their race. The question now is"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 205.169,
+            "description": "Driver 2 overtakes Driver 3 to position 14 in 205.169 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! LOGAN SARGEANT, IN THE NUMBER 2 CAR, HAS PULLED OFF A BEAUTY OF AN OVERTAKE ON LANCE STROLL, THE NUMBER 18 CAR! SARGEANT HAS BEEN HOUNDING STROLL FOR LAPS, WAITING FOR THE PERFECT MOMENT TO STRIKE, AND HE'S FINALLY MADE IT PAY! THE AMERICAN DRIVER TAKES THE INSIDE LINE INTO TURN 7, GETTING A BETTER EXIT TO PULL AHEAD OF STROLL AND CLAIM 14TH POSITION! THE CROWD IS ON ITS FEET AS SARGEANT TAKES THE CHEQUERED FLAG IN A TIME OF 205.169 SECONDS! THIS KID'S GOT SKILLS, FOLKS!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 298.628,
+            "description": "Driver 63 overtakes Driver 4 to position 2 in 298.628 seconds."
+        },
+        "commentary": "\"UNBELIEVABLE! George Russell is on a mission! He's been lurking in the shadows, waiting for his chance to strike, and STRIKE HE HAS! Russell dives up the inside of Lando Norris at Turn 3 and MAKES THE PASS STICK! The Mercedes power trains are singing in harmony as Russell moves up to SECOND PLACE! \n\nThat was a textbook overtaking maneuver, folks! Russell used every inch of the track to get alongside Norris and then muscled his way past. The Brit's pace has been phenomenal all race, but Russell's determination and skill have earned him the upper hand. \n\nAnd what a time to do it! 298.628 seconds on the clock, and Russell is now hot on the heels of the leader. The crowd is on their feet, and we've got a real battle on our hands for the top step of the podium"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 298.628,
+            "description": "Driver 4 overtakes Driver 14 to position 6 in 298.628 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! LANDO NORRIS MAKES THE MOVE! The McLaren driver has been crawling all over the back of Fernando Alonso's Alpine for the past few laps, and finally, he's made the pass stick! Norris dives down the inside of Turn 7, and Alonso can't hold on to the position! That's a beautifully executed move, folks! Norris takes sixth place from Alonso, and it's a crucial move for the young Brit's championship hopes. The timing is perfect, 298.628 seconds into the race, and Norris is now fully focused on chasing down that top five. Alonso, meanwhile, drops to seventh, and he'll be looking to regroup and push on. This is turning out to be a fantastic race, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 495.638,
+            "description": "Driver 14 overtakes Driver 14 to position 7 in 495.638 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE BY FERNANDO ALONSO! The Spaniard has pulled off a fantastic overtaking maneuver on... himself?! Wait, no, that can't be right! He's overtaken... no one! Ah, I see what's happened here, folks! There's been a mistake, it seems Fernando Alonso has indeed moved up to 7th position, but it wasn't an overtake on another driver, he's just found some extra pace! \n\nThe clock says 495.638 seconds, and Alonso's made the most of it, moving past the midfield pack and into a strong points-scoring position. His pace has been impressive all race, and this little boost could be just what he needs to challenge for the top 5! Can he keep this momentum going and bring home a big haul of points for his team? The crowd is on the edge"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 504.338,
+            "description": "Driver 81 overtakes Driver 18 to position 7 in 504.338 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! OSCAR PIASTRI IN THE 81 CAR TAKES THE FIGHT TO LANCE STROLL IN THE 18 CAR! HE'S BEEN LURKING IN THE SHADOWS FOR A WHILE NOW, AND FINALLY, HE'S MADE THE PASS STICK! Piastri's got the pace, he's got the skill, and he's got the confidence! He's taken Stroll by surprise, diving down the inside at Turn 12, and now he's up to 7th place!\n\nThe stopwatch says it took him 504.338 seconds to make that pass, but let me tell you, it was a masterclass in precision driving! Piastri's got the Aussie spirit, and he's not afraid to get his elbows out and fight for every inch of track! Stroll, on the other hand, might"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 504.338,
+            "description": "Driver 18 overtakes Driver 77 to position 18 in 504.338 seconds."
+        },
+        "commentary": "\"UNBELIEVABLE! Lance Stroll, the Aston Martin driver, has made a daring move on Valtteri Bottas on the inside of Turn 12! He saw his opportunity and took it, getting alongside the Alfa Romeo and making it stick! Stroll now takes 18th position, and what a crucial pass that is for him! Bottas was struggling to keep up the pace, and Stroll seized the moment. The Canadian driver takes advantage of the Finnish veteran's lack of speed, and now finds himself ahead of him on the track! The crowd is on the edge of their seats as Stroll completes the overtake in a blistering 504.338 seconds! This could be the spark Stroll needs to turn his race around!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 686.075,
+            "description": "Driver 11 overtakes Driver 16 to position 3 in 686.075 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Sergio Perez, the Mexican magician, has pulled off a stunning move on Charles Leclerc! He's been stalking the Ferrari for laps, waiting for the perfect opportunity, and he's finally made his move!\n\nPerez dives down the inside at Turn 3, and Leclerc, caught off guard, can't defend the position! The Red Bull is ahead, and Perez takes third place! What a drive from the Mexican!\n\nThat was a beautifully calculated move, folks. Perez knew he had the pace, and he waited for the right moment to strike. Leclerc was pushed wide, and Perez pounced! The crowd is on their feet here at the circuit!\n\nAnd what a boost for Perez and Red Bull! They're now solidly in the hunt for a podium, and that battle for second and third is heating up! Can Leclerc recover"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 897.989,
+            "description": "Driver 16 overtakes Driver 2 to position 4 in 897.989 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! CHARLES LECLERC MAKES THE MOVE! HE'S GOT PAST LOGAN SARGEANT AND TAKEN OVER P4! THE FERRARI DRIVER HAS BEEN LURKING IN THE WINGS, WAITING FOR THE RIGHT MOMENT TO STRIKE, AND HE'S TAKEN FULL ADVANTAGE! 897.989 SECONDS INTO THE RACE, LECLERC MAKES IT COUNT! SARGEANT PUT UP A GOOD FIGHT, BUT LECLERC'S GOT THE FERRARI POWER AND THE SKILL TO GET THE JOB DONE! HE'S NOW GOT HIS SIGHTS SET ON THE PODIUM, AND YOU CAN'T COUNT HIM OUT OF THE RUNNING FOR THE WIN!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 897.989,
+            "description": "Driver 2 overtakes Driver 24 to position 13 in 897.989 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! LOGAN SARGEANT, THE AMERICAN ROOKIE, MAKES HIS MOVE! HE'S BEEN LURKING BEHIND ZHOU GUANYU FOR LAPS, WAITING FOR THE PERFECT MOMENT TO STRIKE! AND HE'S DONE JUST THAT! SARGEANT GETS AROUND THE OUTSIDE OF TURN 7, GETS BETTER EXIT SPEED, AND SLIPS BY THE ALFA ROMEO OF ZHOU GUANYU! THAT'S THE PASS, FOLKS! SARGEANT TAKES 13TH PLACE, MOVING UP ONE SPOT! THE CROWD IS ON ITS FEET, CHEERING ON THE YOUNG AMERICAN AS HE MAKES HIS WAY UP THE ORDER! THE LAP TIME WAS 897.989 SECONDS, A BLISTERING PACE BY SARGEANT TO GET"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 898.795,
+            "description": "Driver 3 overtakes Driver 24 to position 14 in 898.795 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Daniel Ricciardo in the number 3 car, he's been stalking Zhou Guanyu for laps, waiting for the perfect opportunity to pounce! AND HE'S TAKEN IT! A beautifully executed pass on the inside of Turn 7, and Ricciardo is now up to 14th place! The Aussie's got his elbows out, and he means business! That move came at 898.795 seconds on the clock, a slick piece of driving from the veteran Aussie. He's got the bit between his teeth now, can he continue to climb the order?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 899.34,
+            "description": "Driver 24 overtakes Driver 24 to position 15 in 899.340 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! ZHOU GUANYU, THE CHINESE DRIVER, GETS AROUND... HIMSELF?! NO, WAIT, THAT CAN'T BE RIGHT! *laughs* I apologize, folks, it seems we've got a bit of a anomaly on our hands here. According to the timing screens, Zhou Guanyu in the Alfa Romeo has overtaken... himself? I'm not sure what's going on, but it looks like he's moved up to 15th position with a lap time of 899.340 seconds. I think we might need to check the replays on this one, Bob, and see what's going on. Has Zhou managed to outbrake himself into the same position? *chuckles* Sorry, folks, we're seeing some weird stuff out there today!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 901.373,
+            "description": "Driver 31 overtakes Driver 18 to position 15 in 901.373 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE BY ESTEBAN OCON! He's been hounding Lance Stroll for the past few laps, waiting for the perfect opportunity to strike, and strike he has! The Frenchman dives down the inside of the Canadian, taking the position with ease! Ocon's got the pace, and he's using it to great effect. He's up to 15th place now, and you can bet he's not done yet! That pass took just 901.373 seconds, a testament to Ocon's patience and aggression. The Alpine car is looking quick around this circuit, and Ocon's making the most of it. Stroll, meanwhile, will be disappointed to have lost a place, but he's still in the thick of it. The midfield battle is heating up, folks, and we've got a thrilling race on our hands!\""
+    },
+    {
+        "event": {
+            "type": "CarEvent",
+            "timestamp": 978.0,
+            "description": "CAR 2 (SAR) OFF TRACK AND CONTINUED AT TURN 4"
+        },
+        "commentary": "\"Oh, drama! Logan Sargeant's afternoon has just taken a turn for the worse! The Williams driver has gone off track at Turn 3, and he's struggling to get his car back under control. He's lost momentum, and now he's got to navigate the circuit all over again. Unlucky for the young American, he was having a decent run up until that point. Let's see how quickly he can get back up to speed and rejoin the pack. Meanwhile, the rest of the field is streaming past - Verstappen is still out in front, but Leclerc is closing in...\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 997.592,
+            "description": "Driver 44 overtakes Driver 2 to position 8 in 997.592 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! LEWIS HAMILTON IS ON THE MOVE! The seven-time world champion has been lurking in ninth place for the past few laps, waiting for the perfect opportunity to strike. And what a move it is! Hamilton dives down the inside of Logan Sargeant at the hairpin, and he's got the pace to make it stick! He's up to eighth place, and that's a massive jump up the order! The Mercedes is flying, and Hamilton is on a mission! Sargeant didn't put up much of a fight, but you can't blame him - when Hamilton's in this kind of form, you've got to get out of the way! The Brit's got his sights set on the top five now, and you wouldn't bet against him getting there! The clock says 997.592 seconds, but it feels like an"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 998.748,
+            "description": "Driver 3 overtakes Driver 2 to position 13 in 998.748 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! Daniel Ricciardo, the HoneyBadger, is on the move! He's been sizing up Logan Sargeant for a few laps now, and finally, he's made his move! Sargeant was struggling to get traction out of turn 12, and Ricciardo saw his chance. Into 13th place goes the number 3 car, and Ricciardo is now chasing down the pack! A beautifully executed overtake, just what the doctor ordered for the McLaren driver! The timing was perfect, and the Aussie has put himself in a great position to keep climbing up the order! Time of the overtake, 998.748 seconds, and the crowd is loving it here at the track!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 998.748,
+            "description": "Driver 10 overtakes Driver 24 to position 14 in 998.748 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! PIERRE GASLY MAKES THE MOVE! THE FRENCHMAN GETS AROUND ZHOU GUANYU DOWN THE STRAIGHT! GASLY'S GOT THE PACE AND THE CONFIDENCE, AND HE'S NOT AFRAID TO SHOW IT! HE TAKES THE INSIDE LINE, AND ZHOU CAN'T DEFEND! GASLY MOVES UP TO 14TH PLACE, AND HE'S LOOKING STRONG!\n\nThat was a beautifully executed overtake, folks! Gasly's been biding his time, waiting for the right moment to strike. And what a time it was! 998.748 seconds on the clock, and Gasly's AlphaTauri is flying! He's got the bit between his teeth now, and you can bet he'll be looking to make further progress up the order! ZH"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1000.466,
+            "description": "Driver 2 overtakes Driver 24 to position 16 in 1000.466 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Logan Sargeant, the rookie American driver, is on the move! He's been stalking Zhou Guanyu for several laps, and he's finally made his move! Sargeant gets a great run out of the chicane, and he's got the momentum to make the pass stick! He's up the inside of Zhou, and he takes the position! Sargeant is now up to 16th, and Zhou is forced to settle for 17th! That was a beautifully executed move by the young American, and he's certainly making a name for himself in his debut season! The crowd is on their feet as Sargeant takes the cheers, and that was a blistering lap time of 1000.466 seconds to make it happen! What a drive by Sargeant!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1000.824,
+            "description": "Driver 77 overtakes Driver 2 to position 15 in 1000.824 seconds."
+        },
+        "commentary": "\"AND THERE'S THE PASS! Valtteri Bottas, the Finnish flyer, has snatched 15th place from Logan Sargeant with a beautifully executed move! The Williams driver didn't put up much of a fight, and Bottas' Alfa Romeo just had that little bit extra pace to get the job done. That's the experience of a seasoned campaigner like Bottas, he knows exactly when to pounce. And look at that timing, 1000.824 seconds, that's precision driving if I've ever seen it! Bottas is now up to 15th, and who knows, maybe this is the start of a charge up the order for the Alfa Romeo team. Sargeant, meanwhile, will need to regroup and try to hold off the chasing pack.\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1019.091,
+            "description": "Driver 31 overtakes Driver 2 to position 16 in 1019.091 seconds."
+        },
+        "commentary": "\"AND LOOK AT THIS! ESTEBAN OCON MAKES HIS MOVE! HE'S BEEN LAPPING FASTER THAN LOGAN SARGEANT FOR THE LAST FEW LAPS, AND FINALLY, HE SEES HIS CHANCE! OCON TAKES THE INSIDE LINE, AND HE'S GOT THE POWER! HE'S AHEAD! OCON TAKES 16TH PLACE FROM SARGEANT! THE FRENCHMAN HAS DONE IT! THE OVERTAKE TAKES JUST 1019.091 SECONDS, A MASTERCLASS IN PATIENCE AND AGGRESSION! OCON IS NOW IN 16TH, AND HE'S GOT HIS EYES ON THE NEXT CAR AHEAD... THIS COULD BE THE START OF A CHARGE UP THE ORDER FOR THE ALPINE DRIVER!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1020.802,
+            "description": "Driver 24 overtakes Driver 2 to position 17 in 1020.802 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! ZHOU GUANYU'S BEEN LURKING IN THE SHADOWS OF LOGAN SARGEANT FOR LAP AFTER LAP, WAITING FOR THE PERFECT MOMENT TO STRIKE! AND STRIKE HE HAS! THE CHINESE DRIVER PULLS OFF A BEAUTIFUL OVERTAKE ON THE AMERICAN ROOKIE, TAKING THE 17TH SPOT WITH A TIME OF 1020.802 SECONDS! SARGEANT PUT UP A GOOD FIGHT, BUT ZHOU'S PATIENCE AND SKILL PAID OFF IN THE END! THIS COULD BE THE BOOST GUANYU NEEDS TO GET HIS SEASON BACK ON TRACK!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1027.151,
+            "description": "Driver 18 overtakes Driver 2 to position 18 in 1027.151 seconds."
+        },
+        "commentary": "\"And here comes Lance Stroll, the Aston Martin driver, with a brilliant move on Logan Sargeant! He's been sizing him up for a few laps, waiting for the perfect opportunity to strike. And strike he has! Stroll dives down the inside at Turn 3, getting alongside Sargeant, and takes the position! The Canadian driver making it stick, moves up to 18th place, and drops Sargeant down to 19th! That was a beautifully executed overtake, folks! The crowd is on their feet here at the circuit, and we're seeing some fantastic racing out there! The timesheet says it took Stroll 1027.151 seconds to make that pass stick, but it feels like an eternity for poor Sargeant, who's been under pressure for a while now. What a great bit of driving from Stroll, and this could"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1076.999,
+            "description": "Driver 11 overtakes Driver 63 to position 2 in 1076.999 seconds."
+        },
+        "commentary": "\"Oh, what a move! Sergio Perez, the Mexican master, has pulled off a stunning overtake on George Russell! He's been lurking behind the Williams driver for laps, waiting for the perfect opportunity to strike. And strike he has! Perez dives down the inside, using all his experience to outbrake Russell and snatch second place! The crowd is on its feet here, what a fantastic piece of driving! The timing screens show it's taken him 1076.999 seconds to make the move, but it felt like an eternity as Perez lined up his prey. Russell, to his credit, didn't make it easy, but Perez was determined to get past. And now, Perez finds himself in second place, right behind the leader, Max Verstappen! The Red Bull driver will be looking over his shoulder, knowing Perez is now a real threat for the win!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1078.496,
+            "description": "Driver 63 overtakes Driver 16 to position 3 in 1078.496 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! GEORGE RUSSELL PULLS OFF A STUNNING OVERTAKE ON CHARLES LECLERC! THE FERRARI DRIVER WAS PUSHING HARD TO HOLD ON TO THAT THIRD SPOT, BUT RUSSELL'S GOT THE FRESH TYRES AND THE PACE! HE'S BEEN HAUNTING LECLERC'S REAR WING FOR THE PAST FEW LAPS, AND FINALLY MAKES THE MOVE STICK! THAT'S THE KIND OF RACING WE LOVE TO SEE FOLKS! RUSSELL TAKES THE PLACE, AND MOVES UP TO THIRD POSITION IN THE PROCESS! AND LOOK AT THAT TIME, 1078.496 SECONDS, THAT'S THE KIND OF PRECISION WE'RE TALKING ABOUT HERE! WHAT A DRIVE BY GEORGE RUSSELL, AND WHAT A MOVE!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1078.496,
+            "description": "Driver 55 overtakes Driver 63 to position 3 in 1078.496 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Carlos Sainz, the Ferrari driver, makes a brilliant move on George Russell's Mercedes to take third place! He's been stalking him for a while, waiting for the perfect opportunity to pounce, and what a moment it is! Sainz gets a superb run out of the previous corner, gets his tyres lit up, and then makes his move on the inside of Russell at Turn 9! Russell tries to hold on, but Sainz has the pace and the precision, and he takes the position!\n\nThe crowd is going wild here, folks! Sainz is on a mission today, and that's a massive move to get himself onto the podium! He's done it in a time of 1078.496 seconds, just shy of the 1080-second mark, but what a drive from the Spaniard! Russell, on the"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1082.002,
+            "description": "Driver 63 overtakes Driver 4 to position 4 in 1082.002 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! GEORGE RUSSELL WITH THE MOVE OF THE RACE SO FAR! HE'S GOT AROUND LANDO NORRIS AND INTO FOURTH PLACE! THE MERCEDES POWER-unit IS REALLY SHOWING ITS STRENGTH HERE AS RUSSELL MAKES THE PASS ON THE McCLAREN DRIVER. AND WHAT A STATUE-ESQUE DEFENSE FROM NORRIS, HE GAVE IT EVERYTHING HE COULD, BUT IN THE END, RUSSELL'S FRESH TYRES AND BETTER PACE PROVED TOO MUCH. THIS COULD BE THE START OF A BIG CHARGE FROM RUSSELL, FOLKS! HE'S GOT THE FASTER CARS AHEAD OF HIM, CAN HE CATCH THEM?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1082.002,
+            "description": "Driver 4 overtakes Driver 16 to position 5 in 1082.002 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Lando Norris makes the move on Charles Leclerc! The McLaren driver has been stalking the Ferrari for the past few laps, and he's finally made the overtake stick! That's a beautifully executed pass, Norris using all his experience and guile to get alongside Leclerc on the outside and then make the pass on the inside. The crowd is on its feet here, folks! \n\nThat was a crucial pass, too - Norris moves up to 5th place, and Leclerc drops to 6th. The gap was 0.8 seconds before the overtake, and Norris made it look easy! That's what you call a clinical overtaking maneuver. The McLaren pit wall will be thrilled with that, and Norris will be looking to build on this momentum. 1082.002 seconds on the clock, and we've got a"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1115.447,
+            "description": "Driver 16 overtakes Driver 24 to position 6 in 1115.447 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! CHARLES LECLERC MAKES THE MOVES! He's been stalking Zhou Guanyu for the past few laps, and finally, he's made the pass! The Monegasque driver slips up the inside of the Alfa Romeo, and takes the position! That's Leclerc into 6th place, andzhou Guanyu is left to settle for 7th. The Ferrari driver's pace has been immense all race, and that's another superb overtaking maneuver to add to his highlight reel! He's really starting to click into gear now, and the chasing pack had better be on their toes! The time of the move is 1115.447 seconds, and Leclerc is now right on the tail of the top 5! This is turning out to be a fantastic drive from Charles Leclerc, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1115.447,
+            "description": "Driver 24 overtakes Driver 31 to position 16 in 1115.447 seconds."
+        },
+        "commentary": "\"OH, WHAT A MOVE! Zhou Guanyu, the Chinese driver, has pulled off a stunning pass on Esteban Ocon at the 1115.447 second mark! He's made it stick, and he's taken 16th place from the Frenchman! That's some impressive pace from the Alfa Romeo driver, who's been quietly making his way up the order. Ocon didn't make it easy for him, but Zhou was determined and patiently waited for the perfect opportunity to make his move. And now, he's got the bit between his teeth, pushing hard to close in on the next group of cars! Meanwhile, Ocon will be disappointed to have lost that spot, but he's still got it all to play for in this highly competitive midfield battle. The crowd is on their feet as Zhou takes the place, what a fantastic overtake!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1117.385,
+            "description": "Driver 18 overtakes Driver 31 to position 17 in 1117.385 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Lance Stroll is on the attack! He's been sizing up Esteban Ocon for lap after lap, and finally he's made the pass! The Aston Martin bursts past the Alpine, and Stroll takes 17th place! The Canadian driver has been pushing hard all race, and that patience has paid off. Ocon didn't put up much of a fight, but Stroll was determined to get past. And what a great drive he's having today! That overtake took just 1117.385 seconds, a brilliant bit of racing from Stroll. He's now got his sights set on the cars ahead, and with this pace, he's got every chance of making further progress up the order!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1180.125,
+            "description": "Driver 55 overtakes Driver 4 to position 2 in 1180.125 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! CARLOS SAINZ MAKES THE MOVE! THE FERRARI DRIVER GETS AROUND LANDO NORRIS FOR SECOND PLACE!\n\nOh, what a beauty! Sainz has been stalking Norris for the past few laps, waiting for the perfect moment to strike. And strike he does! He takes the inside line, gets better traction out of the hairpin, and makes it stick! Norris didn't stand a chance!\n\nThe timing is perfect, too! 1180.125 seconds in, and Sainz slots into second place. He's now right on the tail of the leader, Max Verstappen! The gap is dwindling, and we've got a real battle on our hands for the top spot!\n\nWhat a drive from Carlos Sainz, folks! He's been on it all weekend, and now he's right where he"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1180.125,
+            "description": "Driver 4 overtakes Driver 63 to position 4 in 1180.125 seconds."
+        },
+        "commentary": "\"And here comes Lando Norris, the McLaren driver, making his move on George Russell's Williams! Norris has been stalking Russell for a few laps now, waiting for the perfect opportunity to pounce. AND THERE IT IS! He's got a great run out of the last turn, and he's up the inside of Russell going into Turn 1! Russell trying to defend, but Norris has the momentum, and HE TAKES THE POSITION! Norris up to 4th place, demoting Russell to 5th! That was a beautifully executed move, folks! The McLaren's pace is really starting to show through as we approach the midpoint of the race. Norris is now right in the mix, just 3 seconds behind 3rd place. Can he keep the momentum going and challenge for a podium?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1184.832,
+            "description": "Driver 63 overtakes Driver 16 to position 5 in 1184.832 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE BY GEORGE RUSSELL! HE'S GOT THE BETTER OF CHARLES LECLERC AROUND THE OUTSIDE OF TURN 7! Russell's been stalking Leclerc for the past few laps, studying his every move, waiting for the perfect opportunity to strike. And strike he has! He's got the pace, he's got the confidence, and now he's got the position! Russell takes 5th place, and Leclerc is forced to relinquish the spot! The timing is immaculate, 1184.832 seconds into the race, and Russell's Mercedes is looking menacing out there. Leclerc can't afford to let his focus waver, but Russell's on a roll! This could be a turning point in the battle for the top 5!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1186.001,
+            "description": "Driver 81 overtakes Driver 14 to position 5 in 1186.001 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! OSCAR PIASTRI MAKES THE MOVE! HE'S PASSED FERNANDO ALONSO FOR 5TH PLACE! THE AUSTRALIAN ROOKIE IS ON THE CHARGE!\n\nPiastri's been all over the back of Alonso's Alpine for the past few laps, waiting for the perfect opportunity to strike. And strike he has! A beautifully executed pass, using the extra speed and grip on the outside of the track to get the job done.\n\nThe young Aussie is really making a name for himself out there, folks! He's got the pace, he's got the confidence, and now he's got the position! Piastri up to 5th, and Alonso forced to settle for 6th.\n\nWhat a moment for Piastri and McLaren! The crowd is on their feet as he takes the chequered flag"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1186.001,
+            "description": "Driver 14 overtakes Driver 16 to position 6 in 1186.001 seconds."
+        },
+        "commentary": "\"And what a move by Fernando Alonso! He's been lurking behind Charles Leclerc for the past few laps, waiting for the perfect opportunity to strike! And strike he has! Alonso dives down the inside of Leclerc at Turn 7, and he's got the pass done! The Spaniard is now up to 6th place, despatching the Ferrari of Leclerc in the process! The crowd is on their feet here, folks! That's a beautifully executed overtake by the two-time World Champion! Leclerc didn't put up much of a fight, but Alonso didn't need an invitation - he sensed the chance and took it! The timing was impeccable, the braking was spot on, and now Alonso is right in the mix for a strong points haul! What a drive from the veteran Spanish driver!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1186.001,
+            "description": "Driver 16 overtakes Driver 44 to position 8 in 1186.001 seconds."
+        },
+        "commentary": "\"Oh, what a move! Charles Leclerc, the Monegasque maestro, has pulled off an audacious overtake on the seven-time World Champion Lewis Hamilton! He's slipped past the Mercedes man on the outside of Turn 3, and taken 8th place in the process! The clock says 1186.001 seconds, and what a moment for Ferrari fans! Leclerc's been crawling all over the gearbox of Hamilton for the last few laps, and he's finally made it stick! The Ferrari's got the pace, and Leclerc's got the skill! He's now in 8th, and a decent points-haul is suddenly looking very achievable for the Scuderia! Hamilton, meanwhile, will be wondering how he let that one get away... What a battle, folks! The action is non-stop here at [track name]!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1187.125,
+            "description": "Driver 63 overtakes Driver 16 to position 7 in 1187.125 seconds."
+        },
+        "commentary": "\"UNBELIEVABLE! George Russell has pulled off an absolute stunner! He's gone wheel-to-wheel with Charles Leclerc, and somehow managed to squeeze past the Ferrari driver around the outside of turn 12! The crowd is on their feet here at the circuit!\n\nRussell, driving the Mercedes, has been putting the pressure on Leclerc for the past few laps, and it's finally paid off. He's got the move done, and he's up to 7th place! The timing was perfect, he caught Leclerc off guard, and now he's got the bit between his teeth!\n\nThat was some top-class driving from Russell, folks! He's really showing us what he's capable of out there. And Leclerc, he's got some work to do now, he's got to regroup and try to get that position back. But"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1187.125,
+            "description": "Driver 44 overtakes Driver 63 to position 7 in 1187.125 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! LEWIS HAMILTON MAKES IT STICK! HE'S UP TO 7th PLACE NOW! THE SEVEN-TIME WORLD CHAMPION HAS DISPOSED OF GEORGE RUSSELL'S WILLIAMS! THAT WAS A CLASSIC HAMILTON OVERTAKE, FOLKS! PATIENCE, PACE, AND PRECISION! HE'S BEEN LURKING BEHIND RUSSELL FOR A FEW LAPS NOW, WAITING FOR THE PERFECT MOMENT TO STRIKE... AND THAT WAS IT! 1187.125 SECONDS INTO THE RACE, AND HAMILTON'S INTO 7th! RUSSELL CAN'T HIDE HIS DISAPPOINTMENT, BUT YOU CAN'T DENY HAMILTON'S CLASS! THE MERCEDES IS ON THE MARCH!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1188.182,
+            "description": "Driver 63 overtakes Driver 16 to position 8 in 1188.182 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! GEORGE RUSSELL WITH A MASTERFUL MOVE ON CHARLES LECLERC! HE'S BEEN LURKING IN THE WINGS FOR A WHILE NOW, WAITING FOR THE PERFECT MOMENT TO STRIKE! AND STRIKE HE HAS, SLIPPING PAST THE FERRARI OF LECLERC INTO 8TH PLACE! THE CROWD IS ON ITS FEET AS RUSSELL Takes THE POSITION IN A BLISTERING 1188.182 SECONDS! THAT'S SOME SERIOUS SPEED FROM THE MERCEDES DRIVER! LECLERC WON'T BE HAPPY ABOUT THAT ONE, HE'S BEEN PUSHED DOWN TO 9TH NOW. RUSSELL'S ON THE MARCH, FOLKS! CAN HE KEEP THIS MOMENTUM GOING AND CLAW HIS WAY UP THE ORDER?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1188.182,
+            "description": "Driver 22 overtakes Driver 63 to position 8 in 1188.182 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! YUKI TSUNODA WITH A BEAUTIFUL OVERTAKE ON GEORGE RUSSELL! THE JAPANESE DRIVER HAS BEEN LURKING IN THE SHADOWS FOR SOME TIME NOW, WAITING FOR THE PERFECT MOMENT TO STRIKE. AND STRIKE HE HAS! TSUNODA TAKES ADVANTAGE OF RUSSELL'S SLIGHT MISCUE THROUGH THE TURN AND SNEAKS UP THE INSIDE TO TAKE POSSESSION OF 8TH PLACE! THE CROWD IS ON THE EDGE OF THEIR SEATS AS TSUNODA MAKES IT STICK! UNBELIEVABLE DRIVING FROM THE ALPHA TAURI DRIVER! RUSSELL TRIES TO FIGHT BACK BUT TSUNODA'S GOT THE UPPER HAND NOW, AND HE TAKES THE POSITION! WE'RE AT"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1190.467,
+            "description": "Driver 63 overtakes Driver 16 to position 9 in 1190.467 seconds."
+        },
+        "commentary": "\"Oh, what a move! George Russell has pulled off a stunning overtake on Charles Leclerc! He's been lurking in the shadows, waiting for the perfect opportunity, and he's taken it! Russell gets a great run out of the previous corner and carries so much momentum into the braking zone. Leclerc tries to hold on, but Russell is having none of it, he's got the pace and the confidence to make this move stick! He dives down the inside, and Leclerc can't quite defend it. Russell takes the position, moving up to 9th place, and what a vital point that could be for him! The Brit's done it again, showing everyone why he's one of the most exciting young drivers on the grid! The timing was impeccable, the execution was flawless, and Russell is now in the hunt for even more points!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1190.467,
+            "description": "Driver 23 overtakes Driver 63 to position 9 in 1190.467 seconds."
+        },
+        "commentary": "\"AND HE'S THROUGH! Alex Albon makes the move on George Russell! The Williams driver squeezing down the inside of the Mercedes at Turn 12, and he's done it! Albon takes 9th place from Russell, and that's a big scalp for the Thai driver! Russell was struggling for pace, and Albon sensed his chance, taking advantage of the Brit's lack of grip to make the pass stick! The crowd is on its feet here, folks, as Albon celebrates his well-worked overtake, the timing perfect, the execution sublime! Russell, meanwhile, will be ruing that loss of pace, but Albon is the man on the move, up to 9th place, and looking for more! The clock stops at 1190.467 seconds, and that pass will be one to watch again on the replays, I guarantee it!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1195.402,
+            "description": "Driver 3 overtakes Driver 16 to position 10 in 1195.402 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! DANIEL RICCIARDO MAKES THE MOVE! HE'S GOT PAST CHARLES LECLERC AT TURN 12! THE AUSSIE DRIVER HAS BEEN HUNTING LECLERC DOWN FOR THE LAST FEW LAPS, AND FINALLY, HE'S MADE THE PASS STICK! RICCIARDO NOW MOVES UP TO 10TH PLACE!\n\nThe overtake came at the 1195.402 second mark, and what a beauty it was! Ricciardo's been poking his nose up the inside of Leclerc's Ferrari for what felt like an eternity, and Leclerc was doing everything he could to keep him at bay. But Ricciardo's persistence paid off, and he's now ahead of the Monegasque driver!\n\nThat's a massive confidence boost for Ricciardo, and he'll be looking"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1195.402,
+            "description": "Driver 16 overtakes Driver 20 to position 12 in 1195.402 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! CHARLES LECLERC MAKES HIS MOVE! He's been sizing up Kevin Magnussen for the past few laps, and now he's made the pass stick! The Ferrari driver dives down the inside of the Haas at Turn 7, and Magnussen can't hold on! Leclerc takes 12th place, and he's continuing his march up the order! That was a beautifully executed overtake, folks! The Monegasque driver is on a roll! The clock says 1195.402 seconds, and Leclerc is looking for more! Can he continue to make progress and get into the points-paying positions?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1199.046,
+            "description": "Driver 63 overtakes Driver 10 to position 11 in 1199.046 seconds."
+        },
+        "commentary": "\"AND THERE'S THE PASS! GEORGE RUSSELL HAS MADE HIS MOVE! THE BRITISH DRIVER HAS SLIPPED UP THE INSIDE OF PIERRE GASLY AROUND TURN 7 AND TAKEN THE POSITION! RUSSELL'S CAR LOOKED VERY STRONG THROUGH THAT SECTOR, AND HE'S TIMED THIS OVERTAKE TO PERFECTION! GASLY HAD NO DEFENSE, AND NOW RUSSELL MOVES UP TO 11TH PLACE WITH A LAP TIME OF 1199.046 SECONDS! A BEAUTIFULLY EXECUTED MANEUVER BY THE MERCEDES DRIVER!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1199.046,
+            "description": "Driver 10 overtakes Driver 16 to position 12 in 1199.046 seconds."
+        },
+        "commentary": "\"And here comes Pierre Gasly, the Frenchman is on a mission! He's been stalking Charles Leclerc for lap after lap, waiting for the perfect opportunity to strike. And strike he does! Gasly dives down the inside of Leclerc at Turn 9, and he's got the move done! He's up to 12th place now, and that's a brilliant bit of driving! The timing was perfect, the bravery was there, and the skill was on full display. Leclerc didn't put up much of a fight, but you can't blame him, Gasly was just too quick. The AlphaTauri driver now sets his sights on the next car ahead, he's got the bit between his teeth and he's not letting up! The crowd is on their feet here at the track, what a move by Pierre Gasly! The clock stops"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1199.046,
+            "description": "Driver 16 overtakes Driver 20 to position 13 in 1199.046 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Charles Leclerc, the Monegasque maestro, has pulled off a stunning move on Kevin Magnussen! He's been stalking the Haas driver for the past few laps, waiting for the perfect opportunity to strike, and now he's made the move count! \n\nLeclerc dives up the inside of Magnussen at Turn 9, using his superior pace and precision to outbrake the Dane. Magnussen tries to hold on, but Leclerc's Ferrari has too much momentum, and he takes the position with ease! \n\nThat's Leclerc up to 13th place now, and he's still on the move! The Ferrari pit wall will be thrilled with that one, it's a fantastic bit of driving from the young charger. And for Magnussen, he'll be ruing that lost position, but he's still in"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1202.914,
+            "description": "Driver 20 overtakes Driver 20 to position 14 in 1202.914 seconds."
+        },
+        "commentary": "\"AND THERE'S A MOVE! Kevin Magnussen is on the attack! He's been hounding his own teammate, Kevin Magnussen, for the past few laps, and he's finally made the pass! Magnussen takes 14th place from... himself?! Wait, what's going on here?! *laughs* I think we've got a bit of a mistake on our hands, folks! It looks like the timing system has glitched, because Magnussen can't overtake himself! *chuckles* \n\nAnyway, let's try to make sense of this. If we assume it's a real overtake, Magnussen would have made a great move to take 14th place. He's been driving well all race, and this could be the boost he needs to get back into the points. But, uh, I think we need to take a closer look at the replay to"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1212.484,
+            "description": "Driver 77 overtakes Driver 20 to position 14 in 1212.484 seconds."
+        },
+        "commentary": "\"And here comes Valtteri Bottas, the Finn is on the move! He's been stalking Kevin Magnussen for a few laps now, waiting for the perfect opportunity to strike. AND THERE IT IS! Bottas sees his chance, takes a deep breath, and makes the move around the outside of Turn 12! Magnussen tries to hold on, but Bottas has got the pace and the precision, and he takes position 14 in a stunning display of overtaking prowess! The timing is impeccable, 1212.484 seconds on the clock, and Valtteri Bottas is on the march! The Mercedes power unit is giving him the grunt he needs to mix it with the midfield pack, and he's making the most of it. This could be the start of a charge up the order for the number 77 car!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1214.497,
+            "description": "Driver 24 overtakes Driver 18 to position 15 in 1214.497 seconds."
+        },
+        "commentary": "\"And here comes Zhou Guanyu, making a move on the outside of Lance Stroll! He's got the pace, he's got the skill, and he's got the confidence! Zhou takes the line, gets a better run out of the corner, and he's past Stroll! The Chinese driver wrestles his Alfa Romeo into 15th place, and Stroll is relegated to 16th! That's a fantastic overtaking maneuver by Zhou, and he's done it in a blistering 1214.497 seconds! The crowd is loving it, and Zhou is on a roll! \""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1214.497,
+            "description": "Driver 18 overtakes Driver 20 to position 16 in 1214.497 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! LANCE STROLL MAKES THE MOVE ON KEVIN MAGNUSSEN! THE CANADIAN DRIVER SEES AN OPPORTUNITY AND TAKES IT, PASSING THE HAAS DRIVER ON THE OUTSIDE TO TAKE 16TH PLACE! THAT WAS A CLEAN AND CALCULATED OVERTAKE, FOLKS! STROLL TIMED IT TO PERFECTION AND TOOK ADVANTAGE OF A SLIGHT MISTAKE FROM MAGNUSSEN. THE CROWD IS ON THE EDGE OF THEIR SEATS HERE AT... (checks timer) ...1214.497 SECONDS INTO THE RACE! WHAT A MOVE BY STROLL TO GET AHEAD OF MAGNUSSEN!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1280.671,
+            "description": "Driver 4 overtakes Driver 11 to position 3 in 1280.671 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Lando Norris has pulled off a stunner of an overtake on Sergio Perez! He's been sizing him up for a few laps now, and finally, the McLaren driver has made his move! Norris dives down the inside of Perez at Turn 9, and the Mexican can't hold him off! That's a fabulous piece of driving, folks!\n\n\"Norris has been driving like a man possessed all race, and this move has propelled him up to P3! The crowd is on their feet here, and you can't blame them! That's a critical pass, as Norris now sets his sights on the top two.\n\n\"Perez, meanwhile, drops down to P4, and you can be sure he'll be ruing that mistake. But all credit to Norris, who timed that pass to perfection. He's really showing his mettle today! The"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1284.699,
+            "description": "Driver 11 overtakes Driver 11 to position 4 in 1284.699 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE BY SERGIO PEREZ! HE'S GOT AROUND HIMSELF! Wait, what's this?! Perez is overtaking... Perez! No, no, this can't be! He's overtaken himself! Folks, I think we've got a glitch on our hands here! Sergio Perez, driving the #11 car, has somehow managed to overtake his own self to take... wait for it... 4th position! The timing says 1284.699 seconds, but I'm not sure how to process this! Has the Mexican maestro discovered a new dimension in F1 racing? The crowd is confused, the pit wall is stunned, and I'm scratching my head here in the commentary box! This is absolute madness! Perez in 4th, but how did he... just... uh... I need a replay, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1284.699,
+            "description": "Driver 14 overtakes Driver 81 to position 4 in 1284.699 seconds."
+        },
+        "commentary": "\"And here comes Fernando Alonso, the wily veteran, making his move! He's been lurking behind Oscar Piastri for a few laps now, waiting for the perfect opportunity to strike. AND THERE IT IS! Alonso dives down the inside, using all his experience to outbrake the rookie Piastri and take the position! That's a beautifully executed move, folks, and Alonso is now up to fourth place! The clock says 1284.699 seconds, and Alonso is right back in the thick of it. Can he keep this pace up and make a push for the podium?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1287.093,
+            "description": "Driver 22 overtakes Driver 44 to position 5 in 1287.093 seconds."
+        },
+        "commentary": "\"OH, WHAT A MOVE! YUKI TSUNODA, THE JAPANESE ROOKIE, IS ON THE CHARGE! HE'S GOT THE BETTER OF LEWIS HAMILTON, THE SEVEN-TIME WORLD CHAMPION, AND TAKES FIFTH PLACE!\n\nUNBELIEVABLE, THE WAY TSUNODA HAS CLOSED THE GAP AND SEEN THE OPPORTUNITY TO GET AROUND THE OUTSIDE OF HAMILTON AT THIS SECTION OF THE TRACK! THE CROWD IS ON ITS FEET AS TSUNODA TAKES THE CHECKERED FLAG, COMPLETING THE OVERTAKE IN A TIME OF 1287.093 SECONDS!\n\nTHIS IS A MASSIVE MOMENT FOR TSUNODA AND ALPHA TAURI, A FANTASTIC OVERTAKING MANOUVER THAT WILL GIVE THEM A"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1289.288,
+            "description": "Driver 23 overtakes Driver 44 to position 6 in 1289.288 seconds."
+        },
+        "commentary": "\"UNBELIEVABLE! Alex Albon has pulled off a STUNNING overtaking maneuver on the reigning world champion Lewis Hamilton! The Thai driver has been pushing hard all lap and he's finally made the move stick! He's got the inside line, Hamilton's trying to defend, but Albon's got the better traction out of the turn and HE'S THROUGH! The Williams driver has stolen sixth place from the Mercedes, and what a crucial move that is! The crowd is on their feet here at the circuit! The timing screen says 1289.288 seconds, but I can tell you, it felt like an eternity as these two drivers battled wheel-to-wheel! Albon's got the bit between his teeth now, can he keep the pressure on the top five?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1294.275,
+            "description": "Driver 81 overtakes Driver 3 to position 8 in 1294.275 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Oscar Piastri, the Aussie youngster, makes his way past Daniel Ricciardo, his fellow countryman, to take 8th place! The rookie is on the charge, folks! He's been closing in on Ricciardo for the past few laps, and finally, he's made it stick! A beautifully executed move, using the slipstream to his advantage down the backstraight, and then making the pass stick around the outside of Turn 10. That's some top-notch driving from Piastri! He's clearly got the pace and the confidence now, and that's elevated him up to 8th place, as we tick past the 1294 second mark. What a great bit of racing, and what a boost for Piastri and the entire Alpine team!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1294.275,
+            "description": "Driver 11 overtakes Driver 44 to position 8 in 1294.275 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! SERGIO PEREZ MAKES THE MOVE! He's been lurking in the shadow of Lewis Hamilton for the past few laps, waiting for the perfect opportunity to strike, and STRIKE HE HAS! Perez dives down the inside of Hamilton at Turn 12, and takes the position! The Mexican driver now finds himself in 8th place, as the crowd goes wild!\n\nThat was a beautifully executed overtaking maneuver, folks! Perez got a brilliant run out of the previous corner, and Hamilton was caught slightly off guard. You could see the hesitation from the Mercedes driver, and Perez pounced! The Red Bull driver is on a mission today, and he's not done yet! The timing of this move is perfect, with the leaders starting to lap traffic, every position counts!\n\nAnd Hamilton, not one to give up easily, will be looking to reclaim that spot"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1294.275,
+            "description": "Driver 63 overtakes Driver 81 to position 7 in 1294.275 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! George Russell is on the move! He's found a way past Oscar Piastri and into 7th place! The Williams driver has been pushing hard all race, and that patience has finally paid off! Russell gets a great run out of the final turn and slips up the inside of Piastri, taking the position with ease! The crowd is on their feet as Russell moves up the order! That's a crucial overtake, folks, and Russell is now right in the thick of it! The timing is perfect, 1294.275 seconds into the race, Russell makes his move and takes that 7th place! What a drive by the young Brit!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1296.3,
+            "description": "Driver 81 overtakes Driver 3 to position 9 in 1296.300 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Oscar Piastri makes his move! The Australian youngster has been sizing up Daniel Ricciardo for a few laps now, and he's finally made the pass! Piastri gets a great run out of Turn 12, pulls to the inside, and takes the position! Ricciardo didn't see it coming, but Piastri was having none of it! He's up to 9th place now, and that's a fantastic piece of driving! The lap time was 1296.300 seconds, so Piastri's really on the move here! The McLaren has been struggling for pace all weekend, but Ricciardo's got to be disappointed to be overtaken like that. Piastri's on a charge, folks, and he's making the most of his rookie season!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1296.3,
+            "description": "Driver 3 overtakes Driver 10 to position 12 in 1296.300 seconds."
+        },
+        "commentary": "\"AND THERE'S A MOVE BY RICCIARDO! Daniel Ricciardo, in the number 3 car, has made a brilliant pass on Pierre Gasly, taking the spot from the French driver! That was a beautiful move, folks, Ricciardo saw his chance and took it, diving down the inside and making it stick! Gasly didn't put up much of a fight, but you can't blame him, Ricciardo was determined to make that pass! \n\nRicciardo now moves up to 12th place, and Gasly drops down to 13th, a crucial move in the battle for the midfield positions! That was lap time of 1296.300 seconds, and we can see Ricciardo is starting to find his rhythm out there! Can he keep the momentum going and make further gains?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1296.3,
+            "description": "Driver 16 overtakes Driver 44 to position 9 in 1296.300 seconds."
+        },
+        "commentary": "\"And look at this! Charles Leclerc, the Monegasque maestro, is on the move! He's been hovering around Lewis Hamilton's gearbox for the past few laps, and finally, he's made his move! Leclerc dives down the inside of Hamilton at Turn 12, and he's got the pace to make it stick! The Ferrari man is up to 9th place, and he's got the bit between his teeth now! That's a bold move, and it's paid off beautifully! Hamilton didn't put up too much of a fight, but Leclerc's got the momentum now. Can he continue to rise through the order? The crowd is on their feet, and we're loving this fight!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1297.74,
+            "description": "Driver 3 overtakes Driver 44 to position 10 in 1297.740 seconds."
+        },
+        "commentary": "\"Oh, what a move by Daniel Ricciardo! He's been lurking behind Lewis Hamilton for a few laps, sizing him up, and now he makes the pass! Ricciardo dives down the inside of Hamilton at the chicane, and he's got the spot! He takes 10th place from the seven-time world champion! That's a major scalp for the Australian driver! The clock says 1297.740 seconds, and what a moment for Ricciardo and the McLaren team! They needed that, and he's delivered! Hamilton, meanwhile, is struggling to keep pace with the midfield runners. This could be a long afternoon for the Mercedes driver...\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1309.903,
+            "description": "Driver 81 overtakes Driver 10 to position 11 in 1309.903 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! Oscar Piastri, the young Aussie, makes his move on Pierre Gasly! He's been stalking him for laps, waiting for the perfect opportunity, and now he seizes it! Piastri dives down the inside, gets a better exit out of the turn, and takes 11th place from Gasly! The crowd is on their feet, what a thrilling pass! Piastri's got the bit between his teeth now, he's pushing hard to make up more ground. Gasly didn't put up much of a fight, but you can't blame him, Piastri had the pace and the skill to make it stick. The timing screens show it happened at 1309.903 seconds, what a precision pass! Piastri's on the move, folks, this could be the start of something special!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1309.903,
+            "description": "Driver 24 overtakes Driver 77 to position 13 in 1309.903 seconds."
+        },
+        "commentary": "\"OH, WHAT A MOVE BY ZHOU GUANYU! THE CHINESE DRIVER HAS FOUND A WAY PAST VALTTERI BOTTAS ROUND THE OUTSIDE OF TURN 7! HE'S BEEN HUNTING DOWN THE MERCEDES FOR LAPS AND FINALLY MAKES THE PASS STICK! ZHOU TAKES 13TH PLACE AS THE CROWD ERUPTS! THAT'S A TOP-CLASS OVERTAKE FOLKS, AND IT COMES AT THE EXACT 1309.903 SECOND MARK! THE DIFFERENCE IN Pace BETWEEN THESE TWO CARS WAS MINIMAL, BUT ZHOU'S COMMITMENT AND SKILL HAVE PAID OFF! BOTTAS WILL BE DISAPPOINTED TO HAVE LOST THAT POSITION, BUT YOU CANNOT DENY THE MERIT IN ZHOU'S OVERTAKING MANEUVER!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1311.71,
+            "description": "Driver 18 overtakes Driver 77 to position 14 in 1311.710 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! LANCE STROLL MAKES HIS MOVE! He's been lurking in the shadows, waiting for the perfect opportunity, and he's finally pounced! The Canadian driver swoops past Valtteri Bottas at turn 12, and he's up to 14th place! The crowd is on their feet here at the circuit!\n\nThat was a beautifully executed move, Stroll using the slipstream to his advantage and making it stick around the outside. Bottas, caught off guard, couldn't do much to defend his position. And Stroll takes full advantage, making it a clean pass.\n\nThat's a crucial overtake for Stroll, as he looks to climb up the order and get into the points-paying positions. And what a boost for the Aston Martin team, who've been working hard to get their car competitive. Stroll's pace has been getting"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1312.459,
+            "description": "Driver 20 overtakes Driver 77 to position 15 in 1312.459 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! Kevin Magnussen has made the move! The Haas driver has been all over the back of Valtteri Bottas for the past few laps, and he's finally made the pass! Magnussen dives down the inside of Bottas at Turn 12, and he's got the position! That's a fantastic overtaking maneuver! Bottas didn't put up much of a fight, but you can't blame him, Magnussen was all over him like a bad rash!\n\nThe Danish driver now moves up to 15th place, and he's cut the gap to the cars ahead. This could be the spark Magnussen needs to get his season back on track. A great bit of driving from the Haas man, and the crowd is loving it! The time for that pass was 1312.459 seconds, just a shade over 21 seconds"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1314.904,
+            "description": "Driver 31 overtakes Driver 77 to position 16 in 1314.904 seconds."
+        },
+        "commentary": "\"AND ESTEBAN OCON HAS MADE THE MOVE! HE'S GOT PAST VALTTERI BOTTAS AROUND THE OUTSIDE OF TURN 3! THAT WAS A CLASSY OVERTAKE, FOLKS! OCON HAS BEEN LURKING IN BOTTAS' WAKE FOR A WHILE NOW, WAITING FOR THE PERFECT MOMENT TO STRIKE. AND STRIKE HE DID!\n\nOcon, now up to 16th place, as he takes the spot from Bottas. That's a fantastic bit of driving from the Frenchman, who's been having a bit of a mixed season so far. But that move just shows you the talent he's got. Bottas, on the other hand, might be feeling a bit frustrated, losing that place. But fair play to Ocon, he earned it!\n\nThe timing was perfect, 1314"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1320.372,
+            "description": "Driver 27 overtakes Driver 77 to position 17 in 1320.372 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! NICO H\u00dcLKENBERG MAKES THE MOVE ON VALTTERI BOTTAS! THE GERMAN DRIVER SLIPS UP THE INSIDE OF THE FINN AND TAKES 17TH PLACE! THAT'S A BEAUTIFUL PIECE OF DRIVING BY H\u00dcLKENBERG! HE'S BEEN PRESSURING BOTTAS FOR LAP AFTER LAP, WAITING FOR THE PERFECT MOMENT TO STRIKE. AND STRIKE HE HAS! THE CROWD IS ON THE EDGE OF THEIR SEATS AS H\u00dcLKENBERG COMPLETES THE OVERTAKE IN A TIME OF 1320.372 SECONDS! THAT'S A WELL CALCULATED MOVE BY THE H\u00dcLKENBERG, WHO'S NOW LOOKING TO PUSH ON AND MAKE FURTHER GAINS UP THE ORDER!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1388.268,
+            "description": "Driver 14 overtakes Driver 4 to position 3 in 1388.268 seconds."
+        },
+        "commentary": "\"AND FERNANDO ALONSO SEES HIS CHANCE! HE'S BEEN ALL OVER THE BACK OF LANDO NORRIS FOR THE LAST FEW LAPS, AND FINALLY, HE MAKES HIS MOVE! THE TWO-TIME WORLD CHAMPION DIVES DOWN THE INSIDE OF TURN 7 AND COMPLETES A BEAUTIFUL OVERTAKE ON THE McLAREN DRIVER! Norris didn't put up much of a fight, and Alonso's got the better traction out of the corner. He's up to 3rd place now, and he's really starting to make a charge! That was a textbook move from the Spaniard, and he's now right in the mix for a podium finish. Norris, on the other hand, drops down to 4th. The timing of that move was impeccable, 1388.268 seconds into the race, and"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1388.29,
+            "description": "Driver 22 overtakes Driver 4 to position 4 in 1388.290 seconds."
+        },
+        "commentary": "\"Oh, what a move! Yuki Tsunoda, the Japanese sensation, has pulled off a stunning overtaking maneuver on Lando Norris! He's been hounding the McLaren for laps, waiting for the perfect opportunity to strike, and strike he has! Tsunoda's AlphaTauri has slipped up the inside of Norris at Turn 7, and he's made it stick! The crowd is on their feet as Tsunoda takes the position, moving up to 4th place! That's a huge move, folks, and it's all happening in a timeframe of 1388.290 seconds! The young Japanese driver is clearly on a mission today, and we can't wait to see what he's got in store for us for the rest of this race!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1390.469,
+            "description": "Driver 23 overtakes Driver 4 to position 5 in 1390.469 seconds."
+        },
+        "commentary": "\"And here comes Alex Albon in the Williams, he's been lurking in the shadows, waiting for the perfect opportunity to strike! And strike he has! Albon takes the inside line, getting a fantastic run out of the previous corner, and he's got the momentum to take the fight to Lando Norris! The McLaren defense is strong, but Albon is not backing down! He's got the nose of the Williams alongside, and... HE'S THROUGH! Albon takes 5th place from Norris, a beautifully executed move! The crowd is on their feet here at the circuit! That's a fantastic piece of driving from the Thai driver, he's showing everyone what he's capable of! The timing screen says it's 1390.469 seconds, and Albon is now solidly in 5th, right in the mix for a strong points finish!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1390.469,
+            "description": "Driver 11 overtakes Driver 63 to position 6 in 1390.469 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! SERGIO PEREZ MAKES THE MOVE! He's been lurking behind George Russell for the past few laps, waiting for the perfect opportunity to strike. And strike he has! Perez dives down the inside of Russell at Turn 7, and he's through! The Mexican driver moves up to 6th place, demoting Russell to 7th. The gap between them was minimal, but Perez's superior pace and clever driving have paid off. He's now got his sights set on the top 5, and with his pace, you wouldn't bet against him making further progress. Russell, on the other hand, will be disappointed to have lost out, but he knows he has the speed to get back ahead. The battle for 6th is now on!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1392.922,
+            "description": "Driver 63 overtakes Driver 4 to position 7 in 1392.922 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! GEORGE RUSSELL MAKES THE MOVE! He's been stalking Lando Norris for lap after lap, waiting for the perfect opportunity to strike, and finally, it arrives! Russell dives down the inside of Norris at Turn 3, and he's got the speed to make it stick! Norris tries to defend, but Russell's got the better exit and he's through! That's a cracking overtaking move, folks! George Russell up to 7th place, and Norris shuffled back to 8th! The timing's perfect, too - 1392.922 seconds on the clock. What a drive from the young Brit!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1400.452,
+            "description": "Driver 16 overtakes Driver 3 to position 8 in 1400.452 seconds."
+        },
+        "commentary": "\"AND HERE COMES LECLERC! THE MON\u00c9GASQUE MAGICIAN STRIKES AGAIN! Charles Leclerc, driving that Ferrari, has made a brilliant move on Daniel Ricciardo, getting past the Australian at Turn 12! That was a cleverly timed overtake, using the DRS zone to perfection! Leclerc's pace has been building all lap and he's pounced on the opportunity to grab 8th place! That's a big move for Ferrari, getting ahead of the Haas of Ricciardo! The time is 23:40.452, and Leclerc is now into 8th, with Ricciardo slipping back to 9th! The pace is hotting up here at the Circuit!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1402.916,
+            "description": "Driver 81 overtakes Driver 3 to position 10 in 1402.916 seconds."
+        },
+        "commentary": "\"Oh, what a move! Oscar Piastri, the young Aussie, has pulled off a stunner! He's taken the inside line, got the job done, and overtaken Daniel Ricciardo for 10th place! The timing screen says it happened at 1402.916 seconds, and Piastri's got the momentum now! He's been closing in on Ricciardo for a few laps, and finally, he's made it stick! That's a big confidence booster for the rookie, and he's now right in the mix for some serious points. The McLaren's pace has been decent all race, but Piastri's got the better of his experienced opponent. What a drive from the 81 car, and he's got the crowd on their feet!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1407.327,
+            "description": "Driver 44 overtakes Driver 3 to position 11 in 1407.327 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! LEWIS HAMILTON WITH THE MOVE! HE'S PASSED DANIEL RICCIARDO FOR 11TH PLACE! THE CROWD IS ON ITS FEET HERE AT THE TRACK!\n\nHamilton, as smooth as silk, he's been stalking Ricciardo for the past few laps, waiting for the perfect opportunity to pounce. And pounce he did! A beautiful piece of driving, using the superior pace of the Mercedes to glide past the McLaren.\n\nRicciardo, no slouch himself, was defending his position valiantly, but Hamilton was just too quick. He saw the gap and went for it, making it stick around the outside of the corner.\n\nThe timings show it was done in 1407.327 seconds, a blistering pace from the seven-time world champion. He's now into 11th place, and"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1409.408,
+            "description": "Driver 24 overtakes Driver 3 to position 12 in 1409.408 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! ZHOU GUANYU MAKES THE MOVE! HE'S PAST DANIEL RICCIARDO AT TURN 7! THE CHINESE DRIVER HAS BEEN PUSHING HARD TO GET PAST THE AUSSIE AND HE'S FINALLY DONE IT! THAT'S THE OVERTAKE THAT TAKES HIM UP TO 12TH PLACE!\n\nThe timing says it's 1409.408 seconds, but it feels like an eternity since Zhou has been sizing up Ricciardo. The Haas driver was getting more and more frustrated, braking deep into the turn, but Zhou saw his chance and took it! He's got the momentum now, can he keep it up and make more progress up the field? Ricciardo, meanwhile, will be ruing that mistake, he's dropped to 13th! What a great move by Zhou Guany"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1410.091,
+            "description": "Driver 18 overtakes Driver 3 to position 13 in 1410.091 seconds."
+        },
+        "commentary": "\"And here comes Lance Stroll, the Canadian driver making a move on Daniel Ricciardo! He's been stalking the McLaren for a few laps now, waiting for the perfect moment to strike. AND THERE IT IS! Stroll dives down the inside, gets a better exit out of the turn, and makes it stick! He's around the outside of Ricciardo, and now he's through! That's a fine piece of driving from Stroll, moving up to 13th place in the process. The time of the overtake, 1410.091 seconds, a precise and clinical move from the Aston Martin driver. Ricciardo couldn't quite hold on, but Stroll was determined to make that pass happen. A big gain for Stroll, and he's now got his sights set on the cars ahead!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1412.411,
+            "description": "Driver 20 overtakes Driver 3 to position 14 in 1412.411 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Kevin Magnussen, the Haas driver, has pulled off a brilliant move on Daniel Ricciardo! Magnussen saw his opportunity and took it, getting a great run out of the previous turn and slipstreaming the McLaren of Ricciardo down the straight. He's got the inside line, and he's taking it! Ricciardo tries to defend, but Magnussen is too strong, he's got the momentum and he's through! That's a great pass, folks, and it takes Magnussen up to 14th place!\n\nThe timing is perfect, by the way - 1412.411 seconds on the clock. You can't ask for a more precise piece of driving than that. Magnussen's really starting to find his rhythm out there, and this pass will give him a huge boost of confidence. Meanwhile, Ricciardo will be"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1420.43,
+            "description": "Driver 31 overtakes Driver 10 to position 15 in 1420.430 seconds."
+        },
+        "commentary": "\"And here comes Esteban Ocon, making his move on Pierre Gasly! The Frenchman has been stalking his compatriot for laps, waiting for the perfect opportunity to pounce. And pounce he does! Ocon goes up the inside of Gasly at Turn 12, using all of his skill and experience to make the pass stick! Gasly tries to hold on, but Ocon is too quick, too slick, and he takes the position! That's Ocon up to 15th place, taking the spot away from Gasly. The timing is perfect, folks, with the clock ticking over to 1420.430 seconds. What a fantastic piece of driving from Esteban Ocon, and he's now firmly in the hunt for a points-paying position!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1484.32,
+            "description": "Driver 14 overtakes Driver 55 to position 2 in 1484.320 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! FERNANDO ALONSO PULLS OFF A STUNNING MOVE AROUND THE OUTSIDE OF CARLOS SAINZ! THE ASTON MARTIN DRIVER SEES THE OPPORTUNITY AND TAKES IT WITH BOTH HANDS! HE'S UP INTO SECOND PLACE NOW, AND THE CROWD IS GOING WILD!\n\nThat was a masterclass in overtaking, folks! Alonso saw the gap and exploited it perfectly, using all his experience to get ahead of the Ferrari driver. And what a time to do it, too - 1484.320 seconds into the race and we've got a new runner-up!\n\nSainz didn't make it easy for him, mind you. The Spaniard defended hard, but Alonso was having none of it. He was determined to get past, and his persistence paid off in the end. This"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1487.313,
+            "description": "Driver 11 overtakes Driver 22 to position 3 in 1487.313 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! SERGIO PEREZ MAKES THE MOVE ON YUKI TSUNODA! THE MEXICAN DRIVER SEES HIS CHANCE AND TAKES IT WITH BOTH HANDS! HE'S UP TO THIRD PLACE NOW, AND THAT'S A MASSIVE PASS!\n\nPerez was all over the back of Tsunoda's car, waiting for the perfect opportunity to strike. And that's exactly what he did! He's got the pace, he's got the skill, and he's got the determination to make it happen!\n\n1487.313 seconds on the clock, and Perez is now ahead of Tsunoda, moving up to P3! The crowd is on their feet, folks! This is turning out to be a thrilling race!\n\nTsunoda didn't make it easy for him, but Perez was relentless in his pursuit of that podium"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1487.313,
+            "description": "Driver 22 overtakes Driver 23 to position 5 in 1487.313 seconds."
+        },
+        "commentary": "\"And here comes Yuki Tsunoda, making a move on Alex Albon! The Japanese driver saw an opportunity and he's taken it, sweeping past his Williams rival to claim 5th place! The time on that overtake, 1487.313 seconds, absolutely superb driving from Tsunoda! He's got the bit between his teeth now, pushing hard to make up more positions. What a fantastic move, the crowd is on their feet! Albon had no answer to Tsunoda's pace, he was powerless to defend. This is turning out to be a fantastic race, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1488.769,
+            "description": "Driver 55 overtakes Driver 22 to position 4 in 1488.769 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE BY CARLOS SAINZ! HE'S GOT PAST YUKI TSUNODA DOWN THE INSIDE AT TURN 7! THE FERRARI DRIVER HAS BEEN LURKING IN THE-background, WAITING FOR HIS CHANCE, AND HE'S TAKEN IT IN STYLE! HE'S UP TO 4TH PLACE NOW, IN A LAP TIME OF 1488.769 SECONDS! TSUNODA TRIED TO DEFEND, BUT SAINZ HAD THE BETTER EXIT SPEED AND DROVE AROUND THE OUTSIDE OF THE TORO ROSSO! THE CROWD IS ON ITS FEET HERE, FOLKS, AS SAINZ CONTINUES HIS CHARGE UP THE FIELD!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1488.769,
+            "description": "Driver 22 overtakes Driver 23 to position 6 in 1488.769 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! YUKI TSUNODA MAKES THE MOVE! He's been stalking Alex Albon for lap after lap, and finally, he's made the pass! Tsunoda gets a great run out of the final turn and swoops past Albon on the inside, taking sixth place! The crowd is on their feet as the Japanese driver celebrates his hard-fought move! That's a beautifully executed overtaking maneuver, folks! Tsunoda's pace has been strong all race, and now he's rewarded himself with a top-six position! Albon couldn't hold him off, and now he's got his sights set on the cars ahead. This is turning out to be a fantastic drive from the young Japanese star! The clock reads 1488.769 seconds, and what a moment for Tsunoda and his team!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1489.478,
+            "description": "Driver 63 overtakes Driver 22 to position 4 in 1489.478 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! GEORGE RUSSELL WITH A STUNNING MOVE ON YUKI TSUNODA! THE BRITISH DRIVER SLIPS UP THE INSIDE OF TURN 12, AND NOW HE'S GOT THE POSITION! RUSSELL UP TO 4TH PLACE!\n\nThat was a beautifully executed overtake, folks! Russell saw his chance, and he took it. Tsunoda was slightly wide, and Russell pounced. The Mercedes power unit proving its worth once again, as Russell gets the job done in just 1489.478 seconds!\n\nThis is a huge move for Russell, he's now right in the mix for a podium finish. And what a drive from the Brit so far! Tsunoda, on the other hand, will be disappointed to have lost that position. But full credit to Russell, he's the one who took the initiative and"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1489.478,
+            "description": "Driver 23 overtakes Driver 55 to position 5 in 1489.478 seconds."
+        },
+        "commentary": "\"Oh, what a move! Alex Albon, the Thai driver, has made a fantastic overtaking maneuver on Carlos Sainz! He's gone around the outside at Turn 12, and it's a beautifully executed pass! Sainz had no answer to the Williams driver's blistering pace, and Albon has taken the position! He's now up to 5th place, and that's a massive gain for the Williams team! The crowd is on their feet as Albon celebrates his move, and that's what we love to see in Formula 1 - pure racing instinct! The timing is impeccable, 1489.478 seconds into the race, and Albon has shown us why he's one of the most exciting young drivers on the grid! Sainz will be disappointed, but he's still in the hunt, now down to 6th position. What a"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1489.703,
+            "description": "Driver 16 overtakes Driver 22 to position 6 in 1489.703 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! Charles Leclerc, the Ferrari driver, is on the move! He's been stalking Yuki Tsunoda for a while now, and he's finally made the pass stick! Leclerc dives down the inside of Tsunoda at Turn 12, and he's through to sixth place! The Monegasque driver is on a mission, and he's not letting up! That move took place in a blistering 1 minute, 48.970 seconds, and Leclerc is now just 0.7 seconds behind Sergio Perez in fifth! The crowd is on their feet here, and Leclerc's pace is absolutely electrifying! He's got his sights set on the top five, and we can't rule out a podium finish for the Ferrari driver yet!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1495.388,
+            "description": "Driver 55 overtakes Driver 4 to position 7 in 1495.388 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! CARLOS SAINZ MAKES THE MOVE ON LANDO NORRIS! THE FERRARI DRIVER SEES AN OPENING AND TAKES IT, SLIPPING PAST THE McLAREN INTO 7th PLACE! THAT'S A BEAUTIFUL PIECE OF DRIVING BY SAINZ, WHO'S BEEN APPLYING THE PRESSURE FOR LAP AFTER LAP. NORRIS WAS DEFENDING WELL, BUT SAINZ HAD THE FASTER CAR AND THE BETTER LINE. AND NOW THE SPANISH DRIVER MOVES UP THE ORDER, CLAIMING 7th PLACE AS WE APPROACH THE HALFWAY MARK OF THE RACE! THE CROWD IS ON THE EDGE OF THEIR SEATS, FOLKS, THIS IS TURNING OUT TO BE A RACE FOR THE AGES! SAINZ NOW SETS HIS SIGHT"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1495.388,
+            "description": "Driver 4 overtakes Driver 22 to position 8 in 1495.388 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Lando Norris has made his move! He's been hounding Yuki Tsunoda for laps, and finally, he's got the job done! Norris dives down the inside of Tsunoda at Turn 12, and he's through! The McLaren takes 8th place from the AlphaTauri! That was a beautifully executed overtake, folks! Norris has been one of the most aggressive drivers on the track today, and it's paid off! He's now up to 8th, and Tsunoda has to settle for 9th. That overtake took just 1495.388 seconds, a masterclass in precision and bravery! Norris is on the move, and he's not done yet!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1497.182,
+            "description": "Driver 22 overtakes Driver 22 to position 9 in 1497.182 seconds."
+        },
+        "commentary": "\"AND TSUNODA TAKES THE INSIDE LINE! HE'S GOT THE MOVE DONE ON... HIMSELF?! NO, WAIT, HE'S PASSED H\u00dcLKENBERG! THE JAPANESE DRIVER SHOWING HIS SKILL AND AGGRESSION TO TAKE 9TH PLACE FROM THE GERMAN!\n\nThat was a beautifully executed move, folks! Tsunoda saw his chance and seized it, capitalizing on a small mistake from H\u00fclkenberg. And what a crucial pass it was, too - 9th place is a vital position to be in, especially with the pace he's showing today.\n\nThe crowd is on their feet here at [track name], and Tsunoda's crew will be thrilled with that move. He's really starting to make a name for himself in this sport, and overtakes like that will only add to his growing reputation."
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1500.195,
+            "description": "Driver 81 overtakes Driver 22 to position 9 in 1500.195 seconds."
+        },
+        "commentary": "\"AND OSCAR PIASTRI MAKES HIS MOVE! THE AUSSIE ROOKIE GETS AROUND YUKI TSUNODA AT TURN 15! THAT'S A BEAUTIFULLY EXECUTED OVERTAKE BY PIASTRI, WHO TAKES ADVANTAGE OF TSUNODA'S SLIGHT MISTAKE TO GRAB 9TH PLACE! THE CROWD IS ON THE EDGE OF THEIR SEATS AS PIASTRI COMPLETES THE PASS IN A TIME OF 1500.195 SECONDS! THIS KID'S GOT SKILLS, FOLKS! HE'S GOT THE PACE, HE'S GOT THE CONFIDENCE, AND NOW HE'S GOT THE POSITION! TSUNODA WILL BE LEFT WONDERING WHAT HAPPENED, BUT PIASTRI'S THE ONE CELEBRATING NOW!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1504.855,
+            "description": "Driver 44 overtakes Driver 22 to position 10 in 1504.855 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! LEWIS HAMILTON MAKES THE MOVE! HE'S GOT PAST YUKI TSUNODA AND TAKEN 10TH PLACE! THAT'S THE CHAMPIONSHIP WINNER WE KNOW AND LOVE, FOLKS! HE'S GOT THE BIT BETWEEN HIS TEETH NOW!\n\nHamilton's been lurking in the shadows, waiting for the perfect opportunity to strike, and that's exactly what he's done! He's got the pace, he's got the skill, and now he's got the position! Tsunoda didn't stand a chance, Lewis was just too quick and too clever!\n\nThat move came in at 1504.855 seconds, and what a crucial one it is! Hamilton's now right back in the mix, and you can bet your bottom dollar he's not going to stop there! He's going to keep"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1506.848,
+            "description": "Driver 24 overtakes Driver 18 to position 11 in 1506.848 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! ZHOU GUANYU WITH A BLISTERING MOVE ON LANCE STROLL! THE CHINESE DRIVER HAS BEEN LURKING IN THE WINGS, WAITING FOR THE PERFECT MOMENT TO STRIKE, AND HE'S DONE JUST THAT! HE'S PAST STROLL AND INTO 11TH PLACE!\n\nThat pass was executed to perfection, folks! Zhou Guanyu, who's been having a great weekend so far, saw his opportunity and took it. He's got the pace, he's got the confidence, and now he's got the position! Stroll didn't stand a chance, he was helpless to defend against that attack.\n\nWe're seeing some fantastic racing out there today, and this is just another example of it. The midfield battle is heating up, and every position counts. Zhou Guanyu knows that, and he"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1506.848,
+            "description": "Driver 18 overtakes Driver 22 to position 12 in 1506.848 seconds."
+        },
+        "commentary": "\"AND LANCE STROLL MAKES THE MOVE! He's been lurking behind Yuki Tsunoda for a while now, and finally, he sees his opportunity! Stroll dives down the inside of Turn 7, and he's got the pace to make it stick! Tsunoda can't hold him off, and Stroll takes the position! That's 12th place for the Canadian driver, and he's right on the gearbox of the cars ahead! A beautifully executed pass, and Stroll is on the move! He's gained 1.5 seconds on the cars in front, and he's looking to make more progress. 1506.848 seconds on the clock, and Stroll is putting the pressure on!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1583.086,
+            "description": "Driver 11 overtakes Driver 14 to position 2 in 1583.086 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! SERGIO PEREZ MAKES THE MOVE! HE'S GOT THE FERRARI OF FERNANDO ALONSO IN HIS SIGHTS AND HE'S TAKEN THE POSITION! THE RED BULL ROARS PAST THE PRANCING HORSE AS PEREZ MOVES UP INTO SECOND PLACE!\n\nOh, what a fantastic piece of driving from the Mexican! He's been stalking Alonso for lap after lap, waiting for the perfect moment to pounce, and now he's made it count! That's a huge momentum shift for Perez, and suddenly he's right back in the hunt for the win!\n\nThe crowd is on its feet as Perez celebrates his move, and what a vital one it is! He's now just one spot behind the leader, and you can bet your bottom dollar he'll be pushing hard to catch up. Alonso, meanwhile,"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1585.342,
+            "description": "Driver 14 overtakes Driver 14 to position 3 in 1585.342 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! FERNANDO ALONSO MAKES THE MOVE ON HIMSELF... WAIT, NO! THAT CAN'T BE RIGHT! *ahem* I apologize, folks, it seems we've got a bit of a mistake on our hands. Driver 14, Fernando Alonso, can't possibly overtake himself! This is some kind of glitch in the timing system.\n\nBut wait a minute... (checking notes) Ah, yes! I think I see what's going on here. The timing system has indeed registered an overtake, and it's Fernando Alonso who's made the pass! But it can't be on himself, that's absurd! (pausing for comedic effect) Unless... unless Fernando's found a way to clone himself and now he's racing against his own doppelganger! (laughs)\n\nSeriously though, folks, it seems we've got a"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1586.227,
+            "description": "Driver 63 overtakes Driver 14 to position 3 in 1586.227 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! GEORGE RUSSELL MAKES THE PASS ON FERNANDO ALONSO! THE BRITISH DRIVER SLIPS UP THE INSIDE OF THE SPANISH VETERAN AT TURN 7 AND TAKES THE THIRD POSITION! THAT'S A MASTERCLASS MOVE BY RUSSELL, TIMING IT TO PERFECTION AND USING ALL HIS EXPERIENCE TO GET AHEAD OF THE TWO-TIME WORLD CHAMPION!\n\n\"Russell's been pushing hard all lap, and he saw his chance when Alonso was held up slightly by a backmarker. He made the most of it, and now he's right in the mix for a podium finish! The crowd is loving it here at [circuit name], and Russell's teammates are going wild in the pit lane!\n\n\"The timing of that pass was spot on, 1586.227 seconds into the race"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1586.227,
+            "description": "Driver 16 overtakes Driver 23 to position 4 in 1586.227 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! LECLERC MAKES THE MOVE! Charles Leclerc, the Monegasque maestro, has finally found a way past Alex Albon's Williams! That's a beautifully executed pass, folks! Leclerc has been hounding Albon for laps, waiting for the perfect opportunity to strike, and strike he has! He's gone down the inside at Turn 7, using all the knowledge he's gathered from running behind Albon to perfection. And now, Leclerc finds himself up to 4th place! The timing of that pass is incredible, 1586.227 seconds into the race. He's got the pace, he's got the skill, and now he's got the position! The Ferrari is flying, and Leclerc is on a mission!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1586.672,
+            "description": "Driver 14 overtakes Driver 23 to position 6 in 1586.672 seconds."
+        },
+        "commentary": "\"AND FERNANDO ALONSO MAKES THE MOVE! THE TWO-TIME WORLD CHAMPION SLIPS PAST ALEX ALBON INTO SIXTH PLACE! THAT WAS A BEAUTIFUL PIECE OF DRIVING, FOLKS! Alonso has been chasing down Albon for lap after lap, and finally, he sees his chance. He gets a great run out of the preceding turn, and then makes the pass stick with a daring move to the inside! The crowd is on its feet as Alonso claws his way up the order! That's Alonso up to sixth, and Albon is now seventh. The midfield battle is heating up, folks! Who's next to make a move?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1591.916,
+            "description": "Driver 55 overtakes Driver 4 to position 5 in 1591.916 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE BY SAINZ! Carlos Sainz, the Ferrari driver, has pulled off a stunning overtaking maneuver on Lando Norris, snatching fifth place from the McLaren man! This was a beautifully judged move, folks, executed with precision and pace. Sainz has been sniffing around Norris's gearbox for a while now, and he's finally made his chance count. That's what you call a clean, hard-fought overtake, and it's bumped him up to fifth spot on the leaderboard! The clock says 1591.916 seconds, and this could be the spark that ignites Sainz's charge up the field. Norris, meanwhile, will be left ruing a missed opportunity to hold onto that position. But for now, it's Sainz who's the master of this particular domain!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1591.916,
+            "description": "Driver 4 overtakes Driver 14 to position 6 in 1591.916 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Lando Norris has made the move! He's got the better of Fernando Alonso, slipping past the Spaniard to take sixth place! The McLaren driver has been pushing hard to get past the Alpine, and he's finally made it stick! The pace of the McLaren has been strong all race, and Norris has been itching to get past Alonso, who's been defending his position fiercely. But Norris has got the job done, completing the pass in a time of 1591.916 seconds! That's a beautifully executed move, and Norris will be looking to keep pushing up the order from here!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1591.916,
+            "description": "Driver 14 overtakes Driver 23 to position 7 in 1591.916 seconds."
+        },
+        "commentary": "\"Fernando Alonso is on the move! The Spaniard has been pushing hard to get past Alex Albon's Williams, and he's finally done it! A beautifully executed move by the two-time world champion, using the inside line to perfection to get ahead of Albon into seventh place! The crowd is on their feet here at the circuit, and that move has lit up the timing screens - 1591.916 seconds into the race and Alonso is well and truly in the hunt! Alonso's pace has been strong all weekend, and this overtake is a testament to his relentless driving style. Albon put up a good fight, but Alonso's experience and guile ultimately won out. The Renault driver is now seventh, with his sights set on the top six - can he keep the momentum going?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1593.55,
+            "description": "Driver 14 overtakes Driver 23 to position 8 in 1593.550 seconds."
+        },
+        "commentary": "\"AND HERE COMES FERNANDO ALONSO! The Spaniard is on the move, folks! He's been lurking in the shadows, waiting for the perfect opportunity to strike. And strike he has! Alonso dives down the inside of Alex Albon, taking the position and demoting the Williams driver to 9th! That's some masterful driving from the two-time World Champion, using all his experience to get the job done. The clock says 1593.550 seconds, and Alonso is now up to 8th place, breathing down the neck of the cars ahead. Can he keep this momentum going and challenge for the top six?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1597.31,
+            "description": "Driver 81 overtakes Driver 14 to position 7 in 1597.310 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! OSCAR PIASTRI MAKES THE MOVE! THE AUSSIE ROOKIE TAKES FERNANDO ALONSO AROUND THE OUTSIDE OF TURN 12! THAT WAS A BOLD ONE, FOLKS! Piastri's been sniffing around the gearbox of the Alpine for a few laps now, and he finally makes it count! He's got the pace, he's got the confidence, and now he's got the position! Oscar Piastri takes 7th place, and Alonso has to settle for 8th! THE TIMING SAYS 1597.310 SECONDS, BUT WE KNOW IT FELT LIKE AN ETERNITY WAITING FOR THAT MOVE TO HAPPEN! Piastri's on the move, and he's on a mission to get into the points-scoring positions!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1597.31,
+            "description": "Driver 14 overtakes Driver 23 to position 9 in 1597.310 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE BY FERNANDO ALONSO! HE'S GOT PAST ALEX ALBON WITH A BEAUTIFUL PIECE OF DRIVING! THE TWO-TIME WORLD CHAMPION IS UP TO 9TH PLACE NOW, AND HE'S LOOKING TO CONTINUE HIS CHARGE UP THE ORDER! THAT OVERTAKE TOOK PLACE IN A BLISTERING 1597.310 SECONDS, FOLKS! ALONSO'S GOT THE BIT BETWEEN HIS TEETH NOW, AND HE'S NOT GOING TO LET UP! THE CROWD IS ON ITS FEET AS ALONSO TAKES THE CHEQUERED FLAG... ER, NOT YET, BUT YOU GET THE IDEA! THIS IS FERNANDO ALONSO AT HIS BEST, FOLKS! HE'S A MASTER OF THE OVERTAKE, AND HE'S"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1602.608,
+            "description": "Driver 44 overtakes Driver 14 to position 8 in 1602.608 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! LEWIS HAMILTON MAKES THE MOVE! The seven-time world champion has been sizing up Fernando Alonso for a few laps now, and he's finally made the pass! He's got the bit between his teeth, folks! Hamilton dives up the inside of Alonso at Turn 7, and it's a beautifully executed move! The crowd is on its feet as Lewis takes the position, moving up to 8th place! The timing of that pass is impeccable, 1602.608 seconds into the race, and Hamilton is right back in the mix! Alonso didn't put up much of a fight, but you can't blame him, Lewis was just too quick! The Mercedes is looking strong today, can Hamilton continue to carve his way through the field?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1602.608,
+            "description": "Driver 14 overtakes Driver 23 to position 10 in 1602.608 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE BY FERNANDO ALONSO! HE'S GOT PAST ALEX ALBON WITH A SENSATIONAL OVERTAKING MANEUVER! THE TWO-TIME WORLD CHAMPION HAS GOT THE BIT BETWEEN HIS TEETH NOW, FOLKS! HE'S UP INTO 10TH POSITION, AND HE'S NOT DONE YET! ALBON TRIED TO DEFEND, BUT ALONSO'S EXPERIENCE AND CRAFT SHONE THROUGH. THAT OVERTAKE WAS TEXTBOOK, FOLKS! HE WAITED FOR THE RIGHT MOMENT, PICKED HIS SPOT, AND THEN MADE THE MOVE STICK. THE CROWD IS ON ITS FEET AS ALONSO TAKES THE CHEQUERED FLAG IN 10TH PLACE! THAT'LL GIVE HIM A BIG BOOST, AND WHO KNOWS, MIGHT JUST"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1604.91,
+            "description": "Driver 24 overtakes Driver 18 to position 9 in 1604.910 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! ZHOU GUANYU MAKES THE MOVE! The Chinese driver has been lurking in the shadows, waiting for the perfect opportunity to strike, and he's done just that! He's swept past Lance Stroll on the outside of Turn 4 to take 9th place! The gap was tiny, but Zhou saw his chance and took it, his Alfa Romeo eating into the gap in a flash! The crowd is on the edge of their seats here, folks! That was a beautifully executed overtake, and Zhou's reward is a jump up to 9th position! The timing screens say it happened at 1604.910 seconds, and what a crucial pass it is! Zhou's now right in the mix, and you can bet he won't be satisfied with just 9th place... he'll be pushing hard to climb even higher up"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1604.91,
+            "description": "Driver 18 overtakes Driver 23 to position 11 in 1604.910 seconds."
+        },
+        "commentary": "\"And here comes Lance Stroll, making a bold move on the inside of Alex Albon! He's been stalking him for a few laps, waiting for the perfect opportunity to pounce. AND HE TAKES IT! Stroll dives down the inside of Albon at turn 4, and he's through! That's a fantastic piece of driving from the Canadian, getting it done in 1604.910 seconds. He's now up to 11th place, as Albon is forced to relinquish the position. That's a big gain for Aston Martin, and Stroll will be looking to build on this momentum!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1605.374,
+            "description": "Driver 22 overtakes Driver 23 to position 12 in 1605.374 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! YUKI TSUNODA MAKES THE PASS ON ALEX ALBON! THE JAPANESE DRIVER GETS AROUND THE OUTSIDE OF THE WILLIAMS AT TURN 12! THAT'S A BEAUTIFUL MOVE BY TSUNODA, WHO'S BEEN HOUNDING ALBON FOR THE LAST FEW LAPS. THE CROWD IS ON ITS FEET AS TSUNODA TAKES POSITION 12! THE STOPWATCH SAYS 1605.374 SECONDS, BUT WE KNOW IT FELT LIKE AN ETERNITY FOR ALBON, WHO'S NOW FALLING BACK DOWN THE ORDER. TSUNODA'S GOT THE BIT BETWEEN HIS TEETH NOW, CAN HE KEEP PUSHING UP THE FIELD?!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1606.161,
+            "description": "Driver 20 overtakes Driver 23 to position 13 in 1606.161 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Kevin Magnussen makes his move! The Danish driver has been lurking behind Alex Albon for several laps, waiting for the perfect opportunity to strike. And now he's taken it! Magnussen's Haas is ahead of Albon's Williams, moving him up to 13th place! That overtake was executed to perfection, folks! The timing was impeccable, and Magnussen's car control was sublime. He's really showing what he's capable of out there. Albon didn't put up much of a fight, but you can't blame him - Magnussen was just too quick. And what a lap time to do it in, 1:06.161! That's seriously rapid. Magnussen's on the move, and we love it!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1608.104,
+            "description": "Driver 23 overtakes Driver 23 to position 14 in 1608.104 seconds."
+        },
+        "commentary": "\"AND ALBON TAKES THE POSITION! Alex Albon, the Thai driver, has pulled off a fantastic move on himself... WAIT, WHAT'S THIS?! NO, SERIOUSLY, FOLKS, ALBON HAS JUST OVERTAKEN HIMSELF TO TAKE 14TH PLACE! I'VE NEVER SEEN ANYTHING LIKE THIS IN ALL MY YEARS OF COMMENTATING!\n\nThe timing screens say it happened at 1608.104 seconds, and I'm still trying to wrap my head around it. I mean, I've seen drivers make mistakes, but overtaking yourself? That's a new one! Albon must be wondering what's going on, but I suppose you can't argue with the result!\n\nWe'll have to review the footage to see what exactly happened, but for now, Albon finds himself up in 14th place. Who knows, maybe"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1700.084,
+            "description": "Driver 55 overtakes Driver 14 to position 4 in 1700.084 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! CARLOS SAINZ, THE SPANIARD, IS ON THE MOVE! HE'S GOT THE BIT BETWEEN HIS TEETH AND HE'S GONE PAST FERNANDO ALONSO FOR POSITION 4! THE FERRARI DRIVER, SAINZ, HAS WAITED FOR THE PERFECT MOMENT AND TAKEN ADVANTAGE OF ALONSO'S SLIGHT MISTAKE TO SNEAK PAST! THE CROWD IS ON ITS FEET AS SAINZ MOVES UP TO 4TH PLACE, AND ALONSO IS NOW FORCED TO SETTLE FOR 5TH! THIS IS A HUGE MOVE BY SAINZ, FOLKS, AND IT'S COMING AT A TIME WHEN HE NEEDED IT MOST! THE LAP TIME IS 1700.084 SECONDS, AND SAINZ IS NOW WELL"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1700.084,
+            "description": "Driver 14 overtakes Driver 24 to position 9 in 1700.084 seconds."
+        },
+        "commentary": "\"AND HERE COMES FERNANDO ALONSO! THE TWO-TIME WORLD CHAMPION SEES AN OPPORTUNITY AND TAKES IT! HE'S GOT THE PACE, HE'S GOT THE SKILL, AND NOW HE'S GOT THE POSITION! ALONSO SLIDES UP THE INSIDE OF ZHOU GUANYU AT TURN 7 AND TAKES 9TH PLACE! THE CLOCK STOPS AT 1700.084 SECONDS AS THE ASTON MARTIN DRIVER MAKES IT STICK! A CLASSIC OVERTAKE FROM ONE OF THE MASTERS OF THE CRAFT! ALONSO IS ON THE MARCH, FOLKS!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1702.756,
+            "description": "Driver 24 overtakes Driver 18 to position 10 in 1702.756 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! ZHOU GUANYU WITH A MASTERFUL MOVE ON LANCE STROLL! He's been lurking in the shadows, waiting for the perfect opportunity, and he's taken it! The Alfa Romeo driver slips up the inside of the Aston Martin at Turn 7, and Stroll couldn't do anything to defend it. Zhou's got the pace, he's got the skill, and now he's got the position! He moves up to 10th place, and that's a massive gain for the Chinese driver. The crowd is on their feet here, what a fantastic overtaking maneuver! The timing was perfect, the braking was spot on, and the execution was flawless. Zhou Guanyu, you are the master of the moment! Stroll, on the other hand, will be disappointed to have lost that position, but he's still got work"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1706.194,
+            "description": "Driver 22 overtakes Driver 23 to position 11 in 1706.194 seconds."
+        },
+        "commentary": "AND THERE IT IS! YUKI TSUNODA WITH A FEARLESS MOVE ON ALEX ALBON! THE JAPANESE DRIVER SEES HIS CHANCE AND TAKES IT, DIVING DOWN THE INSIDE AT TURN... *checks notes* ...11! Tsunoda's got the pace, he's got the skill, and now he's got the position! He slots into 11th place, and Albon's got to yield, he's got no choice! That's a beautifully executed overtake, folks, and the timing is spot on! 1706.194 seconds into the race and Tsunoda's on the move! The crowd is on their feet, and I am on the edge of my seat! What a drive from the Japanese sensation!"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1706.194,
+            "description": "Driver 23 overtakes Driver 31 to position 14 in 1706.194 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Alex Albon in the number 23 car pulls off a brilliant pass on Esteban Ocon in the number 31! He's been sizing him up for a few laps, waiting for the perfect moment to strike, and now he's made it count! The Thai driver slips up the inside at Turn 12, and Ocon couldn't defend it! That's Albon into 14th place, and what a vital move that is for his race! He's done it in a time of 1706.194 seconds, and the crowd is loving it! The battle is on, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 1778.251,
+            "description": "Driver 55 overtakes Driver 63 to position 3 in 1778.251 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! CARLOS SAINZ IS ON THE MOVE! THE FERRARI DRIVER SEES HIS CHANCE AND TAKES IT, SAILING PAST GEORGE RUSSELL'S MERCEDES TO TAKE THIRD PLACE! THE CROWD IS ON ITS FEET AS SAINZ SHOWS HIS SKILL AND DETERMINATION TO GET AHEAD!\n\nThat was a beautifully executed move, folks! Russell was struggling to keep pace, and Sainz saw his chance. He's been pushing hard all race, and it's paid off. The Ferrari is looking strong today!\n\nThe timing was perfect, as Sainz makes his move at the 1778.251-second mark. The Spanish driver is now up to third, and who knows what more he can achieve? The gap to the leaders is still there to be bridged, but S"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2007.085,
+            "description": "Driver 63 overtakes Driver 27 to position 4 in 2007.085 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! GEORGE RUSSELL MAKES THE MOVE ON NICO H\u00dcLKENBERG! THE MERCEDES POWER UNIT COMES ALIVE AS RUSSELL SURGES PAST THE HAAS CAR! THAT'S A MASTERFUL OVERTAKE, FOLKS! RUSSELL SEES THE OPPORTUNITY AND TAKES IT WITH BOTH HANDS! HE'S NOW UP TO 4TH PLACE, A VITAL PASS IN THIS RACE! THE TIME TO COMPLETE THE OVERTAKE? A LIGHTNING-FAST 2007.085 SECONDS! RUSSELL IS ON THE MARCH, FOLKS, AND HE'S NOT DONE YET!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2007.63,
+            "description": "Driver 77 overtakes Driver 10 to position 17 in 2007.630 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! VAALTTERI BOTTAS MAKES THE MOVE ON PIERRE GASLY! THE FINN GETS AROUND THE OUTSIDE OF TURN 3 TO GRAB 17TH PLACE! THE CROWD IS ON THE EDGE OF THEIR SEATS AS BOTTAS TAKES JUST 2007.630 SECONDS TO COMPLETE THE OVERTAKE!\n\nBottas was lurking in Gasly's gearbox for a few laps, waiting for the perfect opportunity to strike. And strike he did! The Mercedes power unit proved too strong for Gasly's AlphaTauri, as Bottas pulled off a textbook overtaking maneuver. That's the kind of aggressive driving we've come to expect from the Finn!\n\nGasly, meanwhile, is left to ponder what could've been. He was holding his own against the midfield pack, but Bottas' renewed"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2007.63,
+            "description": "Driver 10 overtakes Driver 27 to position 18 in 2007.630 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! Pierre Gasly, the Frenchman, makes his move on Nico H\u00fclkenberg! He's been sizing him up for laps, waiting for the perfect opportunity, and it's come at last! Gasly dives down the inside, gets alongside H\u00fclkenberg, and takes the position! That's 18th place, and what a stat - it's taken him just 2007.630 seconds to make the pass!\n\nYou can see the determination in Gasly's face, he's been struggling to find pace all weekend, but that was a masterclass of opportunistic driving. H\u00fclkenberg didn't put up much of a fight, but you can't blame him, Gasly was just too quick. That's the kind of move that can get the momentum going for the rest of the race. Can Gasly keep pushing forward and crack"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2099.798,
+            "description": "Driver 3 overtakes Driver 31 to position 15 in 2099.798 seconds."
+        },
+        "commentary": "\"AND HERE COMES DANIEL RICCIARDO! The Aussie has been itching to make a move for a while now, and he's finally made it stick! He's gone past ESTEBAN OCON, the Frenchman, and taken 15th place! The overtake was clinical, precise, and perfectly executed! Ricciardo's Renault is looking quick out there, and he's not done yet! The crowd is on their feet as he celebrates a hard-fought pass, and what a time to do it - 2099.798 seconds on the clock! Ocon didn't make it easy for him, but Ricciardo's determination paid off! He's got the bit between his teeth now, and we can expect more of the same from the Honey Badger!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2778.438,
+            "description": "Driver 22 overtakes Driver 24 to position 10 in 2778.438 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! YUKI TSUNODA MAKES HIS MOVE! THE JAPANESE DRIVER SLIPS UP THE INSIDE OF ZHOU GUANYU AT TURN 12 AND TAKES THE POSITION! TSUNODA'S GOT THE PACE AND HE'S MADE IT COUNT, MOVING UP TO 10TH PLACE IN THE PROCESS!\n\nThat's a beautifully executed overtake, folks! Tsunoda's been sniffing around the gearbox of the Alfa Romeo for a few laps now, waiting for the perfect moment to strike. And what a pass it was! He dove down the inside, carrying plenty of speed, and Zhou just didn't have the defense to hold him off.\n\nThe timing of that overtake is crucial, coming just as we're about to hit the midpoint of the race. Tsunoda's got the bit between his teeth now"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2783.928,
+            "description": "Driver 24 overtakes Driver 18 to position 11 in 2783.928 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! ZHOU GUANYU MAKES THE MOVE! HE TAKES THE INSIDE LINE AND GETS PAST LANCE STROLL! THE CHINESE DRIVER SHOWING HIS SKILLS YET AGAIN! THIS TIME, IT'S FOR 11TH PLACE!\n\nThat was a beautifully executed move, folks! Zhou Guanyu saw the gap and went for it, and Stroll just couldn't hold him off. The Alfa Romeo driver takes the position in a time of 2,783.928 seconds!\n\nThe crowd is on their feet as Zhou celebrates his latest gain! Stroll will be disappointed to have lost the spot, but credit to Zhou for seizing the opportunity! This is turning out to be a thrilling race, folks! Stay tuned!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2785.275,
+            "description": "Driver 23 overtakes Driver 3 to position 13 in 2785.275 seconds."
+        },
+        "commentary": "\"And here comes Alex Albon, the Thai driver, making a move on Daniel Ricciardo down the back straight! He's been hunting him down for a few laps now, and finally, he's made the pass stick! Albon gets alongside Ricciardo, and with a late braking maneuver, he takes the position! That's a fantastic overtaking move, folks! He's up to 13th place now. The timing screens are saying 2785.275 seconds, and what a vital move that could be for Albon's race. Ricciardo struggling a bit with his pace today, and Albon's taken advantage. Can he now start to make inroads towards the points-paying positions?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2785.275,
+            "description": "Driver 3 overtakes Driver 18 to position 14 in 2785.275 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! DANIEL RICCIARDO MAKES THE MOVE! HE'S PASSED LANCE STROLL FOR 14th PLACE! THE AUSTRALIAN DRIVER TIMED IT TO PERFECTION, SENSING THE RIGHT MOMENT TO MAKE THE ATTACK! Stroll was struggling to find pace, and Ricciardo capitalized on that, seizing the opportunity to take 14th spot! The crowd is loving it here, folks! That's a great pass by the McLaren driver, and he's now up to 14th, with a time of 2785.275 seconds on the clock! That's some serious driving from Ricciardo, who's been looking for a way past Stroll for the past few laps. The move pays off, and he's now in prime position to start making some more moves up the grid!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2792.563,
+            "description": "Driver 31 overtakes Driver 18 to position 15 in 2792.563 seconds."
+        },
+        "commentary": "\"Oh, what a move! Esteban Ocon, the Frenchman, is on the charge! He's been hovering around the gearbox of Lance Stroll's Aston Martin for the past few laps, and finally, he's made his move stick! Ocon slices up the inside of Turn 7, and Stroll can't hold him off! The French driver takes 15th place, and that's a fantastic bit of driving! The crowd is on their feet as Ocon celebrates a hard-fought pass! That's exactly what he needed to get his race back on track. And Stroll, he's now down to 16th, struggling to keep pace with the midfield pack. The timing of that overtake is perfect, 2792.563 seconds into the race, and it's a crucial points-paying position for Ocon and Alpine!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2793.428,
+            "description": "Driver 77 overtakes Driver 10 to position 16 in 2793.428 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Valtteri Bottas, the Finn, makes his move! He's been sizing up Pierre Gasly for a few laps now, and he's finally made the pass stick! Gasly didn't put up much of a fight, but Bottas was determined to get ahead! That's a great piece of driving from the Alfa Romeo man, he's up to 16th place now, and he's gained a valuable position!\n\nThe time was 2793.428 seconds, just over 46 minutes into the race, and Bottas has finally shaken off the Frenchman. That's a massive boost for the Finn, who was struggling to find pace earlier in the race. But now, he's on a roll! Can he continue to carve his way through the field? The crowd is on their feet here, what a move by Bottas!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2793.428,
+            "description": "Driver 10 overtakes Driver 18 to position 17 in 2793.428 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! PIERRE GASLY MAKES THE MOVE ON LANCE STROLL! THE FRENCHMAN TAKES THE INSIDE LINE INTO TURN 7 AND PULLS OFF A BEAUTIFUL OVERTAKE TO LEAPFROG THE ASTON MARTIN DRIVER! THAT'S GASLY UP TO 17TH PLACE NOW!\n\nThe AlphaTauri driver was all over the back of Stroll's car, waiting for the perfect opportunity to strike, and when it came, he took it with both hands! Gasly's got the bit between his teeth now, folks, and he's looking to climb even further up the order!\n\nA great piece of driving from Gasly, and Stroll will be left to rue that one, I'm sure. The gap to 16th place is still a decent one, but Gasly's got the"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2881.074,
+            "description": "Driver 20 overtakes Driver 24 to position 11 in 2881.074 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! Kevin Magnussen makes the move on Zhou Guanyu! The Danish driver has been lurking behind the Chinese rookie for a few laps now, sizing him up, and he's finally made the pass! Magnussen's Haas is looking mighty quick today, and he's now up to 11th position!\n\nThat move came at the 2881.074-second mark, a beautifully executed overtaking maneuver. Magnussen saw his chance and took it, capitalizing on Zhou's slight mistake. The Renault-powered Haas is really showing its pace, and Magnussen is doing an excellent job of extracting the maximum from it.\n\nZhou, on the other hand, will be disappointed to have lost that position. He's had a strong weekend so far, but that small error has cost him dearly. Nevertheless, he's still in the points-paying positions, and he"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2881.826,
+            "description": "Driver 23 overtakes Driver 24 to position 12 in 2881.826 seconds."
+        },
+        "commentary": "\"And here comes Alex Albon, the Thai driver making his move on the Chinese rookie Zhou Guanyu! Albon sees the opportunity and takes it, diving down the inside of Zhou at Turn 9, and making it stick! The Williams driver is now up to 12th position, and Zhou is left to settle for 13th. That's a great piece of driving from Albon, who's been quietly moving up the order all race. The move comes at 2881.826 seconds on the clock, and it's a crucial one as Albon looks to bag some valuable points for his team. Zhou, on the other hand, will be disappointed to have lost out, but he's still learning and will come back stronger from this experience. Great stuff from Albon, though, as he makes his way up the field!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2883.437,
+            "description": "Driver 3 overtakes Driver 24 to position 13 in 2883.437 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! Daniel Ricciardo, the Honey Badger, has made his move! He's squeezed past Zhou Guanyu at the apex of turn 7 and takes 13th place! The Australian driver has been hovering just behind the Alfa Romeo for the past few laps, waiting for the perfect opportunity to strike. And what a move it was! He's gotten the job done on the outside, using all of his experience and guile to make that pass stick. Ricciardo is now in 13th, and Zhou Guanyu drops to 14th. The clock says 2883.437 seconds, and what a crucial overtake that could be for Ricciardo's chances of getting into the points-paying positions. He's got the bit between his teeth now, can he keep pushing and make further inroads up the order?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2889.294,
+            "description": "Driver 24 overtakes Driver 24 to position 14 in 2889.294 seconds."
+        },
+        "commentary": "\"UNBELIEVABLE! Zhou Guanyu, the Chinese driver, is on the move! He's got his sights set on the 14th position and he's going for it! He's been hounding the back of... himself?! Wait, what's going on here? The timing screen says he's overtaken himself! Has Zhou Guanyu just overtaken... Zhou Guanyu?!\n\nFolks, we've got a bit of a bizarre situation on our hands here. It seems there's been some sort of timing glitch, and Zhou Guanyu has been credited with overtaking himself! I've never seen anything like this before!\n\nLet me check the replays... (pause) Ah, I see what's happened here. It looks like Zhou Guanyu has just completed a faster lap than his previous one, and the timing system has mistakenly credited him with"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2891.373,
+            "description": "Driver 31 overtakes Driver 24 to position 14 in 2891.373 seconds."
+        },
+        "commentary": "\"AND ESTEBAN OCON HAS MADE THE MOVE! HE'S GOT PAST ZHOU GUANYU AND TAKEN 14TH PLACE! THE FRENCHMAN HAS BEEN PUSHING HARD TO GET BACK UP THE ORDER AFTER THAT EARLY PIT STOP, AND HE'S FINALLY GOT HIS JUST REWARDS.\n\nThat was a beautifully judged move, folks! Ocon saw his chance and took it, diving down the inside of Zhou at Turn 7. The Alfa Romeo driver didn't put up much of a fight, and Ocon has now moved up to 14th place.\n\nThe timing of that move was impeccable, too - 2891.373 seconds into the race, and Ocon has given himself a fresh target to aim for. Can he keep pushing and move further up the order? The French fans in the grandstands are certainly hoping so!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2891.997,
+            "description": "Driver 77 overtakes Driver 10 to position 15 in 2891.997 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Valtteri Bottas, the Finnish veteran, sees an opportunity and takes it! He dives down the inside of Pierre Gasly at Turn 12, and makes it stick! Gasly's defense is solid, but Bottas has the pace and the precision to make the overtaking maneuver work. And that's how you gain a position, folks! Bottas now moves up to 15th place, and Gasly is relegated to 16th. The time is 2891.997 seconds, and we've got a new battle on our hands!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2891.997,
+            "description": "Driver 10 overtakes Driver 24 to position 16 in 2891.997 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! PIERRE GASLY MAKES THE MOVE! HE'S GOT AROUND ZHOU GUANYU ON THE OUTSIDE OF TURN 5! Gasly's been tracking him for a few laps, and finally, he sees his chance. He commits to the outside line, gets the power down, and takes the position! That's Gasly up to 16th place, and he's really starting to make progress now! The Frenchman's got the bit between his teeth, and he's not giving up! That's a great pass, and it moves him one step closer to the points-paying positions! The clock says 2891.997 seconds, and Gasly's on the move!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 2990.808,
+            "description": "Driver 10 overtakes Driver 77 to position 15 in 2990.808 seconds."
+        },
+        "commentary": "\"AND THERE'S THE PASS! Pierre Gasly, the Frenchman, has finally made his move on Valtteri Bottas! He's been lurking in the shadows, waiting for the perfect opportunity, and it's paid off! Gasly slipstreams past the Alfa Romeo, taking the inside line through turn 7, and now he's up to 15th place! The crowd is loving it here at the circuit! The time is 2990.808 seconds, and Gasly is making a charge! Bottas, meanwhile, is struggling to keep pace, and he's now relegated to 16th. This could be the spark Gasly needs to kick-start his race, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3040.697,
+            "description": "Driver 16 overtakes Driver 63 to position 4 in 3040.697 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Charles Leclerc, the Monegasque master, makes his move on George Russell! He's been stalking him for laps, waiting for the perfect opportunity, and now he's pounced! Leclerc dives down the inside, and Russell can't defend! The Ferrari number 16 car slots into fourth place, and the crowd is on its feet here at [Track Name]! That was a beautifully executed pass, and Leclerc is now just 3.4 seconds behind the battle for second place! The Monaco native is on a mission, folks! Russell, meanwhile, drops back to fifth, but he's still well in the hunt. We're witnessing some incredible racing out there, and it's only lap 17!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3088.879,
+            "description": "Driver 63 overtakes Driver 10 to position 5 in 3088.879 seconds."
+        },
+        "commentary": "\"And here comes George Russell, looking to make a move on Pierre Gasly! He's been lurking in the shadows, waiting for the perfect opportunity, and now he's making his play! Russell's got the pace, he's got the skill, and he's got the confidence! He's going to try to sneak up the inside of Gasly through Turn 12...\n\nAND HE MAKES IT STICK! GEORGE RUSSELL TAKES POSITION FIVE FROM PIERRE GASLY! The Mercedes driver with a beautifully executed move, taking advantage of Gasly's slight hesitancy on the brakes! Russell's got the bit between his teeth now, can he keep pushing and make further gains?\n\nThe crowd is on their feet here at the circuit, and we're only just getting started! Russell's now 5th, and he's got his sights set on the top four"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3088.879,
+            "description": "Driver 24 overtakes Driver 31 to position 14 in 3088.879 seconds."
+        },
+        "commentary": "\"OH, BEAUTIFUL MOVE! ZHOU GUANYU TAKES THE INSIDE LINE AND MAKES IT STICK! The Chinese driver has been pressing hard for a few laps now, and finally, he's made the pass on Esteban Ocon! He's up to 14th place now, and what a way to do it! 3088.879 seconds on the clock, and Zhou has shown he's got the pace and the skill to get the job done! Ocon didn't make it easy for him, but Zhou was determined to get by, and now he's got some clear track ahead to try and chase down the next car. Well done, Zhou Guanyu!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3088.879,
+            "description": "Driver 31 overtakes Driver 77 to position 15 in 3088.879 seconds."
+        },
+        "commentary": "\"AND ESTEBAN OCON MAKES THE MOVE! THE FRENCHMAN GETS AROUND VALTTERI BOTTAS AROUND THE OUTSIDE OF TURN 5! THAT WAS A BEAUTIFUL PIECE OF DRIVING, FOLKS! OCON CATCHES BOTTAS OFF GUARD AND TAKES ADVANTAGE OF THE FINN'S SLIGHT MISTAKE. THAT'S THE PASS THAT PUTS OCON INTO 15TH PLACE, AND HE'LL BE LOOKING TO KEEP MOVING FORWARD FROM HERE! THE CROWD IS ON THE EDGE OF THEIR SEATS AS OCON TAKES THE CHEQUERED FLAG... OH, WAIT, THERE'S STILL A LONG WAY TO GO IN THIS RACE! BUT WHAT A MOVE BY OCON, THOUGH! HE'S REALLY STARTING TO FIND HIS RHYTHM NOW"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3089.861,
+            "description": "Driver 18 overtakes Driver 31 to position 15 in 3089.861 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! LANCE STROLL WITH THE MOVE OF THE RACE SO FAR! HE'S GOT THE BETTER OF ESTEBAN OCON AT THE EXIT OF TURN 12, AND NOW HE'S UP TO 15TH POSITION! THE CANADIAN DRIVER WITH THE OVERTAKE, TIMED TO PERFECTION! OCON DIDN'T PUT UP MUCH OF A FIGHT, AS STROLL TOOK ADVANTAGE OF THE FRENCHMAN'S SLIGHT MISTAKE. THAT'S THE KIND OF MOVE THAT CAN GIVE YOU WINGS, FOLKS! STROLL'S GOT THE BIT BETWEEN HIS TEETH NOW, LET'S SEE IF HE CAN KEEP THE MOMENTUM GOING!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3089.861,
+            "description": "Driver 31 overtakes Driver 77 to position 16 in 3089.861 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Esteban Ocon has pulled off a brilliant move on Valtteri Bottas, sneaking up the inside at Turn 12 to take 16th place! The Frenchman has been hustling all lap, and finally, he's made the pass stick! Ocon's pace has been impressive, and he's been hounding Bottas for the last few corners. Bottas, struggling with his tires, couldn't defend against the determined Ocon. The Alpine driver takes the spot, and now sets his sights on the next scalp! The crowd is on their feet here, folks! That's the kind of racing that gets the heart racing! Ocon up to 16th, Bottas drops to 17th, and the clock says... 3089.861 seconds on the dot! What a drive from Ocon!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3091.184,
+            "description": "Driver 10 overtakes Driver 31 to position 16 in 3091.184 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! PIERRE GASLY PULLS OFF A STUNNING MOVE ON ESTEBAN OCON! THE FRENCHMAN GETS AROUND THE OUTSIDE OF HIS COMPATRIOT AT TURN 7 AND TAKES 16TH POSITION!\n\nGasly's been reeling Ocon in for the past few laps, and he's finally made his move stick! That's some fantastic driving from the AlphaTauri man. He's got the bit between his teeth now, and he's not giving up!\n\nThe timing's perfect, too - 3091.184 seconds into the race and Gasly's made his move. That's some impressive decision-making from the French driver. Ocon had no answer to that move, and Gasly's now up to 16th, sniffing out more points for his team.\n\nWhat a drive from"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3095.012,
+            "description": "Driver 27 overtakes Driver 31 to position 17 in 3095.012 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Nico H\u00fclkenberg has made the pass on Esteban Ocon! The German driver has been sizing up the Frenchman for a few laps now, and he's finally made it count! A fantastic piece of driving from H\u00fclkenberg, using all his experience to get the job done! He's up to 17th position now, and Ocon is forced to relinquish the spot. That's a great bit of racing, folks! The Hulk has struck! The time is 3095.012 seconds, and this overtaking maneuver is going to give H\u00fclkenberg a huge boost in momentum. He's looking to make more progress up the field now, can he keep this pace up?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3095.012,
+            "description": "Driver 31 overtakes Driver 77 to position 18 in 3095.012 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Esteban Ocon, the Frenchman, has made a brilliant pass on Valtteri Bottas! He's taken the inside line, and Bottas couldn't defend it! Ocon's got the pace, and he's made it stick! He's up to 18th place now, and Bottas is forced to slot in behind! \n\nThat was a beautifully executed move, folks! Ocon's been pushing hard all race, and that's the reward. He's got the bit between his teeth now, and he's not going to let up! The crowd is on their feet as Ocon takes the applause, and Bottas will be looking to regroup and fight back! What a fantastic piece of driving from the Alpine man, and we're loving it here! The timing's perfect, 3095.012 seconds into the race"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3140.409,
+            "description": "Driver 4 overtakes Driver 63 to position 5 in 3140.409 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Lando Norris has pulled off a stunning move on George Russell! The Briton has been all over the back of the Mercedes for the past few laps, and finally, he's made his move stick! Norris dives down the inside at Turn 12, and Russell can't quite defend! The McLaren man takes the position, and that's P5 for Norris! He's made it count, and the crowd is going wild! That's a crucial pass, and it's all change in the top 6 now! Norris is right in the mix, and his pace has been incredible all race long. Russell, meanwhile, will be disappointed to have lost that spot, but he'll be keen to get back on terms. We're in for a thrilling remainder of the race here, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3144.542,
+            "description": "Driver 63 overtakes Driver 63 to position 6 in 3144.542 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! GEORGE RUSSELL MAKES THE MOVE! HE'S PASSED... wait, what? No, no, no! That can't be right! Driver 63 overtaking Driver 63? That's Russell overtaking himself?! Oh dear, it seems we have a bit of a situation on our hands here, folks! The timing screens are showing Russell in sixth place, but it looks like some sort of glitch has occurred. I've never seen anything like this before! The crowd is confused, the teams are scratching their heads... this is absolute chaos! Let's try to make sense of this, shall we? Maybe we can get some clarification from the stewards or someone in the know. But for now, it looks like Russell has somehow managed to overtake himself and take sixth place! Unbelievable!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3146.561,
+            "description": "Driver 81 overtakes Driver 44 to position 6 in 3146.561 seconds."
+        },
+        "commentary": "\"OH, WHAT A MOVE! Oscar Piastri, the young Australian, has just pulled off a stunning overtaking maneuver on none other than the seven-time world champion, Lewis Hamilton! Piastri's been stalking Hamilton for lap after lap, waiting for the perfect opportunity to strike, and he's taken it with aplomb! \n\nComing out of Turn 12, Piastri gets a better exit than Hamilton, and he's able to get alongside the Mercedes on the run down to Turn 13. Hamilton tries to defend, but Piastri's got the pace and the precision to make the pass stick! He's now up to 6th place, with Hamilton relegated to 7th!\n\nThe timing screen shows us that Piastri's made the pass in a blistering 3146.561 seconds, and you can bet your bottom dollar that's going to be one"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3146.561,
+            "description": "Driver 44 overtakes Driver 63 to position 7 in 3146.561 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! LEWIS HAMILTON MAKES THE MOVE ON GEORGE RUSSELL! The seven-time world champion is on a mission, folks! Hamilton sees an opportunity and takes it, getting past Russell's Mercedes-powered Williams to take seventh place! The crowd is on their feet here at the circuit as Hamilton displays his trademark lightning-quick reflexes to make the pass stick! Russell put up a good fight, but Hamilton's experience and guile ultimately won out. And look at the timing \u2013 3146.561 seconds on the clock \u2013 Hamilton's making his move just as we're approaching the halfway mark in the race. This could be the spark that ignites his charge up the order!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3157.912,
+            "description": "Driver 14 overtakes Driver 63 to position 8 in 3157.912 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! FERNANDO ALONSO MAKES THE MOVE! He's been sizing up George Russell for laps, and finally, the Spanish veteran sees his opportunity! He dives down the inside, using every inch of the track, and takes the position! Alonso now up to 8th, and Russell relegated to 9th! The Alonso magic is back, folks! What a drive from the two-time world champion! The clock says 3157.912 seconds, and Fernando Alonso is on the march!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3176.088,
+            "description": "Driver 63 overtakes Driver 20 to position 9 in 3176.088 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! George Russell makes the move! He's been stalking Kevin Magnussen for laps, waiting for the perfect opportunity to pounce, and he's just taken it! Russell dives down the inside of Magnussen at Turn 7, and he's made it stick! The Mercedes-powered Williams is looking strong today, and Russell is making the most of it. He's up to 9th place now, and he's on a charge! The gap to the cars ahead is still significant, but Russell will be buoyed by this move. He's got the bit between his teeth now, and we can expect him to keep pushing. The clock says 3176.088 seconds, and Russell is on the move!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3177.538,
+            "description": "Driver 23 overtakes Driver 3 to position 11 in 3177.538 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Alex Albon, the Thai driver, is on the charge! He's been hounding Daniel Ricciardo for the past few laps, and he's finally made his way past! Albon takes 11th place from the McLaren of Ricciardo, and what a beautiful piece of driving that was! He's been patient, waiting for the perfect moment to strike, and now he's rewarded himself with a position higher up the order. That's a great boost for the Williams team, and Albon will be looking to continue his momentum from here. The timing of the move was impeccable, getting it done in a blistering 3177.538 seconds! Ricciardo didn't put up much of a fight, but Albon didn't need an invitation to get past. The crowd is on their feet as Albon takes to the radio to celebrate"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3177.538,
+            "description": "Driver 3 overtakes Driver 20 to position 12 in 3177.538 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! DANIEL RICCIARDO MAKES HIS MOVE! THE AUSSIE ACE GETS AROUND KEVIN MAGNUSSEN AND TAKES 12TH POSITION! THAT'S A BEAUTIFUL PIECE OF DRIVING, FOLKS! RICCIARDO'S BEEN LURKING BEHIND THE HAAS FOR A FEW LAPS NOW, WAITING FOR THE PERFECT MOMENT TO STRIKE. AND STRIKE HE HAS! 3177.538 SECONDS INTO THE RACE, RICCIARDO TAKES ADVANTAGE OF MAGNUSSEN'S MOMENTARY LAPSE AND SEALS THE DEAL! THE CROWD IS ON THE EDGE OF THEIR SEATS AS RICCIARDO CELEBRATES HIS OVERTAKING MASTERCLASS!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3191.866,
+            "description": "Driver 20 overtakes Driver 10 to position 13 in 3191.866 seconds."
+        },
+        "commentary": "\"AND THERE'S A MOVE! Kevin Magnussen, the Haas driver, is making his way up the order! He's got the bit between his teeth and he's gone past Pierre Gasly for 13th place! That's a brilliant overtaking maneuver, folks! Gasly was struggling to find pace, and Magnussen saw his chance. He's been closing in for a few laps now, and he's finally made the move stick! The Danish driver is on a roll, and he's not stopping anytime soon! The crowd is on their feet as Magnussen takes 13th, and Gasly is left to regroup in 14th! What a drive from the Haas man!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3206.646,
+            "description": "Driver 27 overtakes Driver 10 to position 16 in 3206.646 seconds."
+        },
+        "commentary": "\"AND HERE COMES H\u00dcLKENBERG! NICO H\u00dcLKENBERG WITH A BEAUTIFUL MOVE ON PIERRE GASLY! HE'S BEEN LURKING IN THE BACKGROUND, WAITING FOR HIS CHANCE, AND NOW HE'S TAKEN IT! HE'S GOT THE FRENCHMAN ON THE OUTSIDE OF TURN 7 AND HE'S GOT THE PASS DONE! H\u00dcLKENBERG INTO 16TH PLACE NOW! THAT TOOK 3206.646 SECONDS TO EXECUTE, BUT IT WAS WORTH THE WAIT! THE GERMAN DRIVER IS ON THE MARCH NOW, FOLKS! GASLY HAD NO ANSWER TO THAT MOVING!'"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3282.16,
+            "description": "Driver 18 overtakes Driver 20 to position 13 in 3282.160 seconds."
+        },
+        "commentary": "\"And here comes Lance Stroll, the Aston Martin driver, he's been lingering just behind Kevin Magnussen for a few laps now, waiting for the perfect opportunity to strike! AND HE'S TAKEN IT! Stroll gets a great run out of Turn 12, carries the speed down the straight, and slips past the Haas of Magnussen! That's the pass, folks! Stroll up to 13th place now, and Magnussen forced to settle for 14th! The timing of that move was impeccable, Stroll really showing his experience here! 3282.160 seconds on the clock, and we've got some fantastic racing going on out there!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3282.16,
+            "description": "Driver 20 overtakes Driver 24 to position 14 in 3282.160 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Kevin Magnussen, the Haas driver, has pulled off a beautifully executed pass on Zhou Guanyu's Alfa Romeo! He's taken the position, moving up to 14th place! The Danish driver saw his opportunity and seized it, using the momentum from the previous turn to slingshot past the Chinese driver. The crowd is on their feet here, folks! That's some top-notch driving from Magnussen! He's really starting to make a push for the midfield pack. The timing screen shows it's 3282.160 seconds into the race, and Magnussen is now in 14th, having dispatched Zhou to 15th. This could be the start of something big for the Haas team!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3288.792,
+            "description": "Driver 24 overtakes Driver 20 to position 14 in 3288.792 seconds."
+        },
+        "commentary": "\"Oh, what a move! Zhou Guanyu, the young Chinese driver, has pulled off a brilliant overtaking maneuver on Kevin Magnussen! He's gone around the outside of the Haas at Turn 12, using all the kerb and all the bravery he could muster! That's a fantastic piece of driving, folks!\n\nMagnussen was struggling to find pace, and Zhou has pounced, taking advantage of the opportunity to snatch 14th position. And what a great bit of racing we're seeing here - we're only in the early stages of the grand prix and the midfield battle is already heating up!\n\nThat move took exactly 3288.792 seconds to execute, and I've got to say, it's a testament to Zhou's growing confidence and capabilities behind the wheel. He's had a strong start to the season, and this overtake will only boost his momentum."
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3350.34,
+            "description": "Driver 81 overtakes Driver 4 to position 5 in 3350.340 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Oscar Piastri, the young Australian, is making a statement here at Silverstone! He's got the bit between his teeth, and he's not afraid to take risks! He's been stalking Lando Norris for the past few laps, waiting for the perfect opportunity to strike. AND HE'S TAKEN IT! Piastri dives down the inside of Norris at Turn 5, and he's got the pace to make it stick! Norris can't defend, and Piastri takes the spot! He's up to P5, and he's on the move! The crowd is on its feet as Piastri celebrates his bold move! That's what we call a textbook overtake, folks! Piastri's got the talent, and he's got the confidence to back it up! What a drive from the 81 car!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3350.34,
+            "description": "Driver 4 overtakes Driver 14 to position 7 in 3350.340 seconds."
+        },
+        "commentary": "\"And what a move by Lando Norris! He's been stalking Fernando Alonso for lap after lap, and he's finally made it stick! Norris gets a great run out of the final turn, carries the momentum through the kink, and swoops to the inside of Alonso on the run down to turn one! Alonso tries to hold his line, but Norris has the pace and the precision to make the pass stick! He takes seventh place, and what a crucial overtake that could be in the grand scheme of things! 3350.340 seconds on the clock, and Norris is on the move! He's got his sights set on the top six now, can he keep the momentum going?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3352.685,
+            "description": "Driver 63 overtakes Driver 4 to position 6 in 3352.685 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE! GEORGE RUSSELL IS ON THE CHARGE! HE'S GOT THE BIT BETWEEN HIS TEETH AND HE'S GONE PAST LANDO NORRIS FOR 6TH PLACE! THAT WAS A BEAUTIFUL PIECE OF DRIVING, FOLKS! RUSSELL'S GOT THE PACE TODAY AND HE'S MAKING THE MOST OF IT! NORRIS TRIED TO DEFEND, BUT RUSSELL WAS HAVING NONE OF IT! HE TOOK THE OUTSIDE LINE AND JUST PIPPED HIM TO THE POST! THE CROWD IS GOING WILD HERE AT [TRACK NAME]! RUSSELL'S NOW UP TO 6TH PLACE, AND HE'S GOT HIS EYE ON THE NEXT TARGET! THIS IS GEORGE RUSSELL AT HIS BEST, FOLKS! THE TIMER SAYS 3352.685 SECONDS"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3352.685,
+            "description": "Driver 14 overtakes Driver 44 to position 7 in 3352.685 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! FERNANDO ALONSO WITH A BRILLIANT MOVE ON LEWIS HAMILTON! THE TWO-TIME CHAMPION TAKES ADVANTAGE OF A TINY MISTAKE FROM THE SEVEN-TIME CHAMPION AND SLIPS UP THE INSIDE TO TAKE SEVENTH PLACE!\n\nAlonso has been hounding Hamilton for laps, looking for an opportunity to strike, and strike he did! He's got the pace, he's got the skill, and now he's got the position!\n\nThe crowd is on their feet here at [track name] as Alonso celebrates his successful overtaking maneuver! That's the kind of drive that gets you noticed, folks! Hamilton will be disappointed to have lost that spot, but Alonso is the one celebrating now!\n\nWe're seeing a masterclass from the Spaniard today, and it's"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3446.133,
+            "description": "Driver 63 overtakes Driver 81 to position 4 in 3446.133 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! GEORGE RUSSELL IS THROUGH! The Mercedes driver has been lurking behind Oscar Piastri's McLaren for several laps, waiting for the perfect opportunity to strike. AND NOW HE'S TAKEN IT! Russell dives up the inside of Piastri at Turn 7, and takes the position! That's Russell up to 4th place, and Piastri relegated to 5th! The whole crowd is on their feet here, folks! The timing of that move was sublime, and Russell's precision driving has paid off. He's now got his sights set on the podium, and you can bet your bottom dollar he'll be going for it! The Brit's pace has been impressive all race, and now he's got the track position to match. Piastri will be disappointed to lose out, but Russell's the man on the move"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3449.896,
+            "description": "Driver 14 overtakes Driver 16 to position 5 in 3449.896 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! FERNANDO ALONSO HAS PULLED OFF A STUNNING MOVE ON CHARLES LECLERC! THE TWO-TIME WORLD CHAMPION HAS BEEN LURKING IN THE WINGS WAITING FOR HIS CHANCE, AND HE'S TAKEN IT! ALONSO HAS GOT THE BETTER OF LECLERC AROUND THE OUTSIDE OF TURN... um, yes... and he's made the pass stick! The Spaniard has muscled his way into 5th position, and you can't say he didn't earn it! The clock says 3449.896 seconds, and Alonso's move has sent the crowd on their feet! Leclerc didn't put up much of a fight, but Alonso's pace has been building all lap and he was always going to make a move sooner or later. What a"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3449.896,
+            "description": "Driver 16 overtakes Driver 81 to position 6 in 3449.896 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Charles Leclerc, the Monegasque maestro, makes his move on Oscar Piastri! He's been sizing him up for a while, and now he's pounced! Leclerc gets a great run out of Turn 3, and he's got the Ferrari hauling down the straight. Piastri is struggling to keep the pace, and Leclerc seizes the opportunity! He's up the inside, and he's THROUGH! Leclerc takes the sixth spot from Piastri! The crowd is on their feet as Leclerc celebrates his move, and that's a crucial pass to get himself back into the thick of things! The timing is impeccable, folks, 3449.896 seconds into the race, and Leclerc is on the march!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3451.329,
+            "description": "Driver 4 overtakes Driver 81 to position 7 in 3451.329 seconds."
+        },
+        "commentary": "\"AND THERE GOES NORRIS! Lando Norris is on the move! He's been stalking Oscar Piastri for laps, and finally, he's made the move! A beautifully executed overtake around the outside of Turn 12, and Norris takes position 7 from Piastri! The McLaren driver is on fire today, folks! That was a crucial pass, and Norris is now right in the thick of the battle for the top 6! The timing: 3451.329 seconds, and Norris is up to 7th place! The young Brit is driving with confidence and precision, can he keep it up and push for an even higher finish?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3456.768,
+            "description": "Driver 44 overtakes Driver 81 to position 8 in 3456.768 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! LEWIS HAMILTON, THE SEVEN-TIME WORLD CHAMPION, MAKES HIS MOVE! HE'S BEEN LURKING BEHIND OSCAR PIASTRI FOR A FEW LAPS NOW, WAITING FOR THE PERFECT MOMENT TO STRIKE. AND STRIKE HE DOES! HAMILTON TAKES THE INSIDE LINE, GETS A BETTER EXIT OUT OF THE TURN, AND PAST PIASTRI HE GOES! HE'S UP INTO 8TH PLACE NOW, AND THAT'S A MASSIVE OVERTAKE!\n\nThe time, folks, is 3 minutes, 45.768 seconds, and Hamilton is on the move! Piastri put up a good fight, but ultimately, the experience and guile of Lewis Hamilton told. He's got the bit between his teeth now, can he"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3469.93,
+            "description": "Driver 81 overtakes Driver 22 to position 9 in 3469.930 seconds."
+        },
+        "commentary": "\"AND THERE'S A MOVE! Oscar Piastri, the young Aussie, is on the charge! He's been sizing up Yuki Tsunoda's AlphaTauri for a few laps now, and finally, he's made the pass stick! Piastri dives down the inside of Tsunoda at Turn 7, and he's through! The number 81 car takes 9th place, and Piastri is right in the mix now! That was a beautifully executed move, the kid's got skills! The timing was perfect, and Tsunoda couldn't do much to defend against that. Piastri's now got his sights set on the top 8, can he keep this momentum going? The crowd is loving it here, and we're loving it in the commentary box! The rookie is making a name for himself in only his debut season!"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3474.398,
+            "description": "Driver 23 overtakes Driver 3 to position 10 in 3474.398 seconds."
+        },
+        "commentary": "\"AND HE'S DONE IT! Alex Albon makes the pass on Daniel Ricciardo to take 10th place! The Thai driver has been stalking Ricciardo for a few laps now, waiting for the perfect opportunity to strike. And strike he has! Albon gets a better run out of the exit of Turn 12 and makes the move stick on the inside at Turn 13! Ricciardo tries to hold on, but Albon's got the momentum and takes the spot! That's some brilliant driving from Albon, who's been having a great race so far. The crowd is on their feet as Albon moves up to 10th, and Ricciardo is forced to settle for 11th. We're seeing some fantastic battles all up and down the grid here, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3474.398,
+            "description": "Driver 3 overtakes Driver 22 to position 11 in 3474.398 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Daniel Ricciardo in the Number 3 car has seen his chance and taken it! He's swooped past Yuki Tsunoda's Number 22 car on the outside of Turn 7 and claimed 11th place for himself! The Australian driver making the most of his superior pace and brave drive to gain another position! The crowd is on their feet as Ricciardo celebrates with a fist pump in the cockpit! That pass was made in a blistering 3474.398 seconds, a testament to the McLaren driver's razor-sharp reflexes! Tsunoda will be disappointed to have lost that spot, but Ricciardo's on a charge now - can he keep pushing up the order?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3474.672,
+            "description": "Driver 18 overtakes Driver 22 to position 12 in 3474.672 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! LANCE STROLL MAKES THE PASS! The Canadian driver sees his chance and seizes it, drafting down the straights and making a bold move on the outside of Yuki Tsunoda into Turn 12! Stroll's Aston Martin bursting with pace as he takes the position from the AlphaTauri driver!\n\nThat's a vital move for Stroll, getting himself up to 12th place, and he's now right in the mix with the battle for the top 10. Tsunoda couldn't hold on, and Stroll's aggression has paid off. The timing was perfect, the move was clinical, and now Stroll's got the bit between his teeth!\n\nWe're seeing a flurry of action out there, folks, and this grand prix is really coming alive! The midfield battle is hotting up, and it's anyone's game"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3475.947,
+            "description": "Driver 22 overtakes Driver 22 to position 13 in 3475.947 seconds."
+        },
+        "commentary": "\"UNBELIEVABLE! Yuki Tsunoda, the Japanese youngster, pulls off a stunning move on... himself! Wait, what's this? No, it can't be! The timing screens are showing that Yuki Tsunoda has overtaken... Yuki Tsunoda! This is absolute madness! The Toro Rosso driver has somehow managed to find a way past himself to take 13th position! The crowd is going wild here, folks! We've never seen anything like this before!\n\nNow, let's take a look at the timing screens again... yes, it shows Tsunoda, 22, passing Tsunoda, 22, in 3475.947 seconds! I'm speechless, folks! The commentators' curse has struck! This is an F1 first, and we're honored to be witnessing it live! The question is, will"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3482.289,
+            "description": "Driver 24 overtakes Driver 22 to position 13 in 3482.289 seconds."
+        },
+        "commentary": "\"AND HE'S THROUGH! ZHOU GUANYU HAS MADE THE PASS ON YUKI TSUNODA! THE CHINESE DRIVER HAS BEEN APPLYING THE PRESSURE FOR LAP AFTER LAP AND FINALLY, HE'S MADE THE OVERTAKE STICK! IT'S A BEAUTIFUL MOVE AROUND THE OUTSIDE OF TURN 7! TSUNODA TRIED TO DEFEND, BUT GUANYU HAD THE BETTER EXIT AND TOOK ADVANTAGE! THAT MOVES HIM UP TO 13TH PLACE NOW! THE LAP TIME IS 3482.289 SECONDS, BUT IT'S NOT ABOUT THE TIME, IT'S ABOUT THE MOVE! GUANYU'S CREATING SOME SPACE BETWEEN HIMSELF AND TSUNODA NOW, BUT THERE'S STILL A LOT OF WORK TO DO TO GET INTO THE POINTS!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3546.969,
+            "description": "Driver 16 overtakes Driver 4 to position 5 in 3546.969 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! CHARLES LECLERC MAKES THE MOVE ON LANDO NORRIS! THE FERRARI DRIVER GETS AROUND THE OUTSIDE OF THE McLAREN AT TURN 7, AND HE'S UP TO 5TH PLACE! THE MON\u00c9GASQUE DRIVER HAS BEEN PUSHING HARD TO GET PAST NORRIS FOR THE LAST FEW LAPS, AND FINALLY, HE'S MADE IT STICK! THE CROWD IS ON ITS FEET AS LECLERC TAKES THE CHEQUERED FLAG IN 5TH PLACE! THE TIME AT WHICH THIS OVERTAKE TOOK PLACE, FOLKS, WAS 3546.969 SECONDS INTO THE RACE. WHAT A MOVE BY THE FERRARI DRIVER! HE'S NOW RIGHT BEHIND THE TOP 4, AND YOU CAN'T COUNT HIM OUT OF THE F"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3546.969,
+            "description": "Driver 4 overtakes Driver 14 to position 6 in 3546.969 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Lando Norris MAKES THE MOVE! He's been sizing up Fernando Alonso for laps, waiting for the perfect opportunity to strike, and NOW HE'S DONE IT! Norris sweeps past the Alpine of Alonso on the outside of Turn 7, taking the sixth spot in the process! The McLaren driver has been on a charge all race, and that's the kind of audacious overtaking that's going to get the crowd on their feet! Alonso didn't put up much of a fight, but Norris didn't need an invitation - he's taken the spot and now sets his sights on the top five! The time is 3546.969 seconds, and Lando Norris is up to sixth place! What a drive from the young Brit!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3570.668,
+            "description": "Driver 14 overtakes Driver 3 to position 7 in 3570.668 seconds."
+        },
+        "commentary": "\"AND THERE'S A CHANGE IN THE ORDER! Fernando Alonso, the wily veteran, takes advantage of a small mistake by Daniel Ricciardo, and SLIPS UP THE INSIDE at Turn 7! That's a beautifully executed move by the Spaniard, who's been lurking in the shadows, waiting for an opportunity to strike! Ricciardo, struggling with rear grip, can't defend against the lightning-quick reaction of Alonso, who takes 7th place! That's a massive result for the Alpine team, and a big boost for Alonso's Championship hopes! The crowd is on its feet as Alonso pumps his fist in celebration, having executed that sublime pass in a blistering 3570.668 seconds! The midfield battle is HOTTING UP, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3573.061,
+            "description": "Driver 18 overtakes Driver 3 to position 11 in 3573.061 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! LANCE STROLL HAS MADE THE MOVE! HE'S PASSED DANIEL RICCIARDO ROUND THE OUTSIDE OF TURN 12 AND TAKEN 11TH PLACE! THE CANADIAN DRIVER HAS BEEN WAITING FOR THE PERFECT MOMENT TO STRIKE AND HE'S TAKEN ADVANTAGE OF RICCIARDO'S SLIGHT MISTAKE. THE CROWD IS ON ITS FEET AS STROLL TAKES THE CHEquered FLAG ON THE INSIDE, AND RICCIARDO IS LEFT TO RUE HIS MISFORTUNE. THE TIME IS 3573.061 SECONDS AND WE'VE GOT A SHUFFLE IN THE MIDFIELD! LANCE STROLL IS ON THE MARCH!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3579.152,
+            "description": "Driver 24 overtakes Driver 3 to position 12 in 3579.152 seconds."
+        },
+        "commentary": "\"And here comes Zhou Guanyu making a bold move on the outside of Daniel Ricciardo! The Alfa Romeo driver seizes the opportunity to grab 12th place from the McLaren of Ricciardo! That's a beautifully executed pass, folks! Zhou's been lurking in Ricciardo's gearbox for the past few laps, waiting for the perfect moment to strike. And strike he has! The Chinese driver gets the job done in a time of 3579.152 seconds, and he's now up to 12th position! Ricciardo's defense was valiant, but ultimately Zhou's pace and aggression earned him the spot. What a fantastic piece of driving from the Alfa Romeo man!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3581.492,
+            "description": "Driver 27 overtakes Driver 3 to position 13 in 3581.492 seconds."
+        },
+        "commentary": "\"AND HERE COMES H\u00dcLKENBERG! Nico H\u00fclkenberg, the experienced German driver, sees an opportunity and takes it! He's been sizing up Daniel Ricciardo's Renault for a few laps now, and finally, he makes his move! A brilliant outbraking maneuver into Turn 7, and H\u00fclkenberg slips up the inside of Ricciardo to take 13th place!\n\nThe timing is perfect, folks! H\u00fclkenberg waits till Ricciardo is compromised on the outside, and then pounces. The Haas driver had been struggling to find pace all race, but this overtaking move shows he's still got the skills. And Ricciardo, meanwhile, will be disappointed to lose that position. He's been having a tough day so far.\n\nH\u00fclkenberg's up to 13th now, and he's got"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3581.492,
+            "description": "Driver 20 overtakes Driver 22 to position 14 in 3581.492 seconds."
+        },
+        "commentary": "\"AND THERE'S A MOVE! Kevin Magnussen, the Haas driver, is on the attack! He's been lingering behind Yuki Tsunoda's AlphaTauri for a few laps now, and he's finally made his move! Magnussen dives down the inside, and Tsunoda can't defend it! The Dane takes 14th place, and he's up to 14th in the running order! That was a brilliant move, folks! Magnussen's car control was impeccable as he navigated the tricky turn, and now he's got his sights set on the next target. The time is 3581.492 seconds, and Kevin Magnussen is on the march! What a drive from the Haas pilot!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3666.629,
+            "description": "Driver 18 overtakes Driver 23 to position 10 in 3666.629 seconds."
+        },
+        "commentary": "\"AND THERE'S THE PASS! LANCE STROLL TAKES THE INSIDE LINE ON ALEX ALBON COMING OUT OF TURN 7! THE ASTON MARTIN DRIVER WITH A BEAUTIFULLY EXECUTED MOVE TO GRAB 10TH PLACE! THE CROWD IS ON ITS FEET HERE AS STROLL MAKES IT STICK! \n\nAlbon didn't put up much of a fight, but you can't blame him, Stroll had the momentum and the better traction. And now the Canadian finds himself in 10th, ahead of Albon, who falls to 11th. \n\nThat's a big move for Stroll, he needed that to get back into the points-paying positions. His lap times have been looking strong, and that overtake proves it. We'll see if he can keep the pressure on the cars ahead, but"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3669.723,
+            "description": "Driver 23 overtakes Driver 23 to position 11 in 3669.723 seconds."
+        },
+        "commentary": "\"AND ALEX ALBON MAKES THE MOVE! HE'S GOT PAST... HIMSELF?! WAIT, NO! I APOLOGIZE, FOLKS, IT'S A MISUNDERSTANDING! THERE'S BEEN A GLITCH IN THE TIMING SYSTEM! DRIVER 23 CANNOT OVERTAKE THEMSELVES!\n\nLet me correct that... WE DON'T HAVE ANY INFORMATION ON THIS OVERTAKE, IT SEEMS TO BE AN ERROR. WE'LL KEEP YOU POSTED IF WE GET ANY CLARIFICATION. FOR NOW, THE ACTION ON TRACK REMAINS INTENSE, BUT THIS OVERTAKE IS NULL AND VOID, FOLKS!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3675.918,
+            "description": "Driver 24 overtakes Driver 23 to position 11 in 3675.918 seconds."
+        },
+        "commentary": "\"And here comes a brave move from Zhou Guanyu! The Alfa Romeo driver has been lurking behind Alex Albon's Williams for a few laps now, and he's finally seen his chance! He's got a good run out of the preceding turn, and he's going to make a lunge down the inside! Albon is defending hard, but Zhou has got the speed and the agility! He's got his nose ahead, and... HE'S THROUGH! Zhou Guanyu takes 11th place away from Alex Albon! The crowd is on their feet here, what a fantastic piece of driving from the Chinese rookie! He's really starting to make a name for himself in this Formula 1 paddock! The timing sheets will show that pass took place in 3675.918 seconds, but let me tell you, it felt like lightning quick out there on the track!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3677.136,
+            "description": "Driver 27 overtakes Driver 20 to position 12 in 3677.136 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! H\u00dcLKBERG HAS FOUND A WAY PAST MAGNUSSEN! The German driver has been lurking in the shadows, waiting for the perfect opportunity to strike, and he's taken it! Nico H\u00fclkenberg, driving the number 27 car, has overtaken Kevin Magnussen's number 20 machine, moving up to 12th place! The crowd is on their feet here at the circuit as H\u00fclkenberg makes his move stick, taking advantage of Magnussen's slight hesitation out of the previous turn! That's some top-notch driving from the experienced German, and it's all happening in a blistering 3677.136 seconds! H\u00fclkenberg's got the bit between his teeth now, folks, let's see if he can continue his charge up the order!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3677.136,
+            "description": "Driver 20 overtakes Driver 23 to position 13 in 3677.136 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Kevin Magnussen, the Haas driver, makes a decisive pass on Alex Albon's Williams to take 13th place! That was a beautifully executed overtake, folks! Magnussen saw his chance and took it, slipping past Albon's defenseless Williams on the outside of the turn. That's a great piece of driving from the Dane, and he's now up to 13th place as we tick past the 3677-second mark. Albon's struggling to keep up the pace, and Magnussen's taken advantage. Can he keep pushing and make even more progress up the order?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3678.35,
+            "description": "Driver 22 overtakes Driver 23 to position 14 in 3678.350 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! YUKI TSUNODA TAKES THE INSIDE LINE AND MAKES THE PASS STICK ON ALEX ALBON! THE JAPANESE DRIVER NOW MOVES UP TO 14TH PLACE! WHAT A MOVE BY TSUNODA, HE'S BEEN PUSHING HARD ALL LAP AND FINALLY GETS THE BETTER OF ALBON! THE CROWD IS ON THE EDGE OF THEIR SEATS HERE AT [TRACK NAME]! TSUNODA IS NOW IN 14TH, JUST 3678.350 SECONDS INTO THE RACE! THIS IS TURNING OUT TO BE A FANTASTIC BATTLE IN THE MIDDLE OF THE PACK!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3686.735,
+            "description": "Driver 3 overtakes Driver 23 to position 15 in 3686.735 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! DANIEL RICCIARDO GETS THE JOB DONE! HE'S PASSED ALEX ALBON AROUND THE OUTSIDE OF TURN 7 TO TAKE 15TH PLACE! THE AUSTRALIAN DRIVER SHOWING HIS CLASS, OUTBRAKING THE THAI DRIVER AND TAKING ADVANTAGE OF THE FASTER LINE TO GET AHEAD! RICCIARDO'S BEEN PUSHING HARD ALL RACE LONG, AND FINALLY, HE'S MADE THE MOVE STICK! THE CROWD IS ON THE EDGE OF THEIR SEATS AS RICCIARDO TAKES THE CHEQUERED FLAG IN 15TH, A FINE RECOVERY DRIVE FROM THE McLAREN DRIVER! 3686.735 SECONDS ON THE CLOCK, AND RICCIARDO'S RIGHT BACK IN THE MIX!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3773.38,
+            "description": "Driver 20 overtakes Driver 27 to position 12 in 3773.380 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Kevin Magnussen, the Danish dynamo, has pulled off a fantastic overtaking maneuver on Nico H\u00fclkenberg! He's snatched 12th place from the German driver, and done it with precision and patience!\n\nMagnussen has been lurking in the shadows, waiting for his opportunity to strike, and that's exactly what he's done! He's timed it to perfection, using the slipstream down the straights to close the gap, and then making the pass stick on the inside!\n\nThe crowd is on their feet here as Magnussen takes the chequered flag for 12th place, a brilliant bit of driving from the Haas driver! H\u00fclkenberg, meanwhile, will be ruing his luck, losing out to the determined Dane.\n\nThe time of the move, 3773.380 seconds, and it's all about the"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3775.398,
+            "description": "Driver 22 overtakes Driver 27 to position 13 in 3775.398 seconds."
+        },
+        "commentary": "\"AND THERE'S THE MOVE! Yuki Tsunoda, driving the AlphaTauri, sees an opportunity and takes it! He's been stalking Nico H\u00fclkenberg's Haas for a few laps now, and finally, he's made the pass! The Japanese driver gets a brilliant run out of Turn 12, gets a slingshot onto the straight, and makes the pass on the outside of the German driver! That's a brilliant piece of driving, folks! Tsunoda takes P13, and H\u00fclkenberg drops to P14! The crowd is on their feet here at the circuit, what an overtaking maneuver! The timing sheets will show that pass was made in 3775.398 seconds, a testament to Tsunoda's pace and bravery! The AlphaTauri man is on the move, can he keep it up and make further in"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 3935.635,
+            "description": "Driver 44 overtakes Driver 14 to position 7 in 3935.635 seconds."
+        },
+        "commentary": "\"AND THERE HE GOES! LEWIS HAMILTON, THE SEVEN-TIME WORLD CHAMPION, MAKES HIS MOVE! HE'S BEEN LURKING BEHIND FERNANDO ALONSO FOR LAPS, WAITING FOR THE PERFECT MOMENT TO STRIKE... AND NOW HE'S DONE IT! HAMILTON GETS AROUND THE OUTSIDE OF ALONSO AT TURN 5, AND TAKES SEVENTH PLACE! THE CROWD IS ON ITS FEET HERE AT [TRACK NAME], FOLKS! HAMILTON'S GOT HIS EYES FIXED ON THE PODIUM NOW, AND HE'S NOT GOING TO LET ANYONE STAND IN HIS WAY! THE TIME IS 3935.635 SECONDS, AND WE'VE GOT A NEW PLAYER IN THE TOP 7... IT'S LEWIS HAMIL"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4068.851,
+            "description": "Driver 81 overtakes Driver 3 to position 8 in 4068.851 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! OSCAR PIASTRI TAKES THE INSIDE LINE AND MAKES THE MOVE STICK! HE'S PASSED DANIEL RICCIARDO FOR 8TH PLACE! THE AUSSIE DRIVER WAS DEFENDING HARD, BUT THE YOUNG AUSSIE CHALLENGER WAS HAVING NONE OF IT! Piastri's pace has been impressive all race, and he's finally made the most of it, getting ahead of Ricciardo at Turn 7. The crowd is on their feet as Piastri takes the applause, and moves up to 8th position! The time is 4068.851 seconds, and what a crucial overtake that could be for Piastri's championship hopes! He's now firmly in the points, and looking to make further progress up the order!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4068.851,
+            "description": "Driver 3 overtakes Driver 27 to position 14 in 4068.851 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE BY DANIEL RICCIARDO! THE AUSSIE DRIVER SEES HIS CHANCE AND TAKES IT! HE'S GOT PASS Nico H\u00fclkenberg AROUND THE OUTSIDE OF TURN 5! THAT'S A PROPER RACING MOVE FOLKS! Ricciardo's got the pace, he's got the skill, and now he's got the position! He's up to 14th place now, and the crowd is loving it! That's the kind of drive that gets the fans on their feet! H\u00fclkenberg didn't make it easy for him, but Ricciardo was determined to get by! The McLaren driver is on the move, and he's not stopping anytime soon!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4153.181,
+            "description": "Driver 18 overtakes Driver 14 to position 9 in 4153.181 seconds."
+        },
+        "commentary": "\"AND THERE'S A CHANGE IN THE ORDER! Lance Stroll in the Aston Martin has pulled off a fantastic move on Fernando Alonso at the Ferrari! That's Stroll up to 9th place, and Alonso has to settle for 10th for the time being!\n\nThe timing says it was 4153.181 seconds into the race when Stroll made the move stick, and what a crucial one it was! Alonso was struggling to hold on to that position, and Stroll saw his chance and took it!\n\nThis could be a big momentum shift for the Canadian driver, who's been having a bit of a tough weekend so far. Meanwhile, Alonso will be looking to regroup and fight back - but for now, Stroll is enjoying the upper hand!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4167.368,
+            "description": "Driver 24 overtakes Driver 23 to position 10 in 4167.368 seconds."
+        },
+        "commentary": "\"AND WHAT A MOVE! Zhou Guanyu has pulled off a stunning pass on Alex Albon! The Alfa Romeo driver has been trailing the Williams for several laps, but he's finally made his move stick! He's dived down the inside at Turn 7, and Albon had no answer! That's a beautifully executed overtake, and Zhou Guanyu finds himself up to 10th place! The crowd is on their feet here, folks! That's the sort of aggressive driving we love to see in F1! Zhou Guanyu, the Chinese driver, is making his presence felt here today! And look at the timing, 4167.368 seconds into the race, what a moment!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4167.368,
+            "description": "Driver 23 overtakes Driver 27 to position 15 in 4167.368 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! ALEX ALBON MAKES THE MOVE! He's been hounding Nico H\u00fclkenberg for lap after lap, and finally, he's made the pass! Albon sweeps around the outside of H\u00fclkenberg at Turn 12, using all the track and all his skill to get past the German driver! That's a great bit of driving from the Thai racer, and he takes 15th place! The timing screens show it's happened at 4167.368 seconds, and Albon will be feeling good about that one! H\u00fclkenberg didn't make it easy for him, but Albon's persistence has paid off! He's got the bit between his teeth now, can he keep pushing and make more gains?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4172.889,
+            "description": "Driver 27 overtakes Driver 27 to position 16 in 4172.889 seconds."
+        },
+        "commentary": "\"UNBELIEVABLE! Nico H\u00fclkenberg has just pulled off an absolute stunner! He's gotten past... himself?! Wait, no, I apologize for the mistake, folks! There's been a mix-up. It seems there's been an error in the timing system. Driver 27, Nico H\u00fclkenberg, cannot overtake himself!\n\nLet me check the situation again... (pause) Ah, I see what's happened now! No, no, no, this is not possible! The timing system is playing tricks on us! We need to get to the bottom of this, folks!\n\nMeanwhile, back on track, the real action is unfolding. Charles Leclerc is still holding strong in P16, but the battle behind him is heating up! We've got a thrilling midfield scrap developing, with drivers jostling for position. Who's going to make"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4176.48,
+            "description": "Driver 31 overtakes Driver 10 to position 16 in 4176.480 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! ESTEBAN OCON MAKES THE MOVE! HE'S GOT THE JOB DONE! Ocon gets past Pierre Gasly at Turn 9, and that's a crucial overtaking maneuver! The Frenchman has been stalking Gasly for several laps, waiting for the perfect opportunity to strike, and he's finally seized it! Ocon's got the pace, he's got the skill, and he's got the confidence! He's now up to 16th position, and that's a mighty impressive drive! Gasly didn't make it easy for him, but Ocon was not to be denied! The crowd is on their feet here at the circuit, folks, this is what we love about F1! The battle for midfield supremacy is heating up, and Esteban Ocon is right in the thick of it!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4176.48,
+            "description": "Driver 10 overtakes Driver 27 to position 17 in 4176.480 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! PIERRE GASLY MAKES A MOVE! HE'S GOT THE PACE, HE'S GOT THE SKILL, AND HE'S TAKEN THE POSITION! Gasly's got Nico H\u00fclkenberg squarely in his sights, and he's made the pass stick! The Frenchman's got the bit between his teeth, and he's not letting up! He's up to 17th place now, and H\u00fclkenberg's been demoted to 18th. The Toro Rosso's got the pace, and Gasly's got the confidence! This could be the start of a charge up the order for the Frenchman! UNBELIEVABLE OVERTAKING MANEUVER BY GASLY!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4345.645,
+            "description": "Driver 14 overtakes Driver 24 to position 10 in 4345.645 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! FERNANDO ALONSO MAKES THE MOVE! HE'S GOT THE BETTER EXIT OUT OF TURN 12 AND HE'S SLIPPING UP THE INSIDE OF ZHOU GUANYU! THE TWO-TIME WORLD CHAMPION IS THROUGH TO 10TH PLACE! THAT'S A TEXTBOOK OVERTAKE, FOLKS! ALONSO'S GOT THE SKILLS, HE'S GOT THE EXPERIENCE, AND HE'S GOT THE SPEED!\n\n\"THE TIME ON THAT OVERTAKE, 4345.645 SECONDS, ALONSO'S MOVING UP THE ORDER NOW, AND HE'S GOT HIS EYE ON THE NEXT ONE! THE SPANISH FANS ARE ON THEIR FEET, CHEERING ON THEIR HERO! WHAT A DRIVE FROM ALONSO TODAY, FOLKS!"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4377.522,
+            "description": "Driver 24 overtakes Driver 10 to position 11 in 4377.522 seconds."
+        },
+        "commentary": "\"Oh, what a move! Zhou Guanyu has made a brilliant pass on Pierre Gasly! The Alfa Romeo driver saw his opportunity and took it, diving down the inside of the Frenchman at the turn! Gasly had no answer, and Zhou takes 11th place! That's a fantastic piece of driving from the young Chinese driver! He's really making a name for himself out there! The time on the clock is 4377.522 seconds, and Zhou is now right in the mix, pushing for even more positions! Great stuff!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4494.521,
+            "description": "Driver 16 overtakes Driver 63 to position 4 in 4494.521 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! Charles Leclerc, the Monegasque maestro, makes his move on George Russell! He's been stalking him for laps, waiting for the perfect opportunity to pounce. And pounce he has! Leclerc gets a brilliant run out of Turn 3, drafting down the straight, and then makes the pass stick into Turn 4! Russell couldn't defend, and Leclerc takes fourth place! That's a fantastic piece of driving from the Ferrari man, and he's now right in the thick of the battle for the podium! The crowd is on their feet here at the circuit, and we're loving it! The timing of that pass was impeccable, 4,494.521 seconds into the race. What a drive from Leclerc!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4725.126,
+            "description": "Driver 63 overtakes Driver 14 to position 5 in 4725.126 seconds."
+        },
+        "commentary": "\"AND THERE IT IS! GEORGE RUSSELL WITH A MASTERCLASS MOVE ON FERNANDO ALONSO! THE BRITISH DRIVER PULLS OFF A STUNNING OVERTAKE AROUND THE OUTSIDE OF TURN 12 TO TAKE 5TH PLACE!\n\nRussell's been biding his time, studying Alonso's every move, waiting for the perfect opportunity to strike. And that's exactly what he's done! He's carried so much speed through the corner, using every inch of the track to get alongside the Spaniard.\n\nAlonso, who's been driving a defensive race so far, had no answer to Russell's pace and precision. The Mercedes powertrain is really showing its muscle here, folks!\n\nWe're seeing a real battle unfolding in the top 5 now, with Russell slotting into 5th place, just 2.5 seconds behind Carlos"
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4725.126,
+            "description": "Driver 14 overtakes Driver 18 to position 9 in 4725.126 seconds."
+        },
+        "commentary": "\"AND FERNANDO ALONSO MAKES HIS MOVE! The two-time world champion sees an opportunity and takes it, diving down the inside of Lance Stroll at Turn 7 to grab 9th place! That's a beautifully executed pass, folks! Alonso's got the bit between his teeth and he's not letting up. He's been pushing hard all race, and that's the reward. Stroll didn't put up much of a fight, but you can't blame him - Alonso's got the pace and the skill. He's now up into 9th, and with the midfield battle heating up, every position counts. The timing's perfect, too - he's done it just as they're about to start lapping some of the backmarkers. What can Alonso do from here? Can he keep pushing and get even further up the order?\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4948.559,
+            "description": "Driver 18 overtakes Driver 27 to position 10 in 4948.559 seconds."
+        },
+        "commentary": "\"And here comes Lance Stroll, the Canadian driver, with a fantastic move on the outside of Turn 7! He's got the better traction, and he's taking Nico H\u00fclkenberg for the tenth spot! That's a beautifully executed overtake, folks! Stroll's got the momentum, and he's not afraid to use it! H\u00fclkenberg didn't put up much of a fight, but you can't blame him, Stroll was just too quick! And that moves Stroll up to tenth, with H\u00fclkenberg dropping down to eleventh! The battle is on, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 4948.559,
+            "description": "Driver 27 overtakes Driver 31 to position 16 in 4948.559 seconds."
+        },
+        "commentary": "\"And here comes H\u00fclkenberg, he's been lurking in the shadows, waiting for his opportunity! Ocon's gotten a bit wide out of turn 12, and Nico's seen his chance! He's got the power down, and he's making his move! H\u00fclkenberg takes the inside line, and Ocon can't defend! DRIVER 27 TAKES POSITION 16! The German driver has managed to get past the Frenchman, and he's up to 16th place! The timing screens show it was 4948.559 seconds into the race when H\u00fclkenberg made the pass. A great piece of driving from Nico, and Esteban Ocon will be disappointed to have lost that spot! The battle for midfield positions is heating up, folks!\""
+    },
+    {
+        "event": {
+            "type": "Overtake",
+            "timestamp": 5125.991,
+            "description": "Driver 3 overtakes Driver 22 to position 13 in 5125.991 seconds."
+        },
+        "commentary": "\"AND THERE'S THE PASS! Daniel Ricciardo, the Honey Badger, has finally made his move on Yuki Tsunoda! He's been stalking the AlphaTauri for laps, waiting for the perfect opportunity to strike. And strike he has! Ricciardo darts down the inside, getting a fantastic run out of the previous turn, and he's got the speed to make it stick! Tsunoda tries to hold on, but the McLaren's superior pace and Ricciardo's cunning driving skills have won out. Daniel takes 13th place, and he's now right in the mix with the midfield pack! What a beautiful pass, and what a boost for the Australian's afternoon!\""
+    }
+]
