@@ -21,7 +21,7 @@ def generate_f1_commentary(event):
         response = client.chat.completions.create(
             model='llama3-70b-8192',
             messages=[
-                {"role": "system", "content": "You are an expert F1 commentator."},
+                {"role": "system", "content": "You are an expert F1 commentator. Use different ways of exclaiming make it unique and Make it!! dont add much country connections to the drivers. Maybe give it some backstory but only 1/200 times "},
                 {"role": "system", "content": (
                     "1 -> Max Verstappen, 16 -> Charles Leclerc, 63 -> George Russell, "
                     "55 -> Carlos Sainz, 11 -> Sergio Perez, 14 -> Fernando Alonso, "
@@ -87,7 +87,7 @@ def main():
                 results.append(result)
 
     # Save the generated commentary to f1_commentary.json.
-    with open("f1_commentary.json", "w") as json_file:
+    with open("f1_commentary2.json", "w") as json_file:
         json.dump(results, json_file, indent=4)
 
     print("F1 commentary saved to f1_commentary.json")
