@@ -78,7 +78,7 @@ def track():
                 events.append({
                     'type': "Overtake",
                     'time': event[1],
-                    'message': f"Driver {overtaking_driver} overtakes Driver {overtaken_driver} to position {pos_2}"
+                    'message': f"Driver {overtaking_driver} overtakes Driver {overtaken_driver} to position {pos_1}"
                 })
             elif (prev_event[2] > event[2]):  
                 overtaken_driver = driver_1
@@ -86,7 +86,7 @@ def track():
                 events.append({
                     'type': "Overtake",
                     'time': event[1],
-                    'message': f"Driver {overtaking_driver} overtakes Driver {overtaken_driver} to position {pos_1}"
+                    'message': f"Driver {overtaking_driver} overtakes Driver {overtaken_driver} to position {pos_2}"
                 })
 
     with open('radio_data.json', 'r') as infile:
