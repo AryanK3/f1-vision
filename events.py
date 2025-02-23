@@ -99,8 +99,6 @@ def track():
                 'message': f"Driver {item[0]}: {code.group(0)}"
             })
 
-    events.sort(key=lambda event: event['time'])
-
     with open('tyre_data.json', 'r') as f:
         tyre_data = json.load(f)
     with open('pit_data.json', 'r') as f:
@@ -145,6 +143,7 @@ def track():
                 'message': f"Driver {driver_id} (Tyre: {next_tyre_type}) exits pit in lap {lap_number}"
             })
 
+    events.sort(key=lambda event: event['time'])
 
     with open('events_data.json', 'w') as file:
         json.dump(events, file)

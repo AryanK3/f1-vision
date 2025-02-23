@@ -37,13 +37,16 @@ for i in data:
                                 positions[other_driver] = positions[other_driver] + 1
                             break
             positions[driver_id] = position
-'''
-                    events.append({
-                        'type': "Overtake",
-                        'time': time,
-                        'message': f"Driver {driver_id} overtakes Driver {other_driver} to position {position}"
-                    })
+            events.append({
+                'type': "Overtake",
+                'time': time,
+                'message': f"Driver {driver_id} overtakes Driver {other_driver} to position {position}"
+            })
 
 for event in events:
-    print(event)
-'''
+    with open('events_data.json', 'r') as file:
+        data = json.load(file)
+    data.append(event)
+    with open('events_data.json', 'w') as file:
+        json.dump(data, file)
+
