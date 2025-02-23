@@ -59,29 +59,32 @@ def track():
             'message': message
         })
 
-    with open('lb_data.json', 'r') as file:
+    with open("new_positions.json", "r") as file:
         data = json.load(file)
 
     positions = {} 
+    events = []
 
-    for entry in data:
-        driver_id, timestamp, position = entry
-        if (timestamp == 0):
-            positions[driver_id] = position
-            continue
-        if driver_id in positions:
+    for i in data:
+        for driver_id, entry in i.items():
+            position = entry["position"]
+            time = entry["date"]
+            if driver_id not in positions:
+                positions[driver_id] = position
             if positions[driver_id] > position:
-                for other_driver, other_position in positions.items():
-                    if (other_position == position):
-                        print(f"Driver {driver_id} overtakes driver {other_driver} to position {other_position}")
-                        positions[driver_id] = position
-                        positions[other_driver] = other_position + 1
-
-        events.append({
-            'type': "Overtake",
-            'time': timestamp,
-            'message': f"Driver {driver_id} overtakes Driver {other_driver} to position {position}"
-        })
+                for i in range (20, 0, -1):
+                    for other_driver, other_position in positions.items():
+                        if (other_position == i):
+                            if other_driver != driver_id:
+                                if other_position >= position and other_position < positions[driver_id]:
+                                    events.append({
+                                        'type': "Overtake",
+                                        'time': time,
+                                        'message': f"Driver {driver_id} overtakes driver {other_driver} to position {other_position}"
+                                    })
+                                    positions[other_driver] = positions[other_driver] + 1
+                                break
+            positions[driver_id] = position
 
     with open('radio_data.json', 'r') as infile:
         data = json.load(infile)
