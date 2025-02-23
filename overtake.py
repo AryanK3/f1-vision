@@ -20,7 +20,6 @@ with open("new_positions.json", "r") as file:
 
 positions = {} 
 events = []
-
 for i in data:
     for driver_id, entry in i.items():
         position = entry["position"]
@@ -34,19 +33,15 @@ for i in data:
                         if other_driver != driver_id:
                             if other_position >= position and other_position < positions[driver_id]:
                                 print(f"Driver {driver_id} overtakes driver {other_driver} to position {other_position}")
+                                events.append({
+                                    'time': time,
+                                    'overtaken': other_driver,
+                                    'overtaker': driver_id,
+                                })
                                 positions[other_driver] = positions[other_driver] + 1
                             break
             positions[driver_id] = position
-            events.append({
-                'type': "Overtake",
-                'time': time,
-                'message': f"Driver {driver_id} overtakes Driver {other_driver} to position {position}"
-            })
 
-for event in events:
-    with open('events_data.json', 'r') as file:
-        data = json.load(file)
-    data.append(event)
-    with open('events_data.json', 'w') as file:
-        json.dump(data, file)
+with open('overtake_data.json', 'w') as file:
+    json.dump(events, file)
 
