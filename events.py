@@ -23,27 +23,27 @@ def track():
             events.append({
                 'type': "Laps",
                 'time': rel_start + sector_1_duration,
-                'message': f"Driver {driver_id} completed sector 1 of lap {lap_number} in {sector_1_duration:.3f} seconds."
+                'message': f"Driver {driver_id} completed sector 1 of lap {lap_number}"
             })
 
 
             events.append({
                 'type': "Laps",
                 'time': rel_start + sector_1_duration + sector_2_duration,
-                'message': f"Driver {driver_id} completed sector 2 of lap {lap_number} in {sector_2_duration:.3f} seconds."
+                'message': f"Driver {driver_id} completed sector 2 of lap {lap_number}"
             })
 
 
             events.append({
                 'type': "Laps",
                 'time': rel_start + sector_1_duration + sector_2_duration + sector_3_duration,
-                'message': f"Driver {driver_id} completed sector 3 of lap {lap_number} in {sector_3_duration:.3f} seconds."
+                'message': f"Driver {driver_id} completed sector 3 of lap {lap_number}"
             })
 
             events.append({
                 'type': "Laps",
                 'time': lap_duration,
-                'message': f"Driver {driver_id} completed lap {lap_number} in {lap_duration:.3f} seconds."
+                'message': f"Driver {driver_id} completed lap {lap_number}"
             })
 
     with open('rc_data.json', 'r') as f:
@@ -71,22 +71,22 @@ def track():
         pos_1 = prev_event[2]
         pos_2 = event[2]
 
-        if (pos_1 != pos_2 and event[1] > 0 and prev_event[1] > 0):  
-            if (pos_1 > pos_2 and prev_event[2] < event[2]):  
+        if (pos_1 != pos_2 and driver_1 != driver_2 and event[1] > 0 and prev_event[1] > 0):  
+            if (prev_event[2] < event[2]):  
                 overtaken_driver = driver_2
                 overtaking_driver = driver_1
                 events.append({
                     'type': "Overtake",
                     'time': event[1],
-                    'message': f"Driver {overtaking_driver} overtakes Driver {overtaken_driver} to position {pos_2} in {event[1]:.3f} seconds."
+                    'message': f"Driver {overtaking_driver} overtakes Driver {overtaken_driver} to position {pos_2}"
                 })
-            elif (pos_2 > pos_1 and prev_event[2] < event[2]):  
+            elif (prev_event[2] > event[2]):  
                 overtaken_driver = driver_1
                 overtaking_driver = driver_2
                 events.append({
                     'type': "Overtake",
                     'time': event[1],
-                    'message': f"Driver {overtaken_driver} overtakes Driver {overtaking_driver} to position {pos_1} in {event[1]:.3f} seconds."
+                    'message': f"Driver {overtaking_driver} overtakes Driver {overtaken_driver} to position {pos_1}"
                 })
 
     with open('radio_data.json', 'r') as infile:
@@ -129,7 +129,7 @@ def track():
             events.append({
                 'type': "Pits",
                 'time': rel_start,
-                'message': f"Driver {driver_id} (Tyre: {tyre_type}) enters pit in lap {lap_number} at {rel_start:.3f} seconds."
+                'message': f"Driver {driver_id} (Tyre: {tyre_type}) enters pit in lap {lap_number}"
             })
 
             next_tyre_info = next(
@@ -145,7 +145,7 @@ def track():
             events.append({
                 'type': "Pits",
                 'time': rel_start + pit_duration,
-                'message': f"Driver {driver_id} (Tyre: {next_tyre_type}) exits pit in lap {lap_number} at {rel_start + pit_duration:.3f} seconds."
+                'message': f"Driver {driver_id} (Tyre: {next_tyre_type}) exits pit in lap {lap_number}"
             })
 
 
