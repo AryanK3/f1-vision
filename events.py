@@ -62,32 +62,26 @@ def track():
     with open('lb_data.json', 'r') as file:
         data = json.load(file)
 
-    for i in range(1, len(data)):
-        event = data[i]
-        prev_event = data[i - 1]
-        
-        driver_1 = prev_event[0]
-        driver_2 = event[0]
-        pos_1 = prev_event[2]
-        pos_2 = event[2]
+    positions = {} 
 
-        if (pos_1 != pos_2 and driver_1 != driver_2 and event[1] > 0 and prev_event[1] > 0):  
-            if (prev_event[2] < event[2]):  
-                overtaken_driver = driver_2
-                overtaking_driver = driver_1
-                events.append({
-                    'type': "Overtake",
-                    'time': event[1],
-                    'message': f"Driver {overtaking_driver} overtakes Driver {overtaken_driver} to position {pos_1}"
-                })
-            elif (prev_event[2] > event[2]):  
-                overtaken_driver = driver_1
-                overtaking_driver = driver_2
-                events.append({
-                    'type': "Overtake",
-                    'time': event[1],
-                    'message': f"Driver {overtaking_driver} overtakes Driver {overtaken_driver} to position {pos_2}"
-                })
+    for entry in data:
+        driver_id, timestamp, position = entry
+        if (timestamp == 0):
+            positions[driver_id] = position
+            continue
+        if driver_id in positions:
+            if positions[driver_id] > position:
+                for other_driver, other_position in positions.items():
+                    if (other_position == position):
+                        print(f"Driver {driver_id} overtakes driver {other_driver} to position {other_position}")
+                        positions[driver_id] = position
+                        positions[other_driver] = other_position + 1
+
+        events.append({
+            'type': "Overtake",
+            'time': timestamp,
+            'message': f"Driver {driver_id} overtakes Driver {other_driver} to position {position}"
+        })
 
     with open('radio_data.json', 'r') as infile:
         data = json.load(infile)
