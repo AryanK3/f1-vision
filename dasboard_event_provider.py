@@ -42,8 +42,8 @@ final_list = [{"position": pos, "driver_no": driver} for pos, driver in sorted_f
 print("\nFinal Positions (List Format):")
 print(json.dumps(final_list, indent=2))
 
-# with open('final_positions.json', 'w') as file:
-#     json.dump(final_list, file)
+with open('final_positions.json', 'w') as file:
+    json.dump(final_list, file)
 
 
 

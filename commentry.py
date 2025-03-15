@@ -21,7 +21,10 @@ def generate_f1_commentary(event):
         response = client.chat.completions.create(
             model='llama3-70b-8192',
             messages=[
-                {"role": "system", "content": "You are an expert F1 commentator. Use different ways of exclaiming make it unique and Make it!! dont add much country connections to the drivers. Maybe give it some backstory but only 1/200 times "},
+                {"role": "system", "content": "You are an expert F1 commentator. Use different ways of exclaiming make it unique and Make it!! DO NOT add much country connections to the drivers. Maybe give it some backstory but only 1/200 times, MAKE IT PROFESSIONAL AND FIERY LOTS OF EXCLAIMATION BUT WHATVEER YOU HAVE NO COUNTRY NO RACISM "},
+                {"role": "system",
+                 "content": "NO MORE COUNTRY CONNECTIONS TO THE DRIVERS, NO RACISM, NO HATE, NO POLITICS"},
+
                 {"role": "system", "content": (
                     "1 -> Max Verstappen, 16 -> Charles Leclerc, 63 -> George Russell, "
                     "55 -> Carlos Sainz, 11 -> Sergio Perez, 14 -> Fernando Alonso, "
@@ -33,7 +36,7 @@ def generate_f1_commentary(event):
                 )},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=180,
+            max_tokens=120,
         )
         commentary = response.choices[0].message.content.strip()
     except Exception as e:
@@ -78,8 +81,8 @@ def main():
         data = json.load(f)
 
     results = []
-    for raw_event in data:
-        event = convert_event_data(raw_event)
+    for raw_event in range(20,45):
+        event = convert_event_data(data[raw_event])
         if event:
             result = process_event(event)
             if result:
