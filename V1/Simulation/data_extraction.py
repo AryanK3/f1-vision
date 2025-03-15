@@ -17,7 +17,7 @@ session_type = 'R'  # 'R' for Race
 
 # Simulation settings
 LIVE_MODE = True           # True for live simulation; set to False to save frames instead
-OUTPUT_DIR = "race_frames"   # Directory to save frames if LIVE_MODE is False
+OUTPUT_DIR = "race_frames"  # Directory to save frames if LIVE_MODE is False
 ZOOM_MODE = "dynamic"        # Options: "full_track", "dynamic", "focus_driver"
 FOCUS_DRIVER = "1"           # Driver number to focus on if ZOOM_MODE is "focus_driver"
 ZOOM_LEVEL = 400             # Size of zoom window in meters
