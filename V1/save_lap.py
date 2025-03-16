@@ -1,6 +1,8 @@
 import requests
 import json
 
+## This makes lap_data.json
+
 url = "https://api.openf1.org/v1/laps"
 
 driver_numbers = [81, 1, 11,  16, 63, 55, 14, 4, 44, 27, 22, 18, 23, 3, 20, 77, 24, 2, 31, 10]

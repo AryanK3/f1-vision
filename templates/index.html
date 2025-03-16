@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ race_name }} - Live Timing</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div class="dashboard">
+        <header>
+            <div class="race-title">
+                <img src="{{ url_for('static', filename='img/flag.png') }}" alt="Flag" class="flag-icon">
+                <h1>{{ race_name }}</h1>
+            </div>
+            <div class="race-timer">
+                <span id="race-time">00:00:00.000</span>
+                <div class="race-info">
+                    <span class="lap-info">100%</span>
+                    <span class="weather-info">
+                        <img src="{{ url_for('static', filename='img/cloud.svg') }}" alt="Weather" class="weather-icon">
+                        1.2m/s
+                    </span>
+                    <span class="temp-info">
+                        <img src="{{ url_for('static', filename='img/temp-air.svg') }}" alt="Air Temp" class="temp-icon">
+                        1.2m/s
+                    </span>
+                    <span class="track-info">
+                        <img src="{{ url_for('static', filename='img/temp-track.svg') }}" alt="Track Temp" class="track-icon">
+                        1.2m/s
+                    </span>
+                </div>
+            </div>
+        </header>
+
+        <div class="content-area">
+            <div class="timing-board">
+                <div class="timing-header">
+                    <div class="pos-header">P</div>
+                    <div class="driver-header">Driver</div>
+                    <div class="drs-header">DRS</div>
+                    <div class="tire-header">Tires</div>
+                    <div class="gap-header">Gap</div>
+                    <div class="times-header">Times</div>
+                    <div class="sections-header">
+                        <div>1</div>
+                        <div>2</div>
+                        <div>3</div>
+                    </div>
+                </div>
+
+                <div id="driver-rows" class="timing-rows">
+                    <!-- Rows will be populated by JavaScript -->
+                </div>
+            </div>
+
+            <div class="track-map-container">
+                <h2>Track Position</h2>
+                <div id="track-map">
+                    <!-- SVG will be inserted here by JavaScript -->
+                </div>
+                <div class="event-feed">
+                    <h3>Event Feed</h3>
+                    <ul id="event-list">
+                        <!-- Events will be populated by JavaScript -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+</body>
+</html>

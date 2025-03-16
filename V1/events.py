@@ -1,7 +1,7 @@
 import json
 import time
 import re
-
+#This file makes events.json
 def track():
     race_timer = 0.0
     events = []

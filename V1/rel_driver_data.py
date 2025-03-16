@@ -2,6 +2,9 @@ import requests
 import json
 from dateutil import parser
 
+# This makes intervals_data.json
+# But make sure the driver numbers are also obtainable
+
 url = "https://api.openf1.org/v1/intervals"
 driver_numbers = [81, 1, 11,  16, 63, 55, 14, 4, 44, 27, 22, 18, 23, 3, 20, 77, 24, 2, 31, 10]
 
