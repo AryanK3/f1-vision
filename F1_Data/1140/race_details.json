@@ -1,0 +1,39 @@
+{
+  "meeting_key": 1140,
+  "race_name": "Pre-Season Testing",
+  "official_name": "FORMULA 1 ARAMCO PRE-SEASON TESTING 2023",
+  "year": 2023,
+  "country": {
+    "name": "Bahrain",
+    "code": "BRN",
+    "key": 36
+  },
+  "circuit": {
+    "name": "Sakhir",
+    "location": "Sakhir",
+    "key": 63
+  },
+  "date_start": "2023-02-23T07:00:00+00:00",
+  "gmt_offset": "03:00:00",
+  "weather": {
+    "air_temperature": {
+      "avg": 26.8,
+      "min": 22.9,
+      "max": 31.5
+    },
+    "track_temperature": {
+      "avg": 36.3,
+      "min": 25.8,
+      "max": 44.2
+    },
+    "rainfall": {
+      "avg": 0,
+      "max": 0,
+      "has_rain": false
+    },
+    "humidity": {
+      "avg": 30.2
+    },
+    "sample_count": 1761
+  }
+}
