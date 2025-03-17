@@ -27,16 +27,30 @@ with open("new_car_data.json", "w") as f:
 
 import json
 import os
-with open('car_data.json', 'r') as file:
-    driver_data = json.load(file)
 
 if not os.path.exists('new_car_data'):
     os.makedirs('new_car_data')
 
-for driver in driver_data:
-    driver_id = driver['id']
+with open('V1/car_data.json', 'r') as file:
+    car_data = json.load(file)
+
+for driver in car_data:
+    driver_id = driver["id"]
     filename = f"driver_{driver_id}.json"
-    
+    data = []
+    positions = driver["positions"]
+
+    for position in positions:
+        data.append({
+            "rel_time": position[0],
+            "rpm": position[1],
+            "speed": position[2],
+            "n_gear": position[3],
+            "throttle": position[4],
+            "drs": position[5],
+            "brake": position[6]
+        })
+
     with open(f'new_car_data/{filename}', "w") as f:
-        json.dump(driver, f)
+        json.dump(data, f)
     
